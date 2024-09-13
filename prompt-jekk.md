@@ -37,42 +37,45 @@ Pour créer un blog qui reçoit automatiquement votre rapport HTML hebdomadaire 
 **Étape 1 : Créer un Workflow GitHub Actions**
 - Dans votre dépôt GitHub, créez un répertoire `.github/workflows` et ajoutez un fichier `deploy.yml` :
 
-  ```yaml
-  name: Deploy Report
+```yaml
+name: Deploy Report
 
-  on:
-    push:
-      branches:
-        - main
-    schedule:
-      - cron: '0 0 * * 0'  # Exécution hebdomadaire le dimanche à minuit
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * 0'  # Exécution hebdomadaire le dimanche à minuit
 
-  jobs:
-    build:
-      runs-on: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-      steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Assurez-vous que la version Python est correcte
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Assurez-vous que ce fichier existe et est complet
 
-      - name: Run script
-        run: python script.py
+    - name: Run script
+      run: python script.py  # Assurez-vous que le chemin est correct
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+    - name: Build Jekyll site
+      run: bundle exec jekyll build  # Assurez-vous que Jekyll est installé et configuré
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site  # Vérifiez que c'est le bon répertoire pour le déploiement
   ```
 
 **Étape 2 : Configurer le Script pour Publier le Rapport**

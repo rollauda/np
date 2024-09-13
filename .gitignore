@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 .DS_Store
 venv/
 rapport.html
 *.pyc
 __pycache__/
+=======
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+>>>>>>> 53fd8047df2861de576a7dc06c9879c4cf391157
