@@ -1,0 +1,5 @@
+.DS_Store
+venv/
+rapport.html
+*.pyc
+__pycache__/
