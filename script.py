@@ -21,6 +21,10 @@ import sys
 # Charger les variables d'environnement depuis le fichier .env
 load_dotenv()
 
+# Définir le chemin absolu vers votre projet
+BASE_DIR = Path('/Users/rollandauda/Github/veille')
+POSTS_DIR = os.path.join(BASE_DIR, '_posts')
+
 # Charger le modèle français de spaCy
 nlp = spacy.load('fr_core_news_sm')
 
@@ -119,7 +123,10 @@ def convert_html_to_markdown(html_content):
 def create_markdown_file(markdown_content, yaml_header):
     current_date = datetime.now().strftime("%Y-%m-%d")
     file_name = f"{current_date}-nouveautes-en-philosophie.md"
-    file_path = Path("_posts") / file_name
+    file_path = BASE_DIR / "_posts" / file_name
+
+    # Exemple d'utilisation : afficher le chemin pour vérification
+    print(f"Le chemin complet du fichier est : {file_path}")
 
     with open(file_path, "w", encoding="utf-8") as file:
         file.write(yaml_header)
