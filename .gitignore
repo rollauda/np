@@ -6,4 +6,3 @@ arch/
 local/
 prompts/
 .env
-script_log.txt

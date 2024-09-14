@@ -13,6 +13,13 @@ import html2text
 from pathlib import Path
 import html2text
 import yaml
+import os
+from dotenv import load_dotenv
+from github import Github
+import sys
+
+# Charger les variables d'environnement depuis le fichier .env
+load_dotenv()
 
 # Charger le modèle français de spaCy
 nlp = spacy.load('fr_core_news_sm')
@@ -92,6 +99,10 @@ def convert_html_to_markdown(html_content):
     h.ignore_links = False  # Activer la conversion des liens HTML en Markdown
     h.ignore_images = True  # Ignorer les images dans le HTML
 
+    # Convertir le HTML en Markdown
+    markdown_content = h.handle(html_content)
+    return markdown_content
+    
     # Convertir les liens HTML en Markdown
     markdown_content = h.handle(html_content)
 
@@ -156,6 +167,17 @@ rss_feeds = [
     'http://www.laviedesidees.fr/spip.php?page=backend',
     'https://www.nonfiction.fr/rss-critiques.xml',
     'http://philitt.fr/feed/',
+    'https://www.radiofrance.fr/rss/sciences-savoirs/philosophie',
+    'https://philosciences.com/?format=feed&type=rss',
+    'https://anthropogoniques.com/feed/',
+    'http://philosophia.fr/feed/',
+    'http://unphilosophe.wordpress.com/feed/',
+    'http://blog.ac-versailles.fr/oeildeminerve/index.php/feed/rss2',
+    'http://la-philosophie.com/feed',
+    'http://iphilo.fr/feed/',
+    'https://journals.openedition.org/asterion/backend?format=rssdocuments&type=review',
+    'https://journals.openedition.org/asterion/backend?format=rssdocuments',
+    'http://journals.openedition.org/leportique/backend?format=rssdocuments&type=review',
 ]
 
 def extract_best_article(feed_url, used_urls):
@@ -221,6 +243,32 @@ yaml_header = generate_yaml_header("philosophie française")
 # Créer un nouveau fichier Markdown
 markdown_file_path = create_markdown_file(markdown_content, yaml_header)
 
+# Récupérer le jeton d'accès depuis les variables d'environnement
+token = os.getenv('GITHUB_TOKEN')
+repo_name = 'rollauda/np'
+
+# Générer un nom de fichier avec la date actuelle
+current_date = datetime.now().strftime("%Y-%m-%d")
+file_name = f"{current_date}-nouveautes-en-philosophie.md"
+file_path = os.path.join('_posts', file_name)
+
+commit_message = 'Mise à jour automatique'
+
+# Initialiser l'objet GitHub
+g = Github(token)
+repo = g.get_repo(repo_name)
+
+# Lire le contenu du fichier Markdown
+with open(file_path, 'r') as file:
+    content = file.read()
+
+# Essayer de mettre à jour ou de créer le fichier sur GitHub
+try:
+    contents = repo.get_contents(file_path)
+    repo.update_file(contents.path, commit_message, content, contents.sha)
+except:
+    repo.create_file(file_path, commit_message, content)
+
 # Envoyer le rapport par e-mail
 send_email(html_content, "veille philosophique", "rolland.auda@gmail.com")
 
@@ -234,4 +282,5 @@ for article in best_articles:
     print(f"Summary: {article['summary']}")
     print(f"Keywords: {article['keywords']}\n")
     print(f"Rapport envoyé par e-mail et enregistré en tant que {markdown_file_path}")
+    print(f"Nouveau fichier de blog '{file_name}' téléversé sur le dépôt GitHub.")
 
