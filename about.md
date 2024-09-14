@@ -3,7 +3,7 @@ title: "About"
 layout: about
 ---
 
-Vous trouverez sur ce site une sélection hebdomadaire d'articles issus de différents sites d'actualité philosophique.
+Vous trouverez sur ce blog une sélection hebdomadaire d'articles issus de différents sites d'actualité philosophique.
 
 #### Sources :
 
