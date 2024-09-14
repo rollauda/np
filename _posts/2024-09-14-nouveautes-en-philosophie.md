@@ -6,40 +6,40 @@ date: 2024-09-14
 ---
 ## Actualités philosophiques
 
-#### Édouard Girard : Dostoïevski, ou la déraison dans l’histoire – ACTU
-PHILOSOPHIA
+#### Paul Ricoeur : L’imagination, cours à l’Université de Chicago (1975) –
+ACTU PHILOSOPHIA
 
-  * **Lien:** <https://www.actu-philosophia.com/edouard-girard-dostoievski-ou-la-deraison-dans-lhistoire/>
-  * **Date de Publication:** Tue, 03 Sep 2024 07:52:34 +0000
-  * **Résumé:** Se procurer l’ouvrage Peut-on lire l’œuvre de Dostoïevski en philosophe ? Celle-ci, essentiellement littéraire et journalistique, contient-elle une authentique philosophie ? Édouard Girard répond par l’affirmative, en mettant en œuvre une telle lecture philosophique de Dostoïevski. L’angle sous lequel la question de la philosophie de Dostoïevski est celle de sa philosophie de l’histoire. L’hypothèse de l’auteur est que Dostoïevski a bien bâti une philosophie de l’histoire, qui répond et critique la philosophie de l’histoire de Hegel. Dostoïevski, comme Marx, Kierkegaard, Nietzsche, Heidegger, Rosenzweig, Lévinas et tant d’autres, chercherait une nouvelle voie « après Hegel[1]», contre Hegel. Pour étayer sa démonstration, Édouard Girard commence par restituer le contexte intellectuel de la Russie du XIXème siècle, pour attester de l’hégélianisme ambiant qui s’y était répandu et que Dostoïevski n’a pu ignorer[2].
-  * **Mots-clés:** [conscience](conscience), [Dostoïevski](Dostoïevski), [histoire](histoire)
+  * **Lien:** <https://www.actu-philosophia.com/paul-ricoeur-limagination-cours-a-luniversite-de-chicago-1975/>
+  * **Date de Publication:** Mon, 26 Aug 2024 12:33:06 +0000
+  * **Résumé:** Se procurer l’ouvrage. Introduction Le livre qui est paru aux éditions du Seuil le 15 mars 2024, L’imagination, est la traduction vers le français d’un autre livre, Lectures on imagination paru quelques jours plus tôt (le 11 mars 2024) auprès des University of Chicago Press, et ces deux ouvrages, la version anglaise comme la version française correspondent à un cours que donna le philosophe français Paul Ricœur (1913-2005) au semestre d’automne 1975 lors de l’une de ses années d’enseignement à l’Université de Chicago (1970-1992). Outre l’événement éditorial majeur que cela représente, il s’agit d’une restitution à l’échelle contemporaine de la philosophie qui permet d’une part de compléter notre connaissance de la relation de Paul Ricœur à la philosophie et permet, d’autre part, ce qui paraît plus important encore, d’intégrer les apports doxologiques et réflexifs de la théorie de l’imagination dans l’histoire de la philosophie. En effet, lorsque Paul Ricœur donne ce cours la philosophie entretient avec le problème de l’imagination une relation problématique, notamment parce que la première a un rapport traditionnellement dominé par la philosophie de l’imagination reproductrice — de sorte que Ricœur, en s’aidant principalement de Kant et en s’appuyant sur Bachelard, va initier une réflexion de fond sur l’imagination créatrice.
+  * **Mots-clés:** [imagination](imagination), [Ricœur](Ricœur), [cours](cours)
 
-#### Le marché de la vertu. Critique de la consommation éthique
+#### Recension – Je est un nous. Enquête philosophique sur nos
+interdépendances avec le vivant.
 
-  * **Lien:** <https://www.implications-philosophiques.org/recension-le-marche-de-la-vertu-critique-de-la-consommation-ethique/>
-  * **Date de Publication:** Mon, 09 Sep 2024 08:00:28 +0000
-  * **Résumé:** Camille Roelens est Maître de conférences HDR en philosophie de l’éducation à l’Université Claude Bernard Lyon 1, INSPE de la Loire, laboratoire Éducation, Cultures, Politiques. Il est co-président de la Société Francophone de Philosophie de l’Éducation. Il est spécialisé dans les domaines de la philosophie politique et morale et des théories de la démocratie dans une perspective pratique touchant aux enjeux contemporains d’éducation et de formation, mais aussi de la pensée de Tocqueville et de ses héritages et du thème de l’individualisme démocratique. Estelle Ferrarese, Le marché de la vertu.
-  * **Mots-clés:** [éthique](éthique), [critique](critique), [consommation](consommation)
+  * **Lien:** <https://www.implications-philosophiques.org/recension-je-est-un-nous-enquete-philosophique-sur-nos-interdependances-avec-le-vivant/>
+  * **Date de Publication:** Mon, 02 Sep 2024 08:00:10 +0000
+  * **Résumé:** Jason Dufrasne est titulaire d’un master en philosophie de l’UCLouvain et sera prochainement agrégé de philosophie. Il a travaillé en tant que chargé de missions pour l’Université de Liège dans le cadre d’un projet de recherche en Science ouverte. Actuellement, il prépare un projet de thèse sur la pertinence de la première personne en éco-phénoménologie. Jean-Philippe Pierron, Je est un nous.
+  * **Mots-clés:** [humain](humain), [monde](monde), [vivre](vivre)
 
-#### Ukraine : une approche post-impériale
+#### La vie sociale des saints
 
-  * **Lien:** <https://laviedesidees.fr/Karl-Schlogel-L-avenir-se-joue-a-Kyiv>
+  * **Lien:** <https://laviedesidees.fr/Dominique-Barthelemy-Miracles-de-l-an-mil>
   * **Date de Publication:** N/A
-  * **Résumé:** L’avenir se joue à Kyiv a été écrit comme un cri d’alarme et de stupéfaction face à l’agression menée contre l’Ukraine par la Russie… en 2014. C’est un livre pionnier qui, prenant acte de la béance de l’Ukraine dans la « mental map » des Européens, s’attache à en restituer la place dans l’extraordinaire enchevêtrement historique de ce pays frontière dont le passé pluriel défie l’écriture d’un grand récit mono-ethnique national. Conçu dans l’anticipation redoutée de la catastrophe qui, depuis le 24 février 2022, s’impose aux yeux du monde, l’ouvrage de Karl Schlögel est une ressource de première importance pour qui veut comprendre l’originalité et la profonde européanité de ce pays, nation politique menacée, dont le destin engage celui du vieux continent. Les villes constituent l’observatoire privilégié par l’historien pour introduire le lecteur à la diversité socio-culturelle et historique de l’Ukraine, qu’il décline en autant de « portraits » dressés en foulant des pieds les cités, décryptant les lieux, des plus symboliques aux plus incarnés, des plus anciens aux plus actuels, certains déjà en ruines à l’image de l’urbicide entrepris à Donetsk à partir du printemps 2014.
-  * **Mots-clés:** [Ukraine](Ukraine), [grand](grand), [Karl](Karl)
+  * **Résumé:** Les Miracles de sainte Foy, une compilation de miracles mise à l’écrit au XIe siècle, rapporte les mésaventures comiques d’un serviteur chargé de sonner le cor pendant les processions. Découvrant que son instrument a été volé, il réclame âprement l’aide de la sainte, et voilà que le cor se met à sonner, démasquant le voleur (p. 163) ! Ce petit « jeu de sainte Foy », miracle cocasse accompli pour résoudre un incident, est en réalité représentatif du rôle rempli par les saints, qui permettent souvent de réguler les interactions sociales, à travers une véritable « grammaire » de l’hagiographie (p.
+  * **Mots-clés:** [saint](saint), [miracle](miracle), [an](an)
 
-#### Damiers, grilles et cubes dans le cinéma de fiction
+#### L’Empire romain, depuis le Cèdre jusqu’à l’Hysope
 
-  * **Lien:** <https://www.nonfiction.fr/article-12121-damiers-grilles-et-cubes-dans-le-cinema-de-fiction.htm>
-  * **Date de Publication:** Sun, 08 Sep 2024 11:00:00 +0000
-  * **Résumé:** Une réflexion collective érudite sur la présence de trois grandes formes géométriques dans le cinéma de fiction, en remontant le fil de l’histoire et de la théorie de l’art. En postface, Bruno Nassim Aboudrar s’interroge : à quoi « tient » cet ouvrage de théorie du cinéma sur ces trois figures/structures, à la fois proches et distinctes, que sont le damier, la grille et le cube ? La réponse n’est pas simple, tant les approches analytiques proposées sont multiples et se répartissent entre cinéma et autres arts. Plus évidente a priori est la lecture que souhaite éviter l’ouvrage : réduire les formes géométriques retenues à de simples motifs, symboles, thèmes ou instruments valant pour leur rôle narratif ou leur fonction ornementale. Il s’agit ici moins de s’intéresser aux œuvres d’art ou aux modalités de leur création qu’à des figures géométriques considérées comme des « formes réflexives qui nous renseignent sur le laboratoire de l’image rapporté au long terme de l’histoire » .
-  * **Mots-clés:** [grille](grille), [art](art), [film](film)
+  * **Lien:** <https://www.nonfiction.fr/article-12134-lempire-romain-depuis-le-cedre-jusqua-lhysope.htm>
+  * **Date de Publication:** Mon, 09 Sep 2024 10:00:00 +0000
+  * **Résumé:** Asimov, commentant l’ascension de l’Empire romain à partir de 29 av. J.C et expliquant son inexorable déclin jusqu’en 476, nous offre une magistrale leçon d’histoire de la fin de l’Antiquité romaine. Cinq siècles après sa naissance mythique en 753 av. J.-C, Rome était devenue « la plus grande puissance de toute la Méditerranée ».
+  * **Mots-clés:** [romain](romain), [empire](empire), [Rome](Rome)
 
-#### Rita Gombrowicz : « Pour Gombrowicz, tout écrivain est un exilé de
-l’intérieur
+#### Éditorial : faire la guerre à la guerre avec Charles Péguy – PHILITT
 
-  * **Lien:** [https://philitt.fr/2024/09/09/rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur/?utm_source=rss&utm;_medium=rss&utm;_campaign=rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur](https://philitt.fr/2024/09/09/rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur/?utm_source=rss&utm_medium=rss&utm_campaign=rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur)
-  * **Date de Publication:** Mon, 09 Sep 2024 06:31:39 +0000
-  * **Résumé:** Bakakaï est un recueil de douze nouvelles et le premier ouvrage de Witold Gombrowicz. Il doit son titre énigmatique à la déformation du nom d’une rue en Argentine. Publié une première fois en 1933, il reçut une critique mitigée et Gombrowicz dut subir un procès en « immaturité ».
-  * **Mots-clés:** [Gombrowicz](Gombrowicz), [œuvre](œuvre), [polonais](polonais)
+  * **Lien:** [https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm;_medium=rss&utm;_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy](https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm_medium=rss&utm_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy)
+  * **Date de Publication:** Tue, 10 Sep 2024 06:48:11 +0000
+  * **Résumé:** [Cet article est paru initialement dans PHILITT #15] À la fin du dernier millénaire, les Occidentaux ont fait un rêve, un rêve absurde à bien des égards, celui de la « fin de l’histoire », expression rendue célèbre par un article publié en 1989 par Francis Fukuyama. Anticipant la chute de l’Union soviétique, le politologue américain voyait dans l’échec historique du communisme la fin des luttes idéologiques et le triomphe mondial à venir des démocraties libérales. Ce rêve aura peut-être duré une dizaine d’années, jusqu’aux attentats du 11 septembre 2001 qui constituent toujours à ce jour la plus grande attaque sur le sol américain contre des populations civiles.
+  * **Mots-clés:** [guerre](guerre), [Péguy](Péguy), [faire](faire)
 
