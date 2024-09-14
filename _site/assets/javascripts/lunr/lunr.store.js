@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "Liens (fr)",
+        "excerpt":"Actualités philosophiques Le journaliste, escroc des vanités ? Lien: https://laviedesidees.fr/Le-journaliste-escroc-des-vanites Date de Publication: N/A Résumé: Les Éditions du sous-sol viennent de publier le livre « culte » de la journaliste Janet Malcom, sorti il y a 35 ans aux États-Unis [1] où il a eu un vif succès et qui...","categories": ["philosophie française"],
         "tags": [],
-        "url": "http://localhost:4000/newphi/jekyll/update/2024/09/13/welcome-to-jekyll.html"
+        "url": "http://localhost:4000/np/philosophie%20fran%C3%A7aise/2024/09/14/nouveautes-en-philosophie.html"
       }]

@@ -1,4 +1,4 @@
-# script consulter les articles des 30 derniers jours des feeds, et fichier texte used_articles
+# FONCTIONNE script consulter les articles des 30 derniers jours des feeds, CONVERTIT EN MARKDOWN AVEC YAML ET LIENS CLIQUABLES, et fichier texte used_articles
 
 import feedparser
 from newspaper import Article, Config
@@ -9,6 +9,16 @@ from textblob import TextBlob
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import html2text
+from pathlib import Path
+import html2text
+import yaml
+import os
+from dotenv import load_dotenv
+from github import Github
+
+# Charger les variables d'environnement depuis le fichier .env
+load_dotenv()
 
 # Charger le modèle français de spaCy
 nlp = spacy.load('fr_core_news_sm')
@@ -38,7 +48,7 @@ def generate_html_report(articles, filename="rapport.html"):
     html_content = f"""
     <html>
     <head>
-        <title>Nouveautés en philosophie - {current_date}</title>
+        <title>Veille philosophique</title>
         <style>
             body {{ font-family: Arial, sans-serif; }}
             .article {{ margin-bottom: 20px; padding: 10px; border-radius: 5px; }}
@@ -48,16 +58,15 @@ def generate_html_report(articles, filename="rapport.html"):
         </style>
     </head>
     <body>
-        <h1>Nouveautés en philosophie - {current_date}</h1>
-        <h2>Voici une sélection d'articles philosophiques du mois écoulé.</h2>
+        <h2>Actualités philosophiques</h2>
     """
     
     for index, article in enumerate(articles):
         color = colors[index % len(colors)]
-        keywords_links = ', '.join([f"<a href='#{kw[0]}'>{kw[0]}</a>" for kw in article['keywords'][:3]])
+        keywords_links = ', '.join([f"[{kw[0]}]({kw[0]})" for kw in article['keywords'][:3]])
         html_content += f"""
         <div class="article" style="background-color: {color};">
-            <h2>{article['title']}</h2>
+            <h4>{article['title']}</h4>
             <ul>
                 <li><strong>Lien:</strong> <a href="{article['url']}">{article['url']}</a></li>
                 <li><strong>Date de Publication:</strong> {article['publish_date']}</li>
@@ -67,36 +76,51 @@ def generate_html_report(articles, filename="rapport.html"):
         </div>
         """
     
-    html_content += """
-        <footer>
-            <h3>Sources :</h3>
-            <p>
-                <a href='https://www.actu-philosophia.com/'>Actu Philosophia</a>, 
-                <a href='http://www.implications-philosophiques.org/'>Implications philosophiques</a>, 
-                <a href='http://www.laviedesidees.fr/'>La vie des idées</a>, 
-                <a href='https://www.nonfiction.fr/'>Non Fiction</a>, 
-                <a href='http://philitt.fr'>Philitt</a>, 
-                <a href='https://www.radiofrance.fr/rss/sciences-savoirs/philosophie'>Radio France, Philosophie</a>,
-                <a href='https://philosciences.com'>Philo-sciences</a>, 
-                <a href='https://anthropogoniques.com/'>Anthropogoniques</a>,
-                <a href='http://philosophia.fr/'>Philosophia</a>,
-                <a href='http://unphilosophe.wordpress.com/'>Un Philosophe</a>, 
-                <a href='http://blog.ac-versailles.fr/oeildeminerve/index.php/'>L'Oeil de Minerve</a>, 
-                <a href='http://la-philosophie.com/'>La philosophie</a>, 
-                <a href='http://iphilo.fr/'>iPhilo</a>, 
-                <a href='https://journals.openedition.org/asterion/'>Asterion</a>, 
-                <a href='http://journals.openedition.org/leportique/'>Le Portique</a>
-            </p>
-        </footer>
-    </body>
-    </html>
-    """
-    
     # Écrire le contenu HTML dans un fichier
     with open(filename, "w", encoding="utf-8") as file:
         file.write(html_content)
     
     return html_content
+
+def generate_yaml_header(category):
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    yaml_header = f"""---
+layout: post
+title: "Liens (fr)"
+category: {category}
+date: {current_date}
+---
+"""
+    return yaml_header
+
+def convert_html_to_markdown(html_content):
+    h = html2text.HTML2Text()
+    h.ignore_links = False  # Activer la conversion des liens HTML en Markdown
+    h.ignore_images = True  # Ignorer les images dans le HTML
+
+    # Convertir les liens HTML en Markdown
+    markdown_content = h.handle(html_content)
+
+    # Remplacer les balises <a> par des liens Markdown
+    markdown_content = markdown_content.replace('<a href="', '[')
+    markdown_content = markdown_content.replace('</a>', '](')
+
+    # Remplacer les balises <strong> par des mots-clés Markdown
+    markdown_content = markdown_content.replace('<strong>', '**')
+    markdown_content = markdown_content.replace('</strong>', '**')
+
+    return markdown_content
+
+def create_markdown_file(markdown_content, yaml_header):
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    file_name = f"{current_date}-nouveautes-en-philosophie.md"
+    file_path = Path("_posts") / file_name
+
+    with open(file_path, "w", encoding="utf-8") as file:
+        file.write(yaml_header)
+        file.write(markdown_content)
+
+    return file_path
 
 def send_email(html_content, subject, to_email):
     smtp_server = "smtp.gmail.com"
@@ -205,8 +229,43 @@ for feed_url in rss_feeds:
 # Générer le rapport HTML
 html_content = generate_html_report(best_articles)
 
+# Convertir le HTML en Markdown
+markdown_content = convert_html_to_markdown(html_content)
+
+# Créer l'en-tête YAML
+yaml_header = generate_yaml_header("philosophie française")
+
+# Créer un nouveau fichier Markdown
+markdown_file_path = create_markdown_file(markdown_content, yaml_header)
+
+# Récupérer le jeton d'accès depuis les variables d'environnement
+token = os.getenv('GITHUB_TOKEN')
+repo_name = 'rollauda/np'
+
+# Générer un nom de fichier avec la date actuelle
+current_date = datetime.now().strftime("%Y-%m-%d")
+file_name = f"{current_date}-nouveautes-en-philosophie.md"
+file_path = os.path.join('_posts', file_name)
+
+commit_message = 'Mise à jour automatique'
+
+# Initialiser l'objet GitHub
+g = Github(token)
+repo = g.get_repo(repo_name)
+
+# Lire le contenu du fichier Markdown
+with open(file_path, 'r') as file:
+    content = file.read()
+
+# Essayer de mettre à jour ou de créer le fichier sur GitHub
+try:
+    contents = repo.get_contents(file_path)
+    repo.update_file(contents.path, commit_message, content, contents.sha)
+except:
+    repo.create_file(file_path, commit_message, content)
+
 # Envoyer le rapport par e-mail
-send_email(html_content, "Nouveautés en philosophie", "rolland.auda@gmail.com")
+send_email(html_content, "veille philosophique", "rolland.auda@gmail.com")
 
 # Mettre à jour le fichier avec les nouvelles URLs utilisées
 write_used_urls([article['url'] for article in best_articles])
@@ -217,4 +276,6 @@ for article in best_articles:
     print(f"Publish Date: {article['publish_date']}")
     print(f"Summary: {article['summary']}")
     print(f"Keywords: {article['keywords']}\n")
+    print(f"Rapport envoyé par e-mail et enregistré en tant que {markdown_file_path}")
+    print(f"Nouveau fichier de blog '{file_name}' téléversé sur le dépôt GitHub.")
 

@@ -1,7 +1,5 @@
-# script consulter les articles des 7 derniers jours des feeds, et fichier texte used_articles
-
 import feedparser
-from newspaper import Article, Config
+from newspaper import Article
 from datetime import datetime, timedelta
 import spacy
 from collections import Counter
@@ -74,7 +72,7 @@ def generate_html_report(articles, filename="rapport.html"):
     with open(filename, "w", encoding="utf-8") as file:
         file.write(html_content)
     
-    return html_content
+    return html_content  # Assurez-vous que la fonction retourne le contenu HTML
 
 def send_email(html_content, subject, to_email):
     smtp_server = "smtp.gmail.com"
@@ -83,9 +81,9 @@ def send_email(html_content, subject, to_email):
     app_password = "ybxn ivvs twwj smvi"  # Remplacez par votre mot de passe d'application
 
     message = MIMEMultipart("alternative")
-    message["Subject"] = subject
-    message["From"] = sender_email
-    message["To"] = to_email
+    message["Subject"] = "Nouveautés en philosophie"
+    message["From"] = "rolland.auda@gmail.com"
+    message["To"] = "rolland.auda@gmail.com"
 
     message.attach(MIMEText(html_content, "html"))
 
@@ -97,18 +95,6 @@ def send_email(html_content, subject, to_email):
             print("E-mail envoyé avec succès")
     except Exception as e:
         print(f"Erreur lors de l'envoi de l'e-mail: {e}")
-
-def read_used_urls(filename="used_articles.txt"):
-    try:
-        with open(filename, "r") as file:
-            return set(file.read().splitlines())
-    except FileNotFoundError:
-        return set()
-
-def write_used_urls(urls, filename="used_articles.txt"):
-    with open(filename, "a") as file:
-        for url in urls:
-            file.write(url + "\n")
 
 rss_feeds = [
     'https://www.actu-philosophia.com/feed/',
@@ -130,70 +116,55 @@ rss_feeds = [
     'http://journals.openedition.org/leportique/backend?format=rssdocuments&type=review',
 ]
 
-def extract_best_article(feed_url, used_urls):
-    print(f"Fetching articles from: {feed_url}")
-    feed = feedparser.parse(feed_url, request_headers={'Cache-Control': 'no-cache'})
+def extract_recent_articles(feed_url, days=7):
+    feed = feedparser.parse(feed_url)
     articles = []
     now = datetime.now()
-    one_month_ago = now - timedelta(days=7)
+    cutoff_date = now - timedelta(days=days)
 
     for entry in feed.entries:
-        article_url = entry.link
-        if article_url in used_urls:
-            continue  # Skip articles already used in the previous report
-
         published_date = datetime(*entry.published_parsed[:6]) if 'published_parsed' in entry else None
-        if published_date and published_date < one_month_ago:
-            continue  # Skip articles older than one month
-
-        config = Config()
-        config.memoize_articles = False  # Désactiver la mise en cache des articles
-        article = Article(article_url, config=config)
-        try:
-            article.download()
-            article.parse()
-            processed_text = preprocess_text(article.text)
-            sentiment = analyze_sentiment(article.text)
-            keywords = extract_keywords(processed_text)
-            summary = generate_summary(article.text)
-            articles.append({
-                'title': article.title,
-                'url': article_url,
-                'publish_date': entry.published if 'published' in entry else 'N/A',
-                'summary': summary,
-                'sentiment': sentiment,
-                'keywords': keywords
-            })
-        except Exception as e:
-            print(f"Erreur lors du traitement de l'article {article_url}: {e}")
+        if published_date and published_date >= cutoff_date:
+            article_url = entry.link
+            article = Article(article_url)
+            try:
+                article.download()
+                article.parse()
+                processed_text = preprocess_text(article.text)
+                sentiment = analyze_sentiment(article.text)
+                keywords = extract_keywords(processed_text)
+                summary = generate_summary(article.text)
+                articles.append({
+                    'title': article.title,
+                    'url': article_url,
+                    'publish_date': published_date.strftime('%Y-%m-%d'),
+                    'summary': summary,
+                    'sentiment': sentiment,
+                    'keywords': keywords
+                })
+            except Exception as e:
+                print(f"Erreur lors du traitement de l'article {article_url}: {e}")
     
-    # Sélectionner le meilleur article en fonction du sentiment et du nombre de mots-clés
-    if articles:
-        best_article = max(articles, key=lambda x: (x['sentiment'], len(x['keywords'])))
-        return best_article
-    return None
+    return articles
 
-used_urls = read_used_urls()
-best_articles = []
+all_articles = []
 for feed_url in rss_feeds:
-    best_article = extract_best_article(feed_url, used_urls)
-    if best_article:
-        best_articles.append(best_article)
-        used_urls.add(best_article['url'])
+    recent_articles = extract_recent_articles(feed_url)
+    all_articles.extend(recent_articles)
+
+all_articles.sort(key=lambda x: (x['sentiment'], len(x['keywords'])), reverse=True)
+
+top_articles = all_articles[:5]
 
 # Générer le rapport HTML
-html_content = generate_html_report(best_articles)
+html_content = generate_html_report(top_articles)
 
 # Envoyer le rapport par e-mail
 send_email(html_content, "Nouveautés en philosophie", "rolland.auda@gmail.com")
 
-# Mettre à jour le fichier avec les nouvelles URLs utilisées
-write_used_urls([article['url'] for article in best_articles])
-
-for article in best_articles:
+for article in top_articles:
     print(f"Title: {article['title']}")
     print(f"URL: {article['url']}")
     print(f"Publish Date: {article['publish_date']}")
     print(f"Summary: {article['summary']}")
     print(f"Keywords: {article['keywords']}\n")
-

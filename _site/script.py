@@ -1,11 +1,18 @@
+# FONCTIONNE script consulter les articles des 30 derniers jours des feeds, CONVERTIT EN MARKDOWN AVEC YAML ET LIENS CLIQUABLES, et fichier texte used_articles
+
 import feedparser
 from newspaper import Article, Config
+from datetime import datetime, timedelta
 import spacy
 from collections import Counter
 from textblob import TextBlob
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import html2text
+from pathlib import Path
+import html2text
+import yaml
 
 # Charger le modèle français de spaCy
 nlp = spacy.load('fr_core_news_sm')
@@ -30,29 +37,30 @@ def generate_summary(text, sentence_count=3):
 
 def generate_html_report(articles, filename="rapport.html"):
     colors = ["#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF"]  # Couleurs pastel
+    current_date = datetime.now().strftime("%Y-%m-%d")
     
-    html_content = """
+    html_content = f"""
     <html>
     <head>
-        <title>Nouveautés en philosophie</title>
+        <title>Veille philosophique</title>
         <style>
-            body { font-family: Arial, sans-serif; }
-            .article { margin-bottom: 20px; padding: 10px; border-radius: 5px; }
-            h2 { color: #2E4053; }
-            p { margin: 5px 0; }
-            ul { list-style-type: disc; padding-left: 20px; }
+            body {{ font-family: Arial, sans-serif; }}
+            .article {{ margin-bottom: 20px; padding: 10px; border-radius: 5px; }}
+            h2 {{ color: #2E4053; }}
+            p {{ margin: 5px 0; }}
+            ul {{ list-style-type: disc; padding-left: 20px; }}
         </style>
     </head>
     <body>
-        <h1>Nouveautés en philosophie</h1>
+        <h2>Actualités philosophiques</h2>
     """
     
     for index, article in enumerate(articles):
         color = colors[index % len(colors)]
-        keywords_links = ', '.join([f"<a href='#{kw[0]}'>{kw[0]}</a>" for kw in article['keywords'][:3]])
+        keywords_links = ', '.join([f"[{kw[0]}]({kw[0]})" for kw in article['keywords'][:3]])
         html_content += f"""
         <div class="article" style="background-color: {color};">
-            <h2>{article['title']}</h2>
+            <h4>{article['title']}</h4>
             <ul>
                 <li><strong>Lien:</strong> <a href="{article['url']}">{article['url']}</a></li>
                 <li><strong>Date de Publication:</strong> {article['publish_date']}</li>
@@ -62,16 +70,51 @@ def generate_html_report(articles, filename="rapport.html"):
         </div>
         """
     
-    html_content += """
-    </body>
-    </html>
-    """
-    
     # Écrire le contenu HTML dans un fichier
     with open(filename, "w", encoding="utf-8") as file:
         file.write(html_content)
     
     return html_content
+
+def generate_yaml_header(category):
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    yaml_header = f"""---
+layout: post
+title: "Liens (fr)"
+category: {category}
+date: {current_date}
+---
+"""
+    return yaml_header
+
+def convert_html_to_markdown(html_content):
+    h = html2text.HTML2Text()
+    h.ignore_links = False  # Activer la conversion des liens HTML en Markdown
+    h.ignore_images = True  # Ignorer les images dans le HTML
+
+    # Convertir les liens HTML en Markdown
+    markdown_content = h.handle(html_content)
+
+    # Remplacer les balises <a> par des liens Markdown
+    markdown_content = markdown_content.replace('<a href="', '[')
+    markdown_content = markdown_content.replace('</a>', '](')
+
+    # Remplacer les balises <strong> par des mots-clés Markdown
+    markdown_content = markdown_content.replace('<strong>', '**')
+    markdown_content = markdown_content.replace('</strong>', '**')
+
+    return markdown_content
+
+def create_markdown_file(markdown_content, yaml_header):
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    file_name = f"{current_date}-nouveautes-en-philosophie.md"
+    file_path = Path("_posts") / file_name
+
+    with open(file_path, "w", encoding="utf-8") as file:
+        file.write(yaml_header)
+        file.write(markdown_content)
+
+    return file_path
 
 def send_email(html_content, subject, to_email):
     smtp_server = "smtp.gmail.com"
@@ -116,26 +159,23 @@ rss_feeds = [
     'https://www.radiofrance.fr/rss/sciences-savoirs/philosophie',
     'https://philosciences.com/?format=feed&type=rss',
     'https://anthropogoniques.com/feed/',
-    'http://philosophia.fr/feed/',
-    'http://unphilosophe.wordpress.com/feed/',
-    'http://blog.ac-versailles.fr/oeildeminerve/index.php/feed/rss2',
-    'http://la-philosophie.com/feed',
-    'http://iphilo.fr/feed/',
-    'https://journals.openedition.org/asterion/backend?format=rssdocuments&type=review',
-    'https://journals.openedition.org/asterion/backend?format=rssdocuments',
-    'http://blog.ac-versailles.fr/oeildeminerve/index.php/feed/rss2',
-    'http://journals.openedition.org/leportique/backend?format=rssdocuments&type=review',
 ]
 
 def extract_best_article(feed_url, used_urls):
     print(f"Fetching articles from: {feed_url}")
     feed = feedparser.parse(feed_url, request_headers={'Cache-Control': 'no-cache'})
     articles = []
+    now = datetime.now()
+    one_month_ago = now - timedelta(days=30)
 
     for entry in feed.entries:
         article_url = entry.link
         if article_url in used_urls:
             continue  # Skip articles already used in the previous report
+
+        published_date = datetime(*entry.published_parsed[:6]) if 'published_parsed' in entry else None
+        if published_date and published_date < one_month_ago:
+            continue  # Skip articles older than one month
 
         config = Config()
         config.memoize_articles = False  # Désactiver la mise en cache des articles
@@ -175,8 +215,17 @@ for feed_url in rss_feeds:
 # Générer le rapport HTML
 html_content = generate_html_report(best_articles)
 
+# Convertir le HTML en Markdown
+markdown_content = convert_html_to_markdown(html_content)
+
+# Créer l'en-tête YAML
+yaml_header = generate_yaml_header("philosophie française")
+
+# Créer un nouveau fichier Markdown
+markdown_file_path = create_markdown_file(markdown_content, yaml_header)
+
 # Envoyer le rapport par e-mail
-send_email(html_content, "Nouveautés en philosophie", "rolland.auda@gmail.com")
+send_email(html_content, "veille philosophique", "rolland.auda@gmail.com")
 
 # Mettre à jour le fichier avec les nouvelles URLs utilisées
 write_used_urls([article['url'] for article in best_articles])
@@ -187,3 +236,5 @@ for article in best_articles:
     print(f"Publish Date: {article['publish_date']}")
     print(f"Summary: {article['summary']}")
     print(f"Keywords: {article['keywords']}\n")
+    print(f"Rapport envoyé par e-mail et enregistré en tant que {markdown_file_path}")
+
