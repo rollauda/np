@@ -250,6 +250,18 @@ try:
     print("Accès au dépôt réussi.")
 except github.GithubException as e:
     print(f"Erreur d'accès au dépôt : {e}")
+# Récupérer le token GitHub
+github_token = os.getenv('GITHUB_TOKEN')
+if not github_token:
+    raise ValueError("Le token GitHub n'est pas défini dans le fichier .env")
+
+# Initialiser l'objet GitHub
+g = Github(github_token)
+try:
+    repo = g.get_repo("rollauda/np")
+    print("Accès au dépôt réussi.")
+except github.GithubException as e:
+    print(f"Erreur d'accès au dépôt : {e}")
 
 # Générer un nom de fichier avec la date actuelle
 current_date = datetime.now().strftime("%Y-%m-%d")

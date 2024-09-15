@@ -11,6 +11,9 @@ https://www.actu-philosophia.com/paul-ricoeur-limagination-cours-a-luniversite-d
 https://www.implications-philosophiques.org/recension-je-est-un-nous-enquete-philosophique-sur-nos-interdependances-avec-le-vivant/
 https://laviedesidees.fr/Dominique-Barthelemy-Miracles-de-l-an-mil
 https://www.nonfiction.fr/article-12134-lempire-romain-depuis-le-cedre-jusqua-lhysope.htm
+<<<<<<< HEAD
 https://www.implications-philosophiques.org/compte-rendu-critique-le-second-age-de-lindividu-pour-une-nouvelle-emancipation/
 https://laviedesidees.fr/Encadrer-les-temps-partiels-et-fragmentes
 https://www.nonfiction.fr/article-12139-the-gallic-republic-a-forgotten-political-construction.htm
+=======
+>>>>>>> 362ae6e8a51ccf309660a24417e8298045da4047
