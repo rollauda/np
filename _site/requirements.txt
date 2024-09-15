@@ -1,4 +1,0 @@
-feedparser
-newspaper3k
-spacy
-textblob
