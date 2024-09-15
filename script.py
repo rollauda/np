@@ -46,6 +46,14 @@ def generate_summary(text, sentence_count=3):
     sentences = text.split('. ')
     return '. '.join(sentences[:sentence_count]) + '.'
 
+def truncate_title(title, max_words=6):
+    # Divisez le titre en mots
+    words = title.split()
+    # Tronquez le titre à max_words mots
+    if len(words) > max_words:
+        return ' '.join(words[:max_words]) + '...'
+    return title
+
 def generate_html_report(articles, filename="rapport.html"):
     colors = ["#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF"]  # Couleurs pastel
     current_date = datetime.now().strftime("%Y-%m-%d")
@@ -68,10 +76,11 @@ def generate_html_report(articles, filename="rapport.html"):
     
     for index, article in enumerate(articles):
         color = colors[index % len(colors)]
+        truncated_title = truncate_title(article['title'])  # Tronquer le titre à 6 mots
         keywords_links = ', '.join([f"[{kw[0]}]({kw[0]})" for kw in article['keywords'][:3]])
         html_content += f"""
         <div class="article" style="background-color: {color};">
-            <h4>{article['title']}</h4>
+            <h4>{truncated_title}</h4>
             <ul>
                 <li><strong>Lien:</strong> <a href="{article['url']}">{article['url']}</a></li>
                 <li><strong>Date de Publication:</strong> {article['publish_date']}</li>
@@ -120,10 +129,13 @@ def convert_html_to_markdown(html_content):
 
     return markdown_content
 
-def create_markdown_file(markdown_content, yaml_header):
+def create_markdown_file(markdown_content, yaml_header, tags):
     current_date = datetime.now().strftime("%Y-%m-%d")
     file_name = f"{current_date}-nouveautes-en-philosophie.md"
     file_path = BASE_DIR / "_posts" / file_name
+
+    # Ajouter les tags à l'en-tête YAML
+    yaml_header += f"tags: {', '.join(tags)}\n"
 
     # Exemple d'utilisation : afficher le chemin pour vérification
     print(f"Le chemin complet du fichier est : {file_path}")
@@ -133,6 +145,12 @@ def create_markdown_file(markdown_content, yaml_header):
         file.write(markdown_content)
 
     return file_path
+
+# Utilisation de la fonction
+tags = ["philosophie"]
+keywords = extract_keywords(article_text)  # Extraction des mots-clés
+tags.extend(keywords)  # Ajout des mots-clés aux tags
+markdown_file_path = create_markdown_file(markdown_content, yaml_header, tags)
 
 def send_email(html_content, subject, to_email):
     smtp_server = "smtp.gmail.com"
