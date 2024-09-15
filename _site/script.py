@@ -13,6 +13,17 @@ import html2text
 from pathlib import Path
 import html2text
 import yaml
+import os
+from dotenv import load_dotenv
+from github import Github
+import sys
+
+# Charger les variables d'environnement depuis le fichier .env
+load_dotenv()
+
+# Définir le chemin absolu vers votre projet
+BASE_DIR = Path('/Users/rollandauda/Github/veille')
+POSTS_DIR = os.path.join(BASE_DIR, '_posts')
 
 # Charger le modèle français de spaCy
 nlp = spacy.load('fr_core_news_sm')
@@ -92,6 +103,10 @@ def convert_html_to_markdown(html_content):
     h.ignore_links = False  # Activer la conversion des liens HTML en Markdown
     h.ignore_images = True  # Ignorer les images dans le HTML
 
+    # Convertir le HTML en Markdown
+    markdown_content = h.handle(html_content)
+    return markdown_content
+    
     # Convertir les liens HTML en Markdown
     markdown_content = h.handle(html_content)
 
@@ -108,7 +123,10 @@ def convert_html_to_markdown(html_content):
 def create_markdown_file(markdown_content, yaml_header):
     current_date = datetime.now().strftime("%Y-%m-%d")
     file_name = f"{current_date}-nouveautes-en-philosophie.md"
-    file_path = Path("_posts") / file_name
+    file_path = BASE_DIR / "_posts" / file_name
+
+    # Exemple d'utilisation : afficher le chemin pour vérification
+    print(f"Le chemin complet du fichier est : {file_path}")
 
     with open(file_path, "w", encoding="utf-8") as file:
         file.write(yaml_header)
@@ -159,6 +177,15 @@ rss_feeds = [
     'https://www.radiofrance.fr/rss/sciences-savoirs/philosophie',
     'https://philosciences.com/?format=feed&type=rss',
     'https://anthropogoniques.com/feed/',
+    'http://philosophia.fr/feed/',
+    'http://unphilosophe.wordpress.com/feed/',
+    'http://blog.ac-versailles.fr/oeildeminerve/index.php/feed/rss2',
+    'http://la-philosophie.com/feed',
+    'http://iphilo.fr/feed/',
+    'https://journals.openedition.org/asterion/backend?format=rssdocuments&type=review',
+    'https://journals.openedition.org/asterion/backend?format=rssdocuments',
+    'http://journals.openedition.org/leportique/backend?format=rssdocuments&type=review',
+    'http://les-livres-de-philosophie.blogspot.com/feeds/posts/default',
 ]
 
 def extract_best_article(feed_url, used_urls):
@@ -224,6 +251,37 @@ yaml_header = generate_yaml_header("philosophie française")
 # Créer un nouveau fichier Markdown
 markdown_file_path = create_markdown_file(markdown_content, yaml_header)
 
+# Récupérer le token GitHub
+github_token = os.getenv('GITHUB_TOKEN')
+if not github_token:
+    raise ValueError("Le token GitHub n'est pas défini dans le fichier .env")
+
+# Initialiser l'objet GitHub
+g = Github(github_token)
+try:
+    repo = g.get_repo("rollauda/np")
+    print("Accès au dépôt réussi.")
+except github.GithubException as e:
+    print(f"Erreur d'accès au dépôt : {e}")
+
+# Générer un nom de fichier avec la date actuelle
+current_date = datetime.now().strftime("%Y-%m-%d")
+file_name = f"{current_date}-nouveautes-en-philosophie.md"
+file_path = os.path.join('_posts', file_name)
+
+commit_message = 'Mise à jour automatique'
+
+# Lire le contenu du fichier Markdown
+with open(file_path, 'r') as file:
+    content = file.read()
+
+# Essayer de mettre à jour ou de créer le fichier sur GitHub
+try:
+    contents = repo.get_contents(file_path)
+    repo.update_file(contents.path, commit_message, content, contents.sha)
+except:
+    repo.create_file(file_path, commit_message, content)
+
 # Envoyer le rapport par e-mail
 send_email(html_content, "veille philosophique", "rolland.auda@gmail.com")
 
@@ -237,4 +295,5 @@ for article in best_articles:
     print(f"Summary: {article['summary']}")
     print(f"Keywords: {article['keywords']}\n")
     print(f"Rapport envoyé par e-mail et enregistré en tant que {markdown_file_path}")
+    print(f"Nouveau fichier de blog '{file_name}' téléversé sur le dépôt GitHub.")
 

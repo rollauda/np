@@ -185,6 +185,7 @@ rss_feeds = [
     'https://journals.openedition.org/asterion/backend?format=rssdocuments&type=review',
     'https://journals.openedition.org/asterion/backend?format=rssdocuments',
     'http://journals.openedition.org/leportique/backend?format=rssdocuments&type=review',
+    'http://les-livres-de-philosophie.blogspot.com/feeds/posts/default',
 ]
 
 def extract_best_article(feed_url, used_urls):
@@ -250,9 +251,18 @@ yaml_header = generate_yaml_header("philosophie française")
 # Créer un nouveau fichier Markdown
 markdown_file_path = create_markdown_file(markdown_content, yaml_header)
 
-# Récupérer le jeton d'accès depuis les variables d'environnement
-token = os.getenv('GITHUB_TOKEN')
-repo_name = 'rollauda/np'
+# Récupérer le token GitHub
+github_token = os.getenv('GITHUB_TOKEN')
+if not github_token:
+    raise ValueError("Le token GitHub n'est pas défini dans le fichier .env")
+
+# Initialiser l'objet GitHub
+g = Github(github_token)
+try:
+    repo = g.get_repo("rollauda/np")
+    print("Accès au dépôt réussi.")
+except github.GithubException as e:
+    print(f"Erreur d'accès au dépôt : {e}")
 
 # Générer un nom de fichier avec la date actuelle
 current_date = datetime.now().strftime("%Y-%m-%d")
@@ -260,10 +270,6 @@ file_name = f"{current_date}-nouveautes-en-philosophie.md"
 file_path = os.path.join('_posts', file_name)
 
 commit_message = 'Mise à jour automatique'
-
-# Initialiser l'objet GitHub
-g = Github(token)
-repo = g.get_repo(repo_name)
 
 # Lire le contenu du fichier Markdown
 with open(file_path, 'r') as file:

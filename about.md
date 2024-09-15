@@ -1,6 +1,7 @@
 ---
-title: "About"
-layout: about
+layout: page
+title: About
+permalink: /about/
 ---
 
 Vous trouverez sur ce blog une sélection hebdomadaire d'articles issus de différents sites d'actualité philosophique.
