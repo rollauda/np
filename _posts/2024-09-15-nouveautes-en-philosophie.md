@@ -6,17 +6,32 @@ date: 2024-09-15
 ---
 ## Actualités philosophiques
 
-#### Le journaliste, escroc des vanités ?
+#### Édouard Girard : Dostoïevski, ou la déraison dans l’histoire – ACTU
+PHILOSOPHIA
 
-  * **Lien:** <https://laviedesidees.fr/Le-journaliste-escroc-des-vanites>
+  * **Lien:** <https://www.actu-philosophia.com/edouard-girard-dostoievski-ou-la-deraison-dans-lhistoire/>
+  * **Date de Publication:** Tue, 03 Sep 2024 07:52:34 +0000
+  * **Résumé:** Se procurer l’ouvrage Peut-on lire l’œuvre de Dostoïevski en philosophe ? Celle-ci, essentiellement littéraire et journalistique, contient-elle une authentique philosophie ? Édouard Girard répond par l’affirmative, en mettant en œuvre une telle lecture philosophique de Dostoïevski. L’angle sous lequel la question de la philosophie de Dostoïevski est celle de sa philosophie de l’histoire. L’hypothèse de l’auteur est que Dostoïevski a bien bâti une philosophie de l’histoire, qui répond et critique la philosophie de l’histoire de Hegel. Dostoïevski, comme Marx, Kierkegaard, Nietzsche, Heidegger, Rosenzweig, Lévinas et tant d’autres, chercherait une nouvelle voie « après Hegel[1]», contre Hegel. Pour étayer sa démonstration, Édouard Girard commence par restituer le contexte intellectuel de la Russie du XIXème siècle, pour attester de l’hégélianisme ambiant qui s’y était répandu et que Dostoïevski n’a pu ignorer[2].
+  * **Mots-clés:** [conscience](conscience), [Dostoïevski](Dostoïevski), [histoire](histoire)
+
+#### Le marché de la vertu. Critique de la consommation éthique
+
+  * **Lien:** <https://www.implications-philosophiques.org/recension-le-marche-de-la-vertu-critique-de-la-consommation-ethique/>
+  * **Date de Publication:** Mon, 09 Sep 2024 08:00:28 +0000
+  * **Résumé:** Camille Roelens est Maître de conférences HDR en philosophie de l’éducation à l’Université Claude Bernard Lyon 1, INSPE de la Loire, laboratoire Éducation, Cultures, Politiques. Il est co-président de la Société Francophone de Philosophie de l’Éducation. Il est spécialisé dans les domaines de la philosophie politique et morale et des théories de la démocratie dans une perspective pratique touchant aux enjeux contemporains d’éducation et de formation, mais aussi de la pensée de Tocqueville et de ses héritages et du thème de l’individualisme démocratique. Estelle Ferrarese, Le marché de la vertu.
+  * **Mots-clés:** [éthique](éthique), [critique](critique), [consommation](consommation)
+
+#### Ukraine : une approche post-impériale
+
+  * **Lien:** <https://laviedesidees.fr/Karl-Schlogel-L-avenir-se-joue-a-Kyiv>
   * **Date de Publication:** N/A
-  * **Résumé:** Les Éditions du sous-sol viennent de publier le livre « culte » de la journaliste Janet Malcom, sorti il y a 35 ans aux États-Unis [1] où il a eu un vif succès et qui serait aujourd’hui encore étudié dans toutes les écoles de journalisme. En France, épuisé en quelques semaines, il a dû être réédité. En 1984, MacDonald, un médecin militaire condamné et incarcéré sans preuve pour le meurtre de sa femme enceinte et de ses deux filles en 1979, intente un procès pour rupture du contrat de confiance au journaliste McGinniss qui, après les semaines qu’il avait passées à ses côtés parmi son équipe de défense pour mieux le comprendre et l’amitié qu’il lui avait exprimée, le dépeint, dans son livre comme un assassin psychopathe. À l’issue du procès, à défaut d’unanimité parmi les six membres du jury, le journaliste n’est pas condamné et un arrangement entre les deux parties est trouvé : McGinniss versera 325000 dollars à MacDonald. À partir de cette affaire, Janet Malcom, elle-même poursuivie en justice pour diffamation par un psychanalyste américain dont elle a tracé le portrait, explore la relation du journaliste de non-fiction [2] et de son « sujet », c’est-à-dire la personne sur laquelle porte son livre. Malcom mène l’enquête auprès des différents acteurs de l’affaire sur la manière dont le journaliste a travaillé.
-  * **Mots-clés:** [relation](relation), [journaliste](journaliste), [place](place)
+  * **Résumé:** L’avenir se joue à Kyiv a été écrit comme un cri d’alarme et de stupéfaction face à l’agression menée contre l’Ukraine par la Russie… en 2014. C’est un livre pionnier qui, prenant acte de la béance de l’Ukraine dans la « mental map » des Européens, s’attache à en restituer la place dans l’extraordinaire enchevêtrement historique de ce pays frontière dont le passé pluriel défie l’écriture d’un grand récit mono-ethnique national. Conçu dans l’anticipation redoutée de la catastrophe qui, depuis le 24 février 2022, s’impose aux yeux du monde, l’ouvrage de Karl Schlögel est une ressource de première importance pour qui veut comprendre l’originalité et la profonde européanité de ce pays, nation politique menacée, dont le destin engage celui du vieux continent. Les villes constituent l’observatoire privilégié par l’historien pour introduire le lecteur à la diversité socio-culturelle et historique de l’Ukraine, qu’il décline en autant de « portraits » dressés en foulant des pieds les cités, décryptant les lieux, des plus symboliques aux plus incarnés, des plus anciens aux plus actuels, certains déjà en ruines à l’image de l’urbicide entrepris à Donetsk à partir du printemps 2014.
+  * **Mots-clés:** [Ukraine](Ukraine), [grand](grand), [Karl](Karl)
 
-#### Comment le marché littéraire fait naître...
+#### Damiers, grilles et cubes dans le cinéma de fiction
 
-  * **Lien:** <https://www.nonfiction.fr/article-12126-comment-le-marche-litteraire-fait-naitre-des-auteurs-mondiaux.htm>
-  * **Date de Publication:** Fri, 06 Sep 2024 13:00:00 +0000
-  * **Résumé:** Gisèle Sapiro aborde en sociologue les grandes questions qui traversent le milieu littéraire au sujet du statut de l’écriture, du rapport des lecteurs aux œuvres, de leur diffusion et de leurs effets. Longtemps les littéraires et les philosophes se sont interrogés, en de vives controverses, sur la notion d’auteur. Si cette première querelle s’est atténuée, ce n’est pas sans avoir été complétée par une autre : qu’est-ce qu’un auteur « national », ou si l’on préfère « français », « anglais », etc. ? La question n’est pas sans intérêt.
-  * **Mots-clés:** [auteur](auteur), [international](international), [champ](champ)
+  * **Lien:** <https://www.nonfiction.fr/article-12121-damiers-grilles-et-cubes-dans-le-cinema-de-fiction.htm>
+  * **Date de Publication:** Sun, 08 Sep 2024 11:00:00 +0000
+  * **Résumé:** Une réflexion collective érudite sur la présence de trois grandes formes géométriques dans le cinéma de fiction, en remontant le fil de l’histoire et de la théorie de l’art. En postface, Bruno Nassim Aboudrar s’interroge : à quoi « tient » cet ouvrage de théorie du cinéma sur ces trois figures/structures, à la fois proches et distinctes, que sont le damier, la grille et le cube ? La réponse n’est pas simple, tant les approches analytiques proposées sont multiples et se répartissent entre cinéma et autres arts. Plus évidente a priori est la lecture que souhaite éviter l’ouvrage : réduire les formes géométriques retenues à de simples motifs, symboles, thèmes ou instruments valant pour leur rôle narratif ou leur fonction ornementale. Il s’agit ici moins de s’intéresser aux œuvres d’art ou aux modalités de leur création qu’à des figures géométriques considérées comme des « formes réflexives qui nous renseignent sur le laboratoire de l’image rapporté au long terme de l’histoire » .
+  * **Mots-clés:** [grille](grille), [art](art), [film](film)
 
