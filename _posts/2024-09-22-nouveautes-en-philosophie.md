@@ -6,70 +6,71 @@ date: 2024-09-22
 ---
 ## Actualités philosophiques
 
-#### Recension – Je est un nous. Enquête philosophique sur nos
-interdépendances avec le vivant.
+#### Compte rendu critique Le second...
+émancipation.
 
-  * **Lien:** <https://www.implications-philosophiques.org/recension-je-est-un-nous-enquete-philosophique-sur-nos-interdependances-avec-le-vivant/>
-  * **Date de Publication:** Mon, 02 Sep 2024 08:00:10 +0000
-  * **Résumé:** Jason Dufrasne est titulaire d’un master en philosophie de l’UCLouvain et sera prochainement agrégé de philosophie. Il a travaillé en tant que chargé de missions pour l’Université de Liège dans le cadre d’un projet de recherche en Science ouverte. Actuellement, il prépare un projet de thèse sur la pertinence de la première personne en éco-phénoménologie. Jean-Philippe Pierron, Je est un nous.
-  * **Mots-clés:** [humain](humain), [monde](monde), [vivre](vivre)
+  * **Lien:** <https://www.implications-philosophiques.org/compte-rendu-critique-le-second-age-de-lindividu-pour-une-nouvelle-emancipation/>
+  * **Date de Publication:** Tue, 27 Aug 2024 08:00:45 +0000
+  * **Résumé:** Se dépêtrer de l’individualisme libidinal Ancien élève-ingénieur des Ponts et chaussées, Lucas Depierre poursuit un doctorat à l’University of Chicago en métaphysique médiévale. Ses recherches portent sur la transmission et la réappropriation de la pensée antique au Moyen-Âge, et plus particulièrement sur la question de l’individuation. Auteur de Une philosophie en archipel (2022), Lettres d’ailleurs (2024), ainsi que d’articles de recherche. Mark Hunyadi, Le second âge de l’individu : Pour une nouvelle émancipation (Paris : Presses Universitaires de France, 2023), 188 pp. L’ouvrage est disponible ici. Résumé Mark Hunyadi montre d’abord comment s’est tissée l’emprise de l’éthique des droits à partir de l’émergence du nominalisme médiéval : la volonté a été érigée en faculté maîtresse de l’homme, garante de sa liberté, et a instauré un nominalisme des droits individuels qui reste sans réponse devant les défis climatiques et numériques (partie I de ce compte rendu).
+  * **Mots-clés:** [esprit](esprit), [Hunyadi](Hunyadi), [volonté](volonté)
 
-#### Encadrer les temps partiels et fragmentés
+#### Organiser lelection directe de delegues...
 
-  * **Lien:** <https://laviedesidees.fr/Encadrer-les-temps-partiels-et-fragmentes>
+  * **Lien:** <https://laviedesidees.fr/Organiser-l-election-directe-de-delegues-au-travail-reel>
   * **Date de Publication:** N/A
-  * **Résumé:** Conditions de travail difficiles, perte de sens, manque de reconnaissance, accidents et maladies professionnelles, les maux du travail sont nombreux. Fondé sur les acquis des sciences du travail, le recueil de propositions « Travailler Mieux » vise à répertorier les mesures susceptibles d’améliorer la qualité du travail en France. Le problème Aujourd’hui plus d’un salarié (entre 25 et 65 ans) sur 7 gagne moins que le Smic chaque mois. Si une partie d’entre eux peut avoir partiellement choisi d’exercer une activité réduite, la majorité n’est pas en mesure de vivre décemment de son travail.
-  * **Mots-clés:** [travail](travail), [temps](temps), [heure](heure)
+  * **Résumé:** Conditions de travail difficiles, perte de sens, manque de reconnaissance, accidents et maladies professionnelles, les maux du travail sont nombreux. Fondé sur les acquis des sciences du travail, le recueil de propositions « Travailler Mieux » vise à répertorier les mesures susceptibles d’améliorer la qualité du travail en France. Le problème Selon le Rapport final du comité officiel d’évaluation des ordonnances Travail de 2017, la suppression des délégués du personnel et des CHSCT (Comités d’hygiène, de sécurité et des conditions de travail) a coupé les racines de la représentation collective du personnel en l’éloignant du travail réel (qui s’écarte en pratique toujours des tâches prescrites en théorie) et affaibli la protection de la santé au travail. Ainsi, les CSSCT (Commissions santé, sécurité et conditions de travail) qui ont succédé aux CHSCT ont une couverture et des prérogatives très réduites. Il est établi que la suppression des DP et des CHSCT a eu des conséquences négatives sur la régulation des conditions de travail et de la santé au travail (F.
+  * **Mots-clés:** [travail](travail), [proposition](proposition), [réel](réel)
 
-#### Nouvel Hollywood : éloge de la forme
+#### Que peut-on esperer du langage...
 
-  * **Lien:** <https://www.nonfiction.fr/article-12136-nouvel-hollywood-eloge-de-la-forme.htm>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:00:00 +0000
-  * **Résumé:** Un exemple de stylistique historique rigoureusement centrée sur les œuvres, qui réussit à apporter un éclairage singulier sur un courant artistique dont on pensait tout savoir Le plaisir que l’on prend à la lecture du livre de Baptiste Villenave est d’autant plus à saluer que son objet renvoie à un pan de l’histoire du cinéma moderne déjà bien balisé. Depuis Peter Biskind, qui en a créé le vocable avec son ouvrage Le Nouvel Hollywood (2002), jusqu’à Pierre Berthomieu, qui l’a inclus dans sa somme hégélienne sur l’ensemble du cinéma américain (Le Cinéma hollywoodien. Le temps du renouveau et Hollywood moderne.
-  * **Mots-clés:** [cinéma](cinéma), [film](film), [villenave](villenave)
+  * **Lien:** <https://www.nonfiction.fr/article-12128-que-peut-on-esperer-du-langage-marx-lu-par-juliette-farjat.htm>
+  * **Date de Publication:** Wed, 11 Sep 2024 12:00:00 +0000
+  * **Résumé:** Une lecture originale de Marx qui donne une réponse positive à la question de savoir si l’analyse des pratiques langagières est nécessaire à la critique des sociétés dans une visée émancipatrice. Issu de sa thèse de doctorat écrite sous la direction de Stéphane Haber et soutenue à l’Université Paris-Nanterre en 2022, ce livre défend l’idée que l’étude des pratiques langagières doit être partie intégrante de l’étude des sociétés. Rien d’étonnant à cela, mais l’objectif de cette réflexion est de mobiliser les forces inhérentes aux pratiques langagières dans une optique de libération de la société soumise au capitalisme. Il s’agit là d’une lecture incontournable pour tous ceux qui ont l’habitude de fréquenter les écrits de Marx et qui sont curieux de découvrir une approche peu commune de son œuvre.
+  * **Mots-clés:** [langage](langage), [pratique](pratique), [langagier](langagier)
 
-#### La société de l’avenir d’après Auguste Comte : une parousie positiviste –
-PHILITT
+#### : comprendre le monde musulman...
 
-  * **Lien:** [https://philitt.fr/2024/09/16/la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste/?utm_source=rss&utm;_medium=rss&utm;_campaign=la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste](https://philitt.fr/2024/09/16/la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste/?utm_source=rss&utm_medium=rss&utm_campaign=la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste)
-  * **Date de Publication:** Mon, 16 Sep 2024 06:33:13 +0000
-  * **Résumé:** Il est des partis pris qui ne laissent pas d’être confortables, comme celui de réduire la pensée comtienne aux arides méditations scientifiques du Cours de philosophie positive (1830-1842). On se méprendrait, cependant, en oblitérant le tournant quasi eschatologique qui s’opère à partir du Discours sur l’ensemble du positivisme (1848). Avec un aplomb monstre, notre philosophe prophétise l’imminence d’un nouvel ordre social en Occident, bientôt étendu à l’échelle de l’humanité, de laquelle il s’arroge pudiquement le titre de « grand prêtre ». Auguste Comte (1798-1857) Qu’est-ce qui décide Auguste Comte à prêcher la réorganisation de la société sous l’autorité des savants ? Difficile de le comprendre en faisant l’impasse sur les deux grandes idées qui structurent son système : la loi des trois états et la classification des sciences.
-  * **Mots-clés:** [Comte](Comte), [prolétaire](prolétaire), [philosophe](philosophe)
+  * **Lien:** [https://philitt.fr/2024/09/12/lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam/?utm_source=rss&utm;_medium=rss&utm;_campaign=lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam](https://philitt.fr/2024/09/12/lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam/?utm_source=rss&utm_medium=rss&utm_campaign=lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam)
+  * **Date de Publication:** Thu, 12 Sep 2024 07:08:47 +0000
+  * **Résumé:** Yves Lepesqueur, écrivain et critique littéraire, publie L’islam et l’ordre du monde aux éditions Arcades Ambo. Lourd de 740 pages, avec un appareil de notes conséquent, Yves Lepesqueur réussit un double tour de force : il produit à la fois un livre-somme qui couvre tout ensemble les aspects les plus intellectuels et les plus concrets du monde musulman et parvient également à délivrer un propos original, à contre-courant des productions actuelles, touchant à l’esprit profond de la civilisation musulmane à travers le prisme de la vision islamique du monde. Comme le souligne Ghaleb Bencheikh dans sa préface, « L’islam et l’ordre du monde » tranche avec la médiocrité générale de l’islamologie actuelle. En ce sens, l’ouvrage porte bien son nom ; il remet de l’ordre dans ce vaste champ d’étude, ce qui n’est pas son moindre mérite.
+  * **Mots-clés:** [islam](islam), [ordre](ordre), [monde](monde)
 
-#### La sentience animale : 'reconnaître des êtres pour mieux nous traiter
-nous mêmes"
+#### Ce que les Grecs appelaient...
+L’énergie, d’où vient-elle ?
 
-  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/a-la-source/a-la-source-chronique-du-samedi-21-septembre-2024-7957679>
-  * **Date de Publication:** Sat, 21 Sep 2024 06:16:00 +0000
-  * **Résumé:** Une révolution morale Le 19 avril était publiée la «Déclaration de New York sur la conscience animale », signée depuis par 480 chercheurs. Au cœur de cette déclaration, trois idées : d’abord, qu’il y a un consensus scientifique autour de l’attribution de conscience aux autres mammifères et aux oiseaux. Ensuite, qu’il existe une “possibilité réaliste” d’expérience consciente chez tous les autres vertébrés, reptiles , amphibiens, poissons, et même mollusques céphalopodes et insectes Nicolas.
-  * **Mots-clés:** [animal](animal), [conscience](conscience), [révolution](révolution)
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/ce-que-les-grecs-appelaient-energeia-6953268>
+  * **Date de Publication:** Mon, 16 Sep 2024 08:00:00 +0000
+  * **Résumé:** >>> Cette semaine est en partenariat avec la Nuit de l'énergie à l'Ecole Normale Supérieure qui se tiendra le Vendredi 20 septembre 2024. Puissance et acte chez Aristote Dimitri El Murr explique que “dans l’idée aristotélicienne, quand un être vivant devient ce qu’il est, c’est qu’il accomplit sa fonction”. Ce faisant, il réalise toutes ses potentialités. Publicité “Notre traduction moderne de « dynamis » par « puissance » pourrait nous induire en erreur, si on pense à puissance au sens avant tout d'une force qui se déploie, qui s'exerce sur autre chose” note Pierre-Marie Morel . Il rappelle que le sens principal du terme chez Aristote est la capacité à réaliser une action.
+  * **Mots-clés:** [Morel](Morel), [acte](acte), [aristote](aristote)
 
-#### Delphine Antoine-Mahut, L’autorité d’un canon philosophique. Le cas
-Descartes
+#### Gabriel Rezende, Droit et normativite...
 
-  * **Lien:** <http://journals.openedition.org/asterion/10458>
+  * **Lien:** <http://journals.openedition.org/asterion/9773>
   * **Date de Publication:** N/A
-  * **Résumé:** 1Pour décrire son approche dans cette étude, Delphine Antoine-Mahut utilise un apologue : lorsque nous retrouvons un objet du passé, par exemple la statue de Glaucus, nous reconnaissons les traits du personnage qu’elle représente, mais en même temps nous percevons ce que le temps et l’action de la mer ont déposé sur sa surface. Ce qui intéresse l’auteure n’est pas de mesurer l’écart entre ce que nous avons sous les yeux et la statue originale, mais de comprendre les événements qui l’ont rendue ce qu’elle est à présent. Hors de la métaphore, ce qui intéresse Antoine-Mahut, c’est d’analyser les différentes démarches que des auteurs contemporains, ou bien plus tardifs, ont entreprises afin de rendre canonique la philosophie de Descartes.
-  * **Mots-clés:** [Descartes](Descartes), [Regius](Regius), [Antoine](Antoine)
+  * **Résumé:** 1 R. Schürmann, Le principe d’anarchie. Heidegger et la question de l’agir [1982], Paris, Diaphanes, (...) R.
+  * **Mots-clés:** [Derrida](Derrida), [droit](droit), [Rezende](Rezende)
 
-#### La guerre de Troie, matrice de la guerre de croisade
+#### Revisiter les violences passees pour...
+imaginaire médiéval, souvenirs des guerres révolutionnaires et impériales dans
+les écritures de soi des civils en 1870-1871
 
-  * **Lien:** <http://journals.openedition.org/asterion/10684>
+  * **Lien:** <http://journals.openedition.org/asterion/10774>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 Voir C. Beaune, « L’utilisation politique du mythe des origines troyennes en France à la fin du Mo (...) Voir C. Beaune, « L’utilisation politique du mythe des origines troyennes en France à la fin du Mo (...) 2 Voir Christine de Pizan, Le Livre des fais d’armes et de chevalerie, L.
-  * **Mots-clés:** [guerre](guerre), [Troie](Troie), [voir](voir)
+  * **Résumé:** 1 V. Hugo, L’Année terrible, Paris, Michel Lévy frères, 1872. V. Hugo, L’Année terrible, Paris, Michel Lévy frères, 1872.
+  * **Mots-clés:** [Paris](Paris), [français](français), [guerre](guerre)
 
-#### Jean-Claude Quentel, Les fondements des sciences humaines, Érès, 2007
+#### Recension de La politique experimentale...
 
-  * **Lien:** <http://journals.openedition.org/leportique/1563>
+  * **Lien:** <http://journals.openedition.org/leportique/4578>
   * **Date de Publication:** N/A
-  * **Résumé:** 1Les sciences humaines se trouvent dans une phase extrêmement difficile : écartées dans le champ de la recherche par un mouvement cognitiviste qui se veut triomphant, elles sont à présent réfutées politiquement par nos gouvernants qui les accusent de ne pas répondre aux besoins du XXIème siècle. À l’université, elles subissent aujourd’hui une attaque sans précédent ; on ferme ouvertement les équipes d’accueil et leurs masters. La psychanalyse, qui est à présent l’objet d’une chasse aux sorcières aux USA, résiste en France de plus en plus difficilement aux coups de butoirs qu’elle reçoit.
-  * **Mots-clés:** [science](science), [humain](humain), [modèle](modèle)
+  * **Résumé:** 1 Nous remercions M. Franck Salaün pour nous avoir autorisé à reproduire cette recension de George Du (...) 1Issu d’une thèse de philosophie dirigée par Bertrand Binoche et soutenue en 2016, cet ouvrage important [La Politique expérimentale de Diderot, Paris, Classiques Garnier, 2019, 678 p.] présente une analyse de la pensée politique de Diderot au rebours des appréciations dépréciatives dont elle a fait couramment l’objet pendant longtemps : incohérence, inconsistance, banalité. De tels jugements étaient encore au siècle dernier le fait de spécialistes du philosophe, et contaminaient jusqu’à l’édition de ses écrits politiques.
+  * **Mots-clés:** [politique](politique), [expérimental](expérimental), [Gourbin](Gourbin)
 
-#### Les Livres de Philosophie: Maurice-Ruben Hayoun : Les voies du Judaïsme
+#### Les Livres de Philosophie: Patrick...
+Prière de toucher. Dialogue entre science, médecine, art et littérature
 
-  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/maurice-ruben-hayoun-les-voies-du.html>
-  * **Date de Publication:** 2024-09-21T22:21:00.006+02:00
+  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/patrick-moureaux-et-dominique-le-nen.html>
+  * **Date de Publication:** 2024-09-21T22:16:00.001+02:00
   * **Résumé:** .
   * **Mots-clés:**
 
