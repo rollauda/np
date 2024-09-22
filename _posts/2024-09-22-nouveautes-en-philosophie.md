@@ -6,85 +6,78 @@ date: 2024-09-22
 ---
 ## Actualités philosophiques
 
-#### Édouard Girard : Dostoïevski, ou...
-PHILOSOPHIA
+#### Paul Ricoeur : L’imagination, cours...
+ACTU PHILOSOPHIA
 
-  * **Lien:** <https://www.actu-philosophia.com/edouard-girard-dostoievski-ou-la-deraison-dans-lhistoire/>
-  * **Date de Publication:** Tue, 03 Sep 2024 07:52:34 +0000
-  * **Résumé:** Se procurer l’ouvrage Peut-on lire l’œuvre de Dostoïevski en philosophe ? Celle-ci, essentiellement littéraire et journalistique, contient-elle une authentique philosophie ? Édouard Girard répond par l’affirmative, en mettant en œuvre une telle lecture philosophique de Dostoïevski. L’angle sous lequel la question de la philosophie de Dostoïevski est celle de sa philosophie de l’histoire. L’hypothèse de l’auteur est que Dostoïevski a bien bâti une philosophie de l’histoire, qui répond et critique la philosophie de l’histoire de Hegel. Dostoïevski, comme Marx, Kierkegaard, Nietzsche, Heidegger, Rosenzweig, Lévinas et tant d’autres, chercherait une nouvelle voie « après Hegel[1]», contre Hegel. Pour étayer sa démonstration, Édouard Girard commence par restituer le contexte intellectuel de la Russie du XIXème siècle, pour attester de l’hégélianisme ambiant qui s’y était répandu et que Dostoïevski n’a pu ignorer[2].
-  * **Mots-clés:** [conscience](conscience), [Dostoïevski](Dostoïevski), [histoire](histoire)
+  * **Lien:** <https://www.actu-philosophia.com/paul-ricoeur-limagination-cours-a-luniversite-de-chicago-1975/>
+  * **Date de Publication:** Mon, 26 Aug 2024 12:33:06 +0000
+  * **Résumé:** Se procurer l’ouvrage. Introduction Le livre qui est paru aux éditions du Seuil le 15 mars 2024, L’imagination, est la traduction vers le français d’un autre livre, Lectures on imagination paru quelques jours plus tôt (le 11 mars 2024) auprès des University of Chicago Press, et ces deux ouvrages, la version anglaise comme la version française correspondent à un cours que donna le philosophe français Paul Ricœur (1913-2005) au semestre d’automne 1975 lors de l’une de ses années d’enseignement à l’Université de Chicago (1970-1992). Outre l’événement éditorial majeur que cela représente, il s’agit d’une restitution à l’échelle contemporaine de la philosophie qui permet d’une part de compléter notre connaissance de la relation de Paul Ricœur à la philosophie et permet, d’autre part, ce qui paraît plus important encore, d’intégrer les apports doxologiques et réflexifs de la théorie de l’imagination dans l’histoire de la philosophie. En effet, lorsque Paul Ricœur donne ce cours la philosophie entretient avec le problème de l’imagination une relation problématique, notamment parce que la première a un rapport traditionnellement dominé par la philosophie de l’imagination reproductrice — de sorte que Ricœur, en s’aidant principalement de Kant et en s’appuyant sur Bachelard, va initier une réflexion de fond sur l’imagination créatrice.
+  * **Mots-clés:** [imagination](imagination), [Ricœur](Ricœur), [cours](cours)
 
-#### Recension – La pensée artistique....
+#### Le marché de la vertu....
 
-  * **Lien:** <https://www.implications-philosophiques.org/recension-la-pensee-artistique-a-propos-de-rilke-et-de-rodin/>
-  * **Date de Publication:** Mon, 16 Sep 2024 07:00:39 +0000
-  * **Résumé:** Alexandre Jadin est diplômé d’un master en philosophie contemporaine à l’université Panthéon-Sorbonne. Ses recherches portent sur la phénoménologie contemporaine, et singulièrement sur les philosophies de Jan Patočka et de Michel Henry. Joaquim Hernandez-Dispaux, La pensée artistique. A propos de Rilke et de Rodin, Louvain-la-Neuve, Presse Universitaires de Louvain (coll.
-  * **Mots-clés:** [art](art), [auteur](auteur), [œuvre](œuvre)
+  * **Lien:** <https://www.implications-philosophiques.org/recension-le-marche-de-la-vertu-critique-de-la-consommation-ethique/>
+  * **Date de Publication:** Mon, 09 Sep 2024 08:00:28 +0000
+  * **Résumé:** Camille Roelens est Maître de conférences HDR en philosophie de l’éducation à l’Université Claude Bernard Lyon 1, INSPE de la Loire, laboratoire Éducation, Cultures, Politiques. Il est co-président de la Société Francophone de Philosophie de l’Éducation. Il est spécialisé dans les domaines de la philosophie politique et morale et des théories de la démocratie dans une perspective pratique touchant aux enjeux contemporains d’éducation et de formation, mais aussi de la pensée de Tocqueville et de ses héritages et du thème de l’individualisme démocratique. Estelle Ferrarese, Le marché de la vertu.
+  * **Mots-clés:** [éthique](éthique), [critique](critique), [consommation](consommation)
 
-#### Retour à la démocratie libérale
+#### Histoire de la douleur à...
 
-  * **Lien:** <https://laviedesidees.fr/Justine-Lacroix-Les-valeurs-de-l-Europe>
+  * **Lien:** <https://laviedesidees.fr/Raphaele-Andrault-Le-Fer-ou-le-Feu>
   * **Date de Publication:** N/A
-  * **Résumé:** La démocratie libérale est menacée par une confusion sémantique entretenue par les populistes autour des notions mêmes de « démocratie » et de « libéralisme ». Refonder ce régime dans toute son exigence suppose une redéfinition rigoureuse. Justine Lacroix, professeur de philosophie à l’Université libre de Bruxelles (ULB), s’y attelle dans un petit ouvrage stimulant et salutaire, qui regroupe les quatre leçons qu’elle assura au Collège de France comme professeure invitée en 2023 dans le cadre du cycle « Europe ».
-  * **Mots-clés:** [démocratie](démocratie), [européen](européen), [Union](Union)
+  * **Résumé:** Une conception cartésienne de la douleur Que se passerait-il si quelqu’un mettait sa main dans un feu sans en ressentir aucune douleur ? Dans le premier livre de la Recherche de la vérité (1674), consacré aux erreurs des sens, le philosophe cartésien Nicolas Malebranche (1638-1715) s’attache à imaginer comment se comporterait un individu doué d’une capacité pareille. Si son âme (car pour un cartésien, c’est bien l’âme qui sent et non le corps) n’apercevait que ce qui se passe dans sa main, quand elle se brûle, si elle n’y voyait que le mouvement et la séparation de quelques fibres, elle ne s’en mettrait guère en peine : et même elle pourrait quelquefois par fantaisie et par caprice, y prendre quelque satisfaction, comme ces fantasques qui se divertissent à tout rompre dans leurs emportements et dans leurs débauches [1]. Autrement dit, en l’absence de la douleur, cette personne non seulement ne prendrait pas garde de retirer sa main qu’elle voit brûler mais, au contraire, s’appliquerait à découvrir avec intérêt ce qu’il y a sous sa peau – comme si elle était placée devant une radiographie avant l’heure – et de quelle manière un corps, le feu, agit sur un autre, le sien, jusqu’à sa complète destruction : d’ailleurs, qui n’a jamais contemplé ainsi avec curiosité le spectacle d’une bûche ou d’un papier brûlant dans le foyer d’une cheminée [2] ? Dans l’ouvrage, qui fera date, qu’elle consacre à la réflexion philosophique sur le phénomène de la douleur dans la France de l’âge classique (1630-1715 environ) [3], Raphaële Andrault fait de ce passage de la Recherche de la vérité, qu’elle nomme « fiction de la main transparente » (analysée p. 52-61 et p.
+  * **Mots-clés:** [douleur](douleur), [corps](corps), [cartésien](cartésien)
 
-#### Portraits de résistantes
+#### The Gallic Republic, a Forgotten...
 
-  * **Lien:** <https://www.nonfiction.fr/article-12130-portraits-de-resistantes.htm>
-  * **Date de Publication:** Sat, 14 Sep 2024 08:00:00 +0000
-  * **Résumé:** Un beau livre sur ces femmes qui furent les héroïnes de la Résistance et de la Libération, et dont l’histoire ne parle pas assez. À Paris, de simples noms sur des plaques commémoratives attirent l’attention du promeneur attentif. Ces noms de femmes rappellent toutes celles qui, dans l’ombre, ont contribué à libérer Paris durant la Seconde Guerre mondiale. Beaucoup sont oubliées, effacées de la mémoire collective d’une Europe qui, pourtant, leur doit tant.
-  * **Mots-clés:** [femme](femme), [Résistance](Résistance), [rappeler](rappeler)
+  * **Lien:** <https://www.nonfiction.fr/article-12139-the-gallic-republic-a-forgotten-political-construction.htm>
+  * **Date de Publication:** Thu, 12 Sep 2024 09:00:00 +0000
+  * **Résumé:** The brotherhood of druids, philosophers and political advisors, united the Gauls around a public religion in order to turn Gaul into a political community. * Lire en français. When Rome conquered Gaul in the 50s B.C., it was adding to its empire a territory that was already highly structured and partly centralized in social, religious and political terms. This is the hypothesis put forward by Jean-Louis Brunaux in his new book, which takes issue with the widespread image of pre-Roman Gaul as uncivilized. In so doing, he offers an explanation to the mystery of Gaul's rapid and profound integration into the Roman Empire.
+  * **Mots-clés:** [the](the), [of](of), [and](and)
 
-#### Rita Gombrowicz : « Pour...
-l’intérieur
+#### Éditorial : faire la guerre...
 
-  * **Lien:** [https://philitt.fr/2024/09/09/rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur/?utm_source=rss&utm;_medium=rss&utm;_campaign=rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur](https://philitt.fr/2024/09/09/rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur/?utm_source=rss&utm_medium=rss&utm_campaign=rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur)
-  * **Date de Publication:** Mon, 09 Sep 2024 06:31:39 +0000
-  * **Résumé:** Bakakaï est un recueil de douze nouvelles et le premier ouvrage de Witold Gombrowicz. Il doit son titre énigmatique à la déformation du nom d’une rue en Argentine. Publié une première fois en 1933, il reçut une critique mitigée et Gombrowicz dut subir un procès en « immaturité ».
-  * **Mots-clés:** [Gombrowicz](Gombrowicz), [œuvre](œuvre), [polonais](polonais)
+  * **Lien:** [https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm;_medium=rss&utm;_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy](https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm_medium=rss&utm_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy)
+  * **Date de Publication:** Tue, 10 Sep 2024 06:48:11 +0000
+  * **Résumé:** [Cet article est paru initialement dans PHILITT #15] À la fin du dernier millénaire, les Occidentaux ont fait un rêve, un rêve absurde à bien des égards, celui de la « fin de l’histoire », expression rendue célèbre par un article publié en 1989 par Francis Fukuyama. Anticipant la chute de l’Union soviétique, le politologue américain voyait dans l’échec historique du communisme la fin des luttes idéologiques et le triomphe mondial à venir des démocraties libérales. Ce rêve aura peut-être duré une dizaine d’années, jusqu’aux attentats du 11 septembre 2001 qui constituent toujours à ce jour la plus grande attaque sur le sol américain contre des populations civiles.
+  * **Mots-clés:** [guerre](guerre), [Péguy](Péguy), [faire](faire)
 
-#### Inoxtag : une ressource d’éducation...
+#### La juste taille des villes...
 
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/philosophie/la-chronique-philo-du-vendredi-20-septembre-2024-6854161>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:30:00 +0000
-  * **Résumé:** Petit rappel pour celles et ceux qui auraient passé une semaine au fond des bois, Inoxtag c’est le pseudo d’un youtubeur star de 22 ans et il y a un an, alors qu’il n’avait aucune expérience en montagne et en alpinisme, il a décidé de réaliser l’un de ses rêves : faire l’ascension de l’Everest. Le documentaire qui retrace cette aventure est sorti samedi dernier sur YouTube et approche déjà les 27 millions de vues. Et toute la semaine, Inoxtag a été très présent dans les médias, dès lundi dans la matinale d’Inter par exemple, pour expliquer son aventure. Et toute la semaine aussi, son aventure a subi plusieurs types de critique.
-  * **Mots-clés:** [ascension](ascension), [aventure](aventure), [écouter](écouter)
+  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/l-heure-philo/l-heure-philo-du-vendredi-20-septembre-2024-5934978>
+  * **Date de Publication:** Fri, 20 Sep 2024 18:09:10 +0000
+  * **Résumé:** Comment penser une ville à échelle humaine ? Qu'est ce qui fait "ville" ou "commune" ? Platon avec la ville et la campagne, Charles Fourier et sa cité idéale , Ernst Friedrich Schumacher et son concept "Small is Beautiful", Ebenezer Howard et sa cité-jardin, la" juste plénitude" recommandée par Lewis Mumford ou "l'ascèse volontaire et conviviale" proposée par Ivan Illich ou encore Le Corbusier et sa Cité radieuse.. ils sont nombreux à avoir pensé la ville à taille humaine loin de la ville productiviste. Dans "Mesure et démesure des villes" édité au Cnrs édition, l'architecte et philosophe de l'urbain Thierry Paquot aborde la question de la "juste taille" d'une ville et revisite ainsi la géohistoire des villes à partir de leurs dimensions, tant démographique que géographique, culturelle et environnementale, cela depuis Platon jusqu'aux utopistes en passant par les écovillages à "taille humaine" d'aujourd'hui.
+  * **Mots-clés:** [ville](ville), [histoire](histoire), [urbain](urbain)
 
-#### Pourquoi parler de violence politique...
-philosophiques
+#### Paul Cockshott, Une histoire du...
+siècle / Franck Fischbach, Anne Merker, Pierre-Marie Morel et Emmanuel Renault
+(dir.), Histoire philosophique du travail
 
-  * **Lien:** <https://unphilosophe.com/2024/09/16/pourquoi-parler-de-violence-politique-aujourdhui-reflexions-philosophiques/>
-  * **Date de Publication:** Mon, 16 Sep 2024 08:42:54 +0000
-  * **Résumé:** L’article analyse la violence politique d’un point de vue philosophique, en explorant des concepts tels que la légitimité, la résistance et les implications éthiques d’une telle violence dans l’arène politique. Divers courants philosophiques qui abordent ce phénomène, du contractualisme à l’existentialisme, sont examinés, soulignant comment chacun offre une lentille unique à travers laquelle comprendre et évaluer la violence politique. Il est soutenu que bien que la violence puisse être un outil de résistance légitime dans certains contextes, son exercice soulève des dilemmes éthiques et moraux qui nécessitent une analyse minutieuse et réfléchie. La violence engendre la violence La violence politique, d’un point de vue philosophique, a fait l’objet d’intenses débats tout au long de l’histoire.
-  * **Mots-clés:** [violence](violence), [politique](politique), [guerre](guerre)
-
-#### Giordano Bruno, Les Ombres des...
-
-  * **Lien:** <http://journals.openedition.org/asterion/10423>
+  * **Lien:** <http://journals.openedition.org/asterion/8873>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 Cité dans N. Tirinanzi, « Introduzione », dans G. Bruno, Opere mnemotecniche, Milan, Aelphi Edizio (...) 1Le De Umbris idearum, première œuvre connue de Giordano Bruno, fut publiée en 1582 à Paris, alors que Bruno délivre des leçons sur les arts mnémotechniques au Collège Royal.
-  * **Mots-clés:** [Bruno](Bruno), [image](image), [chose](chose)
+  * **Résumé:** 1La rentrée 2022 a vu la parution en français de deux ouvrages traitant de l’histoire du travail sur la très longue période. Mis à part ce thème commun, tout oppose les deux livres – et on comprend mieux la spécificité de chacune de leurs approches en comparant les démarches et les moyens mis en œuvre. 2Le livre de Paul Cockshott est la traduction d’un ouvrage paru en 2019 sous le titre How the World Works. The Story of Human Labor from Prehistory to the Modern Day (New York, Monthly Review Press).
+  * **Mots-clés:** [travail](travail), [histoire](histoire), [philosophique](philosophique)
 
-#### Thil Ulenspiegel et Philippe II...
+#### Les guerres de Religion au...
+Lorraine, duc de Guise, dans Les Essais de Montaigne
 
-  * **Lien:** <http://journals.openedition.org/asterion/10854>
+  * **Lien:** <http://journals.openedition.org/asterion/10734>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 Parmi les adaptations : Till Eulenspiegels lustige Streiche, poème symphonique de Richard Strauss, (...) 1La légende d’Ulenspiegel a fait l’objet de nombreuses adaptations dans le temps et l’espace depuis la naissance de ce personnage en Allemagne au début du XVIe siècle. Le héros populaire de cette légende apparaît en effet dans bien des récits et des images, ainsi qu’à l’opéra, au théâtre et au cinéma . Dans une édition illustrée parue en France en 1866, l’avertissement du traducteur ayant travaillé à partir de la version allemande de l’histoire révélait déjà sa popularité internationale : 2 P.
-  * **Mots-clés:** [Ulenspiegel](Ulenspiegel), [coster](coster), [Légende](Légende)
+  * **Résumé:** 1 M. de Montaigne, Les Essais, I, 1, J. Balsamo, M.
+  * **Mots-clés:** [Montaigne](Montaigne), [cit](cit), [voir](voir)
 
-#### HANSEN P., JONSSON S., Eurafrique....
-européenne, La Découverte, mai 2022
+#### Un pas de côté :...
 
-  * **Lien:** <http://journals.openedition.org/leportique/4541>
+  * **Lien:** <http://journals.openedition.org/leportique/4612>
   * **Date de Publication:** N/A
-  * **Résumé:** 1N’était sa publication au moment du bouclage de ce numéro de notre revue, cet ouvrage nous aurait incité à plus de radicalité dans l’analyse. Car radical, il l’est, ce livre de deux chercheurs suédois, initialement paru en Anglais chez Bloomsbury en 2015. Ils ont fouillé minutieusement les archives historiques de l’Union européenne ainsi que celles de multiples bibliothèques de Stockholm à Nairobi, en passant par Paris ou Berlin, et le résultat de l’enquête est sans nuance aucune : il existe bien un lien direct entre la décolonisation et la création de l’union européenne ! Ainsi peut-on lire sur la quatrième de couverture : « Le projet eurafricain, un temps caressé par les régimes fascistes, renaît de ses cendres après 1945 et inspire les fondateurs de l’Europe.
-  * **Mots-clés:** [européen](européen), [Europe](Europe), [ouvrage](ouvrage)
+  * **Résumé:** 1Gilles Gourbin a consacré l’essentiel de ses travaux aux Lumières, en particulier à Diderot et à l’Encyclopédie. Je voudrais ici présenter un autre aspect de ses recherches, certes marginal dans sa production, mais qui montre la variété de ses centres d’intérêt. 1 « La réception marxiste de Charles Fourier : l’héritage encombrant de l’utopie », Cahiers Charles F (...) 2En 2015, Gilles a publié un article sur « la réception marxiste de Charles Fourier » dans les Cahiers Charles Fourier, une revue publiée par l’Association d’études fouriéristes . Il connaissait ma participation aux activités de cette société savante, qui réunit des philosophes, des sociologues, des historiens, des spécialistes de littérature ou d’esthétique, etc.
+  * **Mots-clés:** [Fourier](Fourier), [marxiste](marxiste), [Charles](Charles)
 
-#### Les Livres de Philosophie: Revue...
-: Femmes philosophes à l’époque moderne
+#### Les Livres de Philosophie: Philosophie...
+la psychologie
 
-  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/revue-de-metaphysique-et-de-morale-n-3.html>
-  * **Date de Publication:** 2024-09-21T22:33:00.007+02:00
+  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/philosophie-n163-dossier-canguilhem.html>
+  * **Date de Publication:** 2024-09-21T22:29:00.000+02:00
   * **Résumé:** .
   * **Mots-clés:**
 
