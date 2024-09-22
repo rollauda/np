@@ -6,45 +6,59 @@ date: 2024-09-22
 ---
 ## Actualités philosophiques
 
-  * **Titre:** Décourager le recours aux horaires atypiques
-  * **Lien:** <https://laviedesidees.fr/Decourager-le-recours-aux-horaires-atypiques>
-  * **Date de Publication:** N/A
-  * **Résumé:** Conditions de travail difficiles, perte de sens, manque de reconnaissance, accidents et maladies professionnelles, les maux du travail sont nombreux. Fondé sur les acquis des sciences du travail, le recueil de propositions « Travailler Mieux » vise à répertorier les mesures susceptibles d’améliorer la qualité du travail en France. Le problème Les évolutions du marché du travail et des rythmes de vie ont conduit à une bien plus grande flexibilité du temps de travail. Si certains groupes sociaux y ont gagné plus de souplesse et un accès accru à certains services, notamment de loisir ou de confort, d’autres catégories de travailleurs subissent une désynchronisation croissante de leurs rythmes de vie personnelle et familiale d’un côté et professionnelle de l’autre (Devetter et Valentin, 2024).
-  * **Mots-clés:** [travail](travail), [horaire](horaire), [majoration](majoration)
+  * **Article n°1:** Venezuela : la fuite en avant autoritaire
+  * **Lien:** <https://laviedesidees.fr/Venezuela-la-fuite-en-avant-autoritaire>
+  * **Date de Publication:** Date non disponible
+  * **Résumé:** Les élections présidentielles vénézuéliennes du dimanche 28 juillet constituent une nouvelle étape dans la fuite en avant autoritaire de Nicolás Maduro. Le Conseil National Électoral (CNE), l’organe chargé d’organiser les élections, proche de Nicolás Maduro, a déclaré, sur la base de 96,9 % des bulletins dépouillés, que le président sortant avait emporté le scrutin avec 52,0 % des suffrages exprimés contre 43,2 % pour Edmundo González, son principal concurrent de la Plateforme Unitaire Démocratique (PUD). Le gouvernement affirme qu’un hacking l’empêche de publier des résultats plus détaillés depuis désormais six semaines (alors que l’article 155 de la loi organique sur les processus électoraux exige une publication dans les trente jours suivant la proclamation du candidat élu).
+  * **Mots-clés:** [opposition](opposition), [Maduro](Maduro), [vénézuélien](vénézuélien)
 
-  * **Titre:** Plaisirs de l'amitié, du voyage et de la littérature
-  * **Lien:** <https://www.nonfiction.fr/article-12131-plaisirs-de-lamitie-du-voyage-et-de-la-litterature.htm>
-  * **Date de Publication:** Sun, 15 Sep 2024 07:00:00 +0000
-  * **Résumé:** Un livre qui, en une vingtaine d'articles, nous invite à redécouvrir les plaisirs croisés de l’amitié, du voyage et de la littérature, du Président de Brosses à Philippe Sollers. Voyager, n’est-ce pas, en quittant son horizon familier et ses repères familiaux comme amicaux, prendre le risque de la solitude ? Et devoir en prendre, bien souvent, son parti ? Quels recours, dès lors, pour le voyageur qui désire lutter contre l’isolement ? Dès l’abord, plusieurs réponses se proposent : le voyage à plusieurs ; la fraternisation avec les étrangers rencontrés en voyage ; mais aussi, au moment de la rédaction du récit du voyage, l’écriture à plusieurs. Ce sont donc ces différentes pistes que cet ouvrage collectif explore. L’amitié, un viatique ? Le livre s’ouvre sur une contribution de Gilles Bertrand, consacrée aux « formes de l’amitié en voyage dans l’Italie au XVIIIe siècle », qui montre qu’à l’époque des Lumières, la sociabilité sinon l’amitié à proprement parler fonctionne comme une sorte de viatique social, et qu’elle constitue même une condition quasi sine qua non du voyage. Mais à la même époque, c’est aussi parfois l’écriture du voyage qui dépend d’une configuration énonciative amicale.
-  * **Mots-clés:** [voyage](voyage), [ami](ami), [amitié](amitié)
+* * *
 
-  * **Titre:** Faut-il une énergie spécifique pour tenir une conduite morale ? : épisode 3/4 du podcast L’énergie, d’où vient-elle ?
-  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/faut-il-une-energie-specifique-pour-tenir-une-conduite-morale-1420546>
-  * **Date de Publication:** Wed, 18 Sep 2024 08:00:00 +0000
-  * **Résumé:** L’origine de l’agir moral À écouter : Sartre ou Levinas ? Avec philosophie Écouter plus tard Lecture écouter 58 min L’énergie dont parle Descartes dans Les Passions de l’âme, article 153, n’est pas de nature physique, hétérogène. En effet, souligne Hadi Rizk, “l'énergie qui soutient la morale, c'est la puissance de l'infini au sein d'une volonté libre”. Kant insiste aussi sur cette "ferme et constante résolution de bien user de notre volonté” et “si on veut agir moralement, il faut évidemment agir en régime d’autonomie” rappelle Mai Lequan. Publicité Pour Levinas, selon Catherine Chalier, “l'acte moral (...) ne dépend pas du tout de ma volonté (...). Au contraire, il me dépossède en quelque sorte de mes propres intentions et il me conduit à poser des actes, (...) qui sont commandés de l’extérieur d'une certaine façon, et pourtant, ce n'est pas l'hétéronomie dont parle Kant.” Les critères d'une conduite morale Mai Lequan revient sur les Fondements de la Métaphysique des Mœurs (1785), où Kant précise que deux conditions doivent être remplies pour qu’une volonté soit bonne : 1) il faut que l’intention soit pure 2) ”pour être moral, dit Kant, un homme doit avoir mobilisé tous les efforts qui sont en lui.” Le deuxième critère est essentiel, insiste Mai Lequan.
-  * **Mots-clés:** [moral](moral), [volonté](volonté), [Kant](Kant)
+  * **Article n°2:** Le roi est mort, vive la république ?
+  * **Lien:** <https://www.nonfiction.fr/article-12114-le-roi-est-mort-vive-la-republique.htm>
+  * **Date de Publication:** Date non disponible
+  * **Résumé:** Le récit, par Olivier Bétourné, des derniers jours du roi et des débats qui conduiront à sa décapitation permet de mettre à jour une série de conflits de légitimité politique. Dans Aurais-je été résistant ou bourreau ? (Minuit, 2013), Pierre Bayard s’interrogeait sur l’attitude qu’il aurait tenu pendant l’Occupation. C’est une interrogation comparable qui a motivé Olivier Bétourné, auteur, il y a deux ans, de L’esprit de la Révolution française (Seuil, 2022), dans La Mort du Roi concernant un autre épisode tout aussi important et douloureux pour les Français : la Révolution française et l’exécution de Louis XVI. Il n’est, bien évidemment, pas le premier historien à s’intéresser à l’événement, qui a notamment retenu l’attention de Jean Jaurès, mais ses prédécesseurs auraient négligé un élément crucial : « le roi déchu ne semble pas comprendre grand-chose à ce qui lui arrive » et, en dépit de sa stratégie de défense qui le conduit à mentir, « fondamentalement, il vit dans un autre espace mental que celui qu’habitent ses contradicteurs ».
+  * **Mots-clés:** [roi](roi), [légitimité](légitimité), [politique](politique)
 
-  * **Titre:** Flora Champy, L’Antiquité politique de Jean-Jacques Rousseau. Entre...
-  * **Lien:** <http://journals.openedition.org/asterion/8355>
-  * **Date de Publication:** N/A
-  * **Résumé:** 1 Confessions, OC I, p. 9. Sauf mention contraire, les œuvres de Rousseau seront citées dans l’éditio (...) Confessions, OC I, p.
-  * **Mots-clés:** [Rousseau](Rousseau), [politique](politique), [antique](antique)
+* * *
 
-  * **Titre:** Spectres, conjuration et invocation (de la guerre) dans les représentations de la crise. Une réflexion à partir du droit de crise
-  * **Lien:** <http://journals.openedition.org/asterion/10564>
-  * **Date de Publication:** N/A
-  * **Résumé:** 1 J. Derrida, Spectres de Marx. L’État de la dette, le travail du deuil et la nouvelle International (...) Car le spectre est social… Jacques Derrida, Spectres de Marx 2 Ainsi Carl Schmitt a-t-il sans doute largement contribué à faire de la guerre de l’intérieur l’une (...) 1Longtemps, les représentations de la crise en droit ont été habitées par la guerre.
-  * **Mots-clés:** [crise](crise), [guerre](guerre), [droit](droit)
+  * **Article n°3:** Jacques Rancière : "On vit une révolution à l'envers "
+  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/bistroscopie/bistroscopie-du-samedi-21-septembre-2024-4888685>
+  * **Date de Publication:** Date non disponible
+  * **Résumé:** Extraits "On a aujourd'hui deux gouvernements , c'est une forme d'anarchie telle que la conçoivent les gouvernants (...) les gens qui nous gouvernent sont d'une médiocrité sidérante". Publicité Ne faudrait-il pas tirer les membres du gouvernement au sort? "le tirage au sort c'est l'idée que tout le monde est capable, l'avantage c'est qu'on n'élit pas des gens qui ont envie du pouvoir; tout est fichu quand on est dirigé par ceux qui ont envie du pouvoir, et ceux-là c'est quand même pas la crême de l'humanité" "On a affaire à des pouvoirs qui nous dissolvent, qui nous éparpillent. Leur but: qu'il n'y ait plus que des indivdus et qu'aucun collectif ne résiste à l'emprise des pouvoirs". "Chez Tchekhov, c'est la femme qui conçoit que la vie peut changer,: elles connaissent intimement la servitude" Au loin la liberté, essai sur Tchekhov. de Jacques Rancière.
+  * **Mots-clés:** [edition](edition), [Jacques](Jacques), [Rancière](Rancière)
 
-  * **Titre:** BOUBEKER A., MBOUKOU S., De Tokyo à Kinshasa. Postmodernité et post...
-  * **Lien:** <http://journals.openedition.org/leportique/4526>
-  * **Date de Publication:** N/A
-  * **Résumé:** 1S’inspirant du « détour anthropologique » conceptualisé par G. Balandier pour mieux comprendre les soubresauts de nos sociétés, cet ouvrage qui tient du journal de voyage et de l’essai ethnographique croise deux regards sur Kinshasa et Tokyo. Ces villes n’ont a priori rien de commun, sinon d’être les capitales de pays d’un paradoxe économique : malgré ses immenses richesses, le Congo-Kinshasa (RDC) reste un abîme de « sous-développement », tandis que le Japon, si pauvre en ressources naturelles, compte parmi les leaders du G7.
-  * **Mots-clés:** [Kinshasa](Kinshasa), [ville](ville), [perspective](perspective)
+* * *
 
-  * **Titre:** Les Livres de Philosophie: Gilles Deleuze : Sur Spinoza. Cours Novembre 1980
-  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/gilles-deleuze-sur-spinoza-cours.html>
-  * **Date de Publication:** 2024-09-21T09:19:00.006+02:00
+  * **Article n°4:** Bruno Godefroy, La fin du sens de l’histoire. Eric Voegelin, Karl Löwith et la temporalité du politique
+  * **Lien:** <http://journals.openedition.org/asterion/7819>
+  * **Date de Publication:** Date non disponible
+  * **Résumé:** 1Politisation du temps et temporalisation du politique, « politique du temps », chronopolitique… Les approches de la relation entre temps et politique sont variées, n’ont pas fait l’objet d’une école particulière dans l’histoire de la philosophie et, pour tout dire, sont restées assez invisibles, comparées aux philosophies de l’histoire. Bruno Godefroy pose pourtant cette question cruciale, qui commence seulement à être abordée, en sociologie par exemple, et le fait en s’attachant à la comparaison entre deux auteurs qui, pour être désormais bien connus, restent cependant en retrait par rapport aux grands penseurs du XXe siècle : Karl Löwith et Eric Voegelin. Grâce à eux, Bruno Godefroy entend répondre à un ambitieux programme : « […] retracer par quel processus la notion d’histoire ouverte à la mise en sens est effectivement mise en sens, concevoir l’histoire au singulier n’allant pas immédiatement de pair avec l’attribution d’un sens à l’histoire » (p.
+  * **Mots-clés:** [histoire](histoire), [Voegelin](Voegelin), [politique](politique)
+
+* * *
+
+  * **Article n°5:** Perdre l’expérience de guerre. Autour d’une obsession moderne
+  * **Lien:** <http://journals.openedition.org/asterion/10929>
+  * **Date de Publication:** Date non disponible
+  * **Résumé:** 1 Cet article se fonde sur l’un des chapitres de ma thèse de doctorat, « Les expériences appauvries. (...) 1Pierre a eu de longues années de carrière comme pilote de chasse, qui l’ont emmené, au rythme des conflits, à travers les ciels de l’ex-Yougoslavie, d’Afghanistan, du Tchad, de la République démocratique du Congo, de Libye, de Djibouti. Le corps très abîmé par ces longues années de vol, comprimé dans un Mirage 2000 propulsé à 800 kilomètres/heure, menacé de paraplégie, il a accepté de se former au pilotage des drones de combat .
+  * **Mots-clés:** [guerre](guerre), [expérience](expérience), [moderne](moderne)
+
+* * *
+
+  * **Article n°6:** Jacques Fanielle, La société relationnelle ou le lien et l’échange....
+  * **Lien:** <http://journals.openedition.org/leportique/915>
+  * **Date de Publication:** Date non disponible
+  * **Résumé:** 1Parti du constat d’une société en crise et d’un modèle consumériste proposé comme seul avenir de l’humanité, Jacques Fanielle propose sa vision personnelle du temps présent et y voit néanmoins des raisons d’espérer. 2L’inquiétude qui plane sur la Relation dans le monde actuel – l’affaiblissement du lien social et de l’institution familiale – l’a motivé à chercher ce qui, dans le passé lointain et dans l’Evolution, peut donner des clés pour comprendre le présent et envisager l’avenir. 3Parmi celles-ci, la notion de Lien est présente dès le début de la physique et traverse la chimie et la biologie, tout comme celle d’Echange indispensable au vivant, lien et échange s’exprimant successivement dans les différents registres du physique, du chimique, du biologique et du psychologique. 4Psychiatre, Jacques Fanielle montre combien les idées régnantes peuvent biaiser la Science elle-même, et passe en revue les nouveaux paradigmes qui se font jour dans son domaine, avec une attention toute particulière sur le concept de plasticité neuronale, qui réhabilite le rôle crucial des expériences vécues. Il interroge les représentations mentales influençant notre conception du monde, en particulier la vraie relation à l’Autre et les obstacles qu’elle rencontre, la notion d’empathie, l’apport de Buber et de Misrahi, tout comme la notion de l’éthique relationnelle de Boszormeny-Nagy, ainsi que la place du conflit. 5Procédant par petites touches, il construit progressivement le portrait d’une société relationnelle centrée sur l’interaction et l’auto-questionnement, par opposition aux sociétés de type paranoïaque. Alors que reculent sans cesse les limites techniques du possible et les frontières de l’humain, l’auteur propose une mise en perspective des valeurs, découlant des propositions précédentes, au moment où affleurent de plus en plus les interrogations sur le sens de la vie. 6Il souligne la nécessité d’un saut qualitatif, dans une société occidentale axée sur le quantitatif. 7Au-delà d’une théorisation, Jacques Fanielle envisage concrètement des applications d’une nouvelle attitude éthique dans les domaines tels que l’économie, l’écologie, le politique et la vie quotidienne. 8Dr Godfroid Ivan.
+  * **Mots-clés:** [société](société), [proposer](proposer), [Jacques](Jacques)
+
+* * *
+
+  * **Article n°7:** Les Livres de Philosophie: Laure Challandes : L’âme a-t-elle un sexe ? Formes et paradoxes de la distinction sexuelle dans l’œuvre de Jean-Jacques Rousseau
+  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/laure-challandes-lame-t-elle-un-sexe.html>
+  * **Date de Publication:** Date non disponible
   * **Résumé:** .
   * **Mots-clés:**
+
+* * *
 
