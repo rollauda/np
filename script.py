@@ -46,54 +46,51 @@ def generate_summary(text, sentence_count=3):
     sentences = text.split('. ')
     return '. '.join(sentences[:sentence_count]) + '.'
 
-def truncate_title(title, max_words=6):
-    # Divisez le titre en mots
-    words = title.split()
-    # Tronquez le titre à max_words mots
-    if len(words) > max_words:
-        return ' '.join(words[:max_words]) + '...'
-    return title
+def format_publish_date(date_string):
+    # Vérifier si la date est non disponible
+    if date_string == 'N/A':
+        return "Date non disponible"
+    else:
+        return date_string
 
 def generate_html_report(articles, filename="rapport.html"):
     colors = ["#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF"]  # Couleurs pastel
     current_date = datetime.now().strftime("%Y-%m-%d")
-    
     html_content = f"""
     <html>
     <head>
-        <title>Veille philosophique</title>
-        <style>
-            body {{ font-family: Arial, sans-serif; }}
-            .article {{ margin-bottom: 20px; padding: 10px; border-radius: 5px; }}
-            h2 {{ color: #2E4053; }}
-            p {{ margin: 5px 0; }}
-            ul {{ list-style-type: disc; padding-left: 20px; }}
-        </style>
+    <title>Veille philosophique</title>
+    <style>
+    body {{ font-family: Arial, sans-serif; }}
+    .article {{ margin-bottom: 20px; padding: 10px; border-radius: 5px; }}
+    h2 {{ color: #2E4053; }}
+    p {{ margin: 5px 0; }}
+    ul {{ list-style-type: none; padding-left: 0; }}
+    </style>
     </head>
     <body>
-        <h2>Actualités philosophiques</h2>
+    <h2>Actualités philosophiques</h2>
     """
-    
     for index, article in enumerate(articles):
         color = colors[index % len(colors)]
-        truncated_title = truncate_title(article['title'])  # Tronquer le titre à 6 mots
+        formatted_publish_date = format_publish_date(article['publish_date'])
         keywords_links = ', '.join([f"[{kw[0]}]({kw[0]})" for kw in article['keywords'][:3]])
         html_content += f"""
         <div class="article" style="background-color: {color};">
-            <h4>{truncated_title}</h4>
-            <ul>
-                <li><strong>Lien:</strong> <a href="{article['url']}">{article['url']}</a></li>
-                <li><strong>Date de Publication:</strong> {article['publish_date']}</li>
-                <li><strong>Résumé:</strong> {article['summary']}</li>
-                <li><strong>Mots-clés:</strong> {keywords_links}</li>
-            </ul>
+        <ul>
+        <li><strong>Article n°{index + 1}:</strong> {article['title']}</li>
+        <li><strong>Lien:</strong> <a href="{article['url']}">{article['url']}</a></li>
+        <li><strong>Date de Publication:</strong> {formatted_publish_date}</li>
+        <li><strong>Résumé:</strong> {article['summary']}</li>
+        <li><strong>Mots-clés:</strong> {keywords_links}</li>
+        </ul>
         </div>
+        <hr> <!-- Ajout d'une ligne horizontale pour séparer les articles -->
         """
-    
+    html_content += "</body></html>"
     # Écrire le contenu HTML dans un fichier
     with open(filename, "w", encoding="utf-8") as file:
         file.write(html_content)
-    
     return html_content
 
 def generate_yaml_header(category):
@@ -129,13 +126,10 @@ def convert_html_to_markdown(html_content):
 
     return markdown_content
 
-def create_markdown_file(markdown_content, yaml_header, tags):
+def create_markdown_file(markdown_content, yaml_header):
     current_date = datetime.now().strftime("%Y-%m-%d")
     file_name = f"{current_date}-nouveautes-en-philosophie.md"
     file_path = BASE_DIR / "_posts" / file_name
-
-    # Ajouter les tags à l'en-tête YAML
-    yaml_header += f"tags: {', '.join(tags)}\n"
 
     # Exemple d'utilisation : afficher le chemin pour vérification
     print(f"Le chemin complet du fichier est : {file_path}")
@@ -145,12 +139,6 @@ def create_markdown_file(markdown_content, yaml_header, tags):
         file.write(markdown_content)
 
     return file_path
-
-# Utilisation de la fonction
-tags = ["philosophie"]
-keywords = extract_keywords(article_text)  # Extraction des mots-clés
-tags.extend(keywords)  # Ajout des mots-clés aux tags
-markdown_file_path = create_markdown_file(markdown_content, yaml_header, tags)
 
 def send_email(html_content, subject, to_email):
     smtp_server = "smtp.gmail.com"
@@ -191,6 +179,18 @@ rss_feeds = [
     'http://www.implications-philosophiques.org/feed/',
     'http://www.laviedesidees.fr/spip.php?page=backend',
     'https://www.nonfiction.fr/rss-critiques.xml',
+    'http://philitt.fr/feed/',
+    'https://www.radiofrance.fr/rss/sciences-savoirs/philosophie',
+    'https://philosciences.com/?format=feed&type=rss',
+    'https://anthropogoniques.com/feed/',
+    'http://philosophia.fr/feed/',
+    'http://unphilosophe.wordpress.com/feed/',
+    'http://blog.ac-versailles.fr/oeildeminerve/index.php/feed/rss2',
+    'http://la-philosophie.com/feed',
+    'http://iphilo.fr/feed/',
+    'https://journals.openedition.org/asterion/backend?format=rssdocuments&type=review',
+    'https://journals.openedition.org/asterion/backend?format=rssdocuments',
+    'http://journals.openedition.org/leportique/backend?format=rssdocuments&type=review',
 ]
 
 def extract_best_article(feed_url, used_urls):
@@ -256,18 +256,6 @@ yaml_header = generate_yaml_header("philosophie française")
 # Créer un nouveau fichier Markdown
 markdown_file_path = create_markdown_file(markdown_content, yaml_header)
 
-# Récupérer le token GitHub
-github_token = os.getenv('GITHUB_TOKEN')
-if not github_token:
-    raise ValueError("Le token GitHub n'est pas défini dans le fichier .env")
-
-# Initialiser l'objet GitHub
-g = Github(github_token)
-try:
-    repo = g.get_repo("rollauda/np")
-    print("Accès au dépôt réussi.")
-except github.GithubException as e:
-    print(f"Erreur d'accès au dépôt : {e}")
 # Récupérer le token GitHub
 github_token = os.getenv('GITHUB_TOKEN')
 if not github_token:
