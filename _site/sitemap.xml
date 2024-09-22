@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/np/philosophie%20fran%C3%A7aise/2024/09/20/nouveautes-en-philosophie.html</loc>
+<lastmod>2024-09-20T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/np/philosophie%20fran%C3%A7aise/2024/09/22/nouveautes-en-philosophie.html</loc>
+<lastmod>2024-09-22T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/np/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/np/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/np/portfolio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/np/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/np/rapport.html</loc>
+<lastmod>2024-09-22T10:50:20-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/np/venv/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority/external.html</loc>
+<lastmod>2024-09-12T18:08:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/np/venv/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority/simple/foobar/</loc>
+<lastmod>2024-09-12T18:08:24-05:00</lastmod>
+</url>
+</urlset>

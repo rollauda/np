@@ -2,5 +2,6 @@
   link: /
 - name: About
   link: /about/
-#- name: Portfolio
+- name: Tags
+  link: /tags/
 #  link: /portfolio/
