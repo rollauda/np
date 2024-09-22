@@ -6,63 +6,45 @@ date: 2024-09-22
 ---
 ## Actualités philosophiques
 
-#### A la recherche des lois...
-
-  * **Lien:** <https://laviedesidees.fr/A-la-recherche-des-lois-de-la-vie-sociale>
+  * **Titre:** Décourager le recours aux horaires atypiques
+  * **Lien:** <https://laviedesidees.fr/Decourager-le-recours-aux-horaires-atypiques>
   * **Date de Publication:** N/A
-  * **Résumé:** Les structures fondamentales des sociétés humaines se présente comme une réforme de l’épistémologie de la sociologie (et des sciences sociales en général). Dans l’introduction (« L’oubli du réel », p. 15-51), Bernard Lahire affirme en effet qu’il est possible et désirable de faire converger les études sociologiques, psychologiques et biologiques vers une grande « science sociale » unifiée, afin d’éviter l’éparpillement des paradigmes analytiques.
-  * **Mots-clés:** [social](social), [science](science), [humain](humain)
+  * **Résumé:** Conditions de travail difficiles, perte de sens, manque de reconnaissance, accidents et maladies professionnelles, les maux du travail sont nombreux. Fondé sur les acquis des sciences du travail, le recueil de propositions « Travailler Mieux » vise à répertorier les mesures susceptibles d’améliorer la qualité du travail en France. Le problème Les évolutions du marché du travail et des rythmes de vie ont conduit à une bien plus grande flexibilité du temps de travail. Si certains groupes sociaux y ont gagné plus de souplesse et un accès accru à certains services, notamment de loisir ou de confort, d’autres catégories de travailleurs subissent une désynchronisation croissante de leurs rythmes de vie personnelle et familiale d’un côté et professionnelle de l’autre (Devetter et Valentin, 2024).
+  * **Mots-clés:** [travail](travail), [horaire](horaire), [majoration](majoration)
 
-#### Comment le catholicisme inventa une...
+  * **Titre:** Plaisirs de l'amitié, du voyage et de la littérature
+  * **Lien:** <https://www.nonfiction.fr/article-12131-plaisirs-de-lamitie-du-voyage-et-de-la-litterature.htm>
+  * **Date de Publication:** Sun, 15 Sep 2024 07:00:00 +0000
+  * **Résumé:** Un livre qui, en une vingtaine d'articles, nous invite à redécouvrir les plaisirs croisés de l’amitié, du voyage et de la littérature, du Président de Brosses à Philippe Sollers. Voyager, n’est-ce pas, en quittant son horizon familier et ses repères familiaux comme amicaux, prendre le risque de la solitude ? Et devoir en prendre, bien souvent, son parti ? Quels recours, dès lors, pour le voyageur qui désire lutter contre l’isolement ? Dès l’abord, plusieurs réponses se proposent : le voyage à plusieurs ; la fraternisation avec les étrangers rencontrés en voyage ; mais aussi, au moment de la rédaction du récit du voyage, l’écriture à plusieurs. Ce sont donc ces différentes pistes que cet ouvrage collectif explore. L’amitié, un viatique ? Le livre s’ouvre sur une contribution de Gilles Bertrand, consacrée aux « formes de l’amitié en voyage dans l’Italie au XVIIIe siècle », qui montre qu’à l’époque des Lumières, la sociabilité sinon l’amitié à proprement parler fonctionne comme une sorte de viatique social, et qu’elle constitue même une condition quasi sine qua non du voyage. Mais à la même époque, c’est aussi parfois l’écriture du voyage qui dépend d’une configuration énonciative amicale.
+  * **Mots-clés:** [voyage](voyage), [ami](ami), [amitié](amitié)
 
-  * **Lien:** <https://www.nonfiction.fr/article-12132-comment-le-catholicisme-inventa-une-nouvelle-forme-de-roman.htm>
-  * **Date de Publication:** Tue, 17 Sep 2024 08:00:00 +0000
-  * **Résumé:** L’auteure montre avec finesse comment le roman, genre d’abord suspect aux yeux de l’Église, devint au XIXe siècle un moyen de seconder la pastorale populaire, en le renouvelant en profondeur Le roman est un genre littéraire suspect aux yeux de l’Église au XIXe siècle. En effet, si le thème du roman corrupteur accompagne l’histoire du genre, il prend une dimension particulière à cette période. Auparavant, on s’inquiétait surtout de l’influence de la lecture de romans sur l’imagination des jeunes filles, mais dès le milieu du siècle, on double l’argument moral d’un argument politique.
-  * **Mots-clés:** [roman](roman), [catholique](catholique), [auteure](auteure)
+  * **Titre:** Faut-il une énergie spécifique pour tenir une conduite morale ? : épisode 3/4 du podcast L’énergie, d’où vient-elle ?
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/faut-il-une-energie-specifique-pour-tenir-une-conduite-morale-1420546>
+  * **Date de Publication:** Wed, 18 Sep 2024 08:00:00 +0000
+  * **Résumé:** L’origine de l’agir moral À écouter : Sartre ou Levinas ? Avec philosophie Écouter plus tard Lecture écouter 58 min L’énergie dont parle Descartes dans Les Passions de l’âme, article 153, n’est pas de nature physique, hétérogène. En effet, souligne Hadi Rizk, “l'énergie qui soutient la morale, c'est la puissance de l'infini au sein d'une volonté libre”. Kant insiste aussi sur cette "ferme et constante résolution de bien user de notre volonté” et “si on veut agir moralement, il faut évidemment agir en régime d’autonomie” rappelle Mai Lequan. Publicité Pour Levinas, selon Catherine Chalier, “l'acte moral (...) ne dépend pas du tout de ma volonté (...). Au contraire, il me dépossède en quelque sorte de mes propres intentions et il me conduit à poser des actes, (...) qui sont commandés de l’extérieur d'une certaine façon, et pourtant, ce n'est pas l'hétéronomie dont parle Kant.” Les critères d'une conduite morale Mai Lequan revient sur les Fondements de la Métaphysique des Mœurs (1785), où Kant précise que deux conditions doivent être remplies pour qu’une volonté soit bonne : 1) il faut que l’intention soit pure 2) ”pour être moral, dit Kant, un homme doit avoir mobilisé tous les efforts qui sont en lui.” Le deuxième critère est essentiel, insiste Mai Lequan.
+  * **Mots-clés:** [moral](moral), [volonté](volonté), [Kant](Kant)
 
-#### Sylvain Cardonnel : Face a...
-
-  * **Lien:** [https://philitt.fr/2024/09/19/sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole/?utm_source=rss&utm;_medium=rss&utm;_campaign=sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole](https://philitt.fr/2024/09/19/sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole/?utm_source=rss&utm_medium=rss&utm_campaign=sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole)
-  * **Date de Publication:** Thu, 19 Sep 2024 06:57:37 +0000
-  * **Résumé:** Les Presses du réel publient Akasegawa Genpei : Anatomie du Tomason, première traduction française des textes de l’artiste et écrivain japonais, figure de l’avant-garde tokyoïte des années 1960. Sylvain Cardonnel, enseignant à l’université Ryukoku de Kyoto qui traduit et présente cette édition, revient sur la notion originale du « Tomason ». Comme une plongée dans un Japon bouillonnant sortant enfin de l’immédiate après-guerre, cet ouvrage met en lumière une personnalité atypique et facétieuse des milieux artistiques japonais.
-  * **Mots-clés:** [art](art), [tomason](tomason), [Akasegawa](Akasegawa)
-
-#### Sur les pas de Stefan...
-
-  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/repliques/sur-les-pas-de-stefan-zweig-9602998>
-  * **Date de Publication:** Sat, 14 Sep 2024 07:07:00 +0000
-  * **Résumé:** Alain Finkielkraut reçoit Clémence Boulouque et Sébastien Lapaque autour de la figure multiple, énigmatique de l'écrivain autrichien, Stefan Zweig. Ce dernier vécut plusieurs vies, laissa des romans mémorables, des correspondances singulières - près de 30 000 lettres, une personnalité déchirée entre le désespoir, la mélancolie et la foi - cette foi que l'Histoire lui a retirée, cet humanisme dont il n'est pas sorti indemne. Désespéré par la montée du nazisme, ayant fui l'Autriche en 1934, il se réfugiait en Angleterre puis aux États-Unis et finit par se suicider le 23 février 1942, avec sa femme, Lotte, à Petrópolis, au Brésil. Commençons par le personnage qui figure dans les deux récits de nos invités, écrivains, et demandons à Clémence Boulouque qui fait paraître Le sentiment des crépuscules (Robert Laffont 2024), et Sébastien Lapaque, auteur de Echec et mat au paradis (Actes Sud 2024), pourquoi Stefan Zweig ? Qu'est-ce qui les attache à l'écrivain du Monde d'hier ? Publicité Clémence Boulouque évoque la Vienne de l'époque de Zweig, cet écrivain, nous dit-elle, qui a été presque vaincu par la création.
-  * **Mots-clés:** [Zweig](Zweig), [foi](foi), [écrivain](écrivain)
-
-#### Yohann Douet, Lhegemonie et la...
-
-  * **Lien:** <http://journals.openedition.org/asterion/10438>
+  * **Titre:** Flora Champy, L’Antiquité politique de Jean-Jacques Rousseau. Entre...
+  * **Lien:** <http://journals.openedition.org/asterion/8355>
   * **Date de Publication:** N/A
-  * **Résumé:** 1« Les Cahiers de prison ne sont pas un manuel contenant des recettes stratégiques prêtes à l’emploi » (p. 296). Ces mots de conclusion ne signifient pas que Yohann Douet cherche à arracher Gramsci à ses interprètes militants.
-  * **Mots-clés:** [Gramsci](Gramsci), [parti](parti), [gramscien](gramscien)
+  * **Résumé:** 1 Confessions, OC I, p. 9. Sauf mention contraire, les œuvres de Rousseau seront citées dans l’éditio (...) Confessions, OC I, p.
+  * **Mots-clés:** [Rousseau](Rousseau), [politique](politique), [antique](antique)
 
-#### Normativites pirates : a partir...
-Grotius et Hobbes
-
-  * **Lien:** <http://journals.openedition.org/asterion/10629>
+  * **Titre:** Spectres, conjuration et invocation (de la guerre) dans les représentations de la crise. Une réflexion à partir du droit de crise
+  * **Lien:** <http://journals.openedition.org/asterion/10564>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 Dans lequel je reprends et prolonge certaines analyses parues dans T. Berns, La guerre des philoso (...) 1Cet article portera sur quelques évocations croisées et surprenantes d’une figure à la fois marginale de la guerre – puisqu’exclue de celle-ci – et centrale – puisque régulièrement convoquée pour la définir : le pirate et, subsidiairement, le brigand. Derrière quelques allées et venues de cette figure au sein du discours philosophique et juridique sur la guerre, nous verrons que se cachent non seulement la possibilité de lui conférer une normativité propre, mais aussi, ce faisant, celle de considérer plus globalement que la guerre elle-même disposerait d’une normativité immanente lui permettant de se réguler sans le détour par une quelconque médiation. 2 Cicéron, Les Devoirs, M.
-  * **Mots-clés:** [guerre](guerre), [pirate](pirate), [Hobbes](Hobbes)
+  * **Résumé:** 1 J. Derrida, Spectres de Marx. L’État de la dette, le travail du deuil et la nouvelle International (...) Car le spectre est social… Jacques Derrida, Spectres de Marx 2 Ainsi Carl Schmitt a-t-il sans doute largement contribué à faire de la guerre de l’intérieur l’une (...) 1Longtemps, les représentations de la crise en droit ont été habitées par la guerre.
+  * **Mots-clés:** [crise](crise), [guerre](guerre), [droit](droit)
 
-#### KEMP. P. (sous la dir.),...
-Morales, Cerf, Paris, 2004, 113 p.
-
-  * **Lien:** <http://journals.openedition.org/leportique/513>
+  * **Titre:** BOUBEKER A., MBOUKOU S., De Tokyo à Kinshasa. Postmodernité et post...
+  * **Lien:** <http://journals.openedition.org/leportique/4526>
   * **Date de Publication:** N/A
-  * **Résumé:** 1Les lecteurs intéressés par les questions difficiles se trouvant au carrefour de certaines disciplines des sciences sociales, notamment la bioéthique, l’éthique et le droit, seront heureux d’apprendre la publication en langue française de ce petit livre consacré aux rapports nouveaux qui unissent désormais la bioéthique et le biodroit. Sous le titre général Le discours bioéthique, les textes réunis ici ont tout d’abord été prononcés en anglais à titre de communications lors de deux colloques organisés par le Centre de recherche en éthique et droit dans la nature et la société (Center for Etik og Ret), à Copenhague, en 1996 et en 1998. Ce ne sont donc pas des textes neufs, mais des communications revues et augmentées en vue de leur publication pour le lectorat francophone.
-  * **Mots-clés:** [éthique](éthique), [droit](droit), [bioéthique](bioéthique)
+  * **Résumé:** 1S’inspirant du « détour anthropologique » conceptualisé par G. Balandier pour mieux comprendre les soubresauts de nos sociétés, cet ouvrage qui tient du journal de voyage et de l’essai ethnographique croise deux regards sur Kinshasa et Tokyo. Ces villes n’ont a priori rien de commun, sinon d’être les capitales de pays d’un paradoxe économique : malgré ses immenses richesses, le Congo-Kinshasa (RDC) reste un abîme de « sous-développement », tandis que le Japon, si pauvre en ressources naturelles, compte parmi les leaders du G7.
+  * **Mots-clés:** [Kinshasa](Kinshasa), [ville](ville), [perspective](perspective)
 
-#### Les Livres de Philosophie: F....
-Sarfati Lanter (dirs.), Les Manifestations du genre. Négociations,
-émancipations, cristallisations
-
-  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/f-alix-p-m-chauvin-v-coutolleau-j.html>
-  * **Date de Publication:** 2024-09-21T19:32:00.001+02:00
+  * **Titre:** Les Livres de Philosophie: Gilles Deleuze : Sur Spinoza. Cours Novembre 1980
+  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/gilles-deleuze-sur-spinoza-cours.html>
+  * **Date de Publication:** 2024-09-21T09:19:00.006+02:00
   * **Résumé:** .
   * **Mots-clés:**
 
