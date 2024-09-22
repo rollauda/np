@@ -6,63 +6,62 @@ date: 2024-09-22
 ---
 ## Actualités philosophiques
 
-#### Histoire de la douleur à l’âge classique
+#### Organiser l’élection directe de «...
 
-  * **Lien:** <https://laviedesidees.fr/Raphaele-Andrault-Le-Fer-ou-le-Feu>
+  * **Lien:** <https://laviedesidees.fr/Organiser-l-election-directe-de-delegues-au-travail-reel>
   * **Date de Publication:** N/A
-  * **Résumé:** Une conception cartésienne de la douleur Que se passerait-il si quelqu’un mettait sa main dans un feu sans en ressentir aucune douleur ? Dans le premier livre de la Recherche de la vérité (1674), consacré aux erreurs des sens, le philosophe cartésien Nicolas Malebranche (1638-1715) s’attache à imaginer comment se comporterait un individu doué d’une capacité pareille. Si son âme (car pour un cartésien, c’est bien l’âme qui sent et non le corps) n’apercevait que ce qui se passe dans sa main, quand elle se brûle, si elle n’y voyait que le mouvement et la séparation de quelques fibres, elle ne s’en mettrait guère en peine : et même elle pourrait quelquefois par fantaisie et par caprice, y prendre quelque satisfaction, comme ces fantasques qui se divertissent à tout rompre dans leurs emportements et dans leurs débauches [1]. Autrement dit, en l’absence de la douleur, cette personne non seulement ne prendrait pas garde de retirer sa main qu’elle voit brûler mais, au contraire, s’appliquerait à découvrir avec intérêt ce qu’il y a sous sa peau – comme si elle était placée devant une radiographie avant l’heure – et de quelle manière un corps, le feu, agit sur un autre, le sien, jusqu’à sa complète destruction : d’ailleurs, qui n’a jamais contemplé ainsi avec curiosité le spectacle d’une bûche ou d’un papier brûlant dans le foyer d’une cheminée [2] ? Dans l’ouvrage, qui fera date, qu’elle consacre à la réflexion philosophique sur le phénomène de la douleur dans la France de l’âge classique (1630-1715 environ) [3], Raphaële Andrault fait de ce passage de la Recherche de la vérité, qu’elle nomme « fiction de la main transparente » (analysée p. 52-61 et p.
-  * **Mots-clés:** [douleur](douleur), [corps](corps), [cartésien](cartésien)
+  * **Résumé:** Conditions de travail difficiles, perte de sens, manque de reconnaissance, accidents et maladies professionnelles, les maux du travail sont nombreux. Fondé sur les acquis des sciences du travail, le recueil de propositions « Travailler Mieux » vise à répertorier les mesures susceptibles d’améliorer la qualité du travail en France. Le problème Selon le Rapport final du comité officiel d’évaluation des ordonnances Travail de 2017, la suppression des délégués du personnel et des CHSCT (Comités d’hygiène, de sécurité et des conditions de travail) a coupé les racines de la représentation collective du personnel en l’éloignant du travail réel (qui s’écarte en pratique toujours des tâches prescrites en théorie) et affaibli la protection de la santé au travail. Ainsi, les CSSCT (Commissions santé, sécurité et conditions de travail) qui ont succédé aux CHSCT ont une couverture et des prérogatives très réduites. Il est établi que la suppression des DP et des CHSCT a eu des conséquences négatives sur la régulation des conditions de travail et de la santé au travail (F.
+  * **Mots-clés:** [travail](travail), [proposition](proposition), [réel](réel)
 
-#### Nouvel Hollywood : éloge de la forme
+#### Que peut-on espérer du langage...
 
-  * **Lien:** <https://www.nonfiction.fr/article-12136-nouvel-hollywood-eloge-de-la-forme.htm>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:00:00 +0000
-  * **Résumé:** Un exemple de stylistique historique rigoureusement centrée sur les œuvres, qui réussit à apporter un éclairage singulier sur un courant artistique dont on pensait tout savoir Le plaisir que l’on prend à la lecture du livre de Baptiste Villenave est d’autant plus à saluer que son objet renvoie à un pan de l’histoire du cinéma moderne déjà bien balisé. Depuis Peter Biskind, qui en a créé le vocable avec son ouvrage Le Nouvel Hollywood (2002), jusqu’à Pierre Berthomieu, qui l’a inclus dans sa somme hégélienne sur l’ensemble du cinéma américain (Le Cinéma hollywoodien. Le temps du renouveau et Hollywood moderne.
-  * **Mots-clés:** [cinéma](cinéma), [film](film), [villenave](villenave)
+  * **Lien:** <https://www.nonfiction.fr/article-12128-que-peut-on-esperer-du-langage-marx-lu-par-juliette-farjat.htm>
+  * **Date de Publication:** Wed, 11 Sep 2024 12:00:00 +0000
+  * **Résumé:** Une lecture originale de Marx qui donne une réponse positive à la question de savoir si l’analyse des pratiques langagières est nécessaire à la critique des sociétés dans une visée émancipatrice. Issu de sa thèse de doctorat écrite sous la direction de Stéphane Haber et soutenue à l’Université Paris-Nanterre en 2022, ce livre défend l’idée que l’étude des pratiques langagières doit être partie intégrante de l’étude des sociétés. Rien d’étonnant à cela, mais l’objectif de cette réflexion est de mobiliser les forces inhérentes aux pratiques langagières dans une optique de libération de la société soumise au capitalisme. Il s’agit là d’une lecture incontournable pour tous ceux qui ont l’habitude de fréquenter les écrits de Marx et qui sont curieux de découvrir une approche peu commune de son œuvre.
+  * **Mots-clés:** [langage](langage), [pratique](pratique), [langagier](langagier)
 
-#### Éditorial : faire la guerre à la guerre avec Charles Péguy – PHILITT
+#### La société de l’avenir d’après...
+PHILITT
 
-  * **Lien:** [https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm;_medium=rss&utm;_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy](https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm_medium=rss&utm_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy)
-  * **Date de Publication:** Tue, 10 Sep 2024 06:48:11 +0000
-  * **Résumé:** [Cet article est paru initialement dans PHILITT #15] À la fin du dernier millénaire, les Occidentaux ont fait un rêve, un rêve absurde à bien des égards, celui de la « fin de l’histoire », expression rendue célèbre par un article publié en 1989 par Francis Fukuyama. Anticipant la chute de l’Union soviétique, le politologue américain voyait dans l’échec historique du communisme la fin des luttes idéologiques et le triomphe mondial à venir des démocraties libérales. Ce rêve aura peut-être duré une dizaine d’années, jusqu’aux attentats du 11 septembre 2001 qui constituent toujours à ce jour la plus grande attaque sur le sol américain contre des populations civiles.
-  * **Mots-clés:** [guerre](guerre), [Péguy](Péguy), [faire](faire)
+  * **Lien:** [https://philitt.fr/2024/09/16/la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste/?utm_source=rss&utm;_medium=rss&utm;_campaign=la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste](https://philitt.fr/2024/09/16/la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste/?utm_source=rss&utm_medium=rss&utm_campaign=la-societe-de-lavenir-dapres-auguste-comte-une-parousie-positiviste)
+  * **Date de Publication:** Mon, 16 Sep 2024 06:33:13 +0000
+  * **Résumé:** Il est des partis pris qui ne laissent pas d’être confortables, comme celui de réduire la pensée comtienne aux arides méditations scientifiques du Cours de philosophie positive (1830-1842). On se méprendrait, cependant, en oblitérant le tournant quasi eschatologique qui s’opère à partir du Discours sur l’ensemble du positivisme (1848). Avec un aplomb monstre, notre philosophe prophétise l’imminence d’un nouvel ordre social en Occident, bientôt étendu à l’échelle de l’humanité, de laquelle il s’arroge pudiquement le titre de « grand prêtre ». Auguste Comte (1798-1857) Qu’est-ce qui décide Auguste Comte à prêcher la réorganisation de la société sous l’autorité des savants ? Difficile de le comprendre en faisant l’impasse sur les deux grandes idées qui structurent son système : la loi des trois états et la classification des sciences.
+  * **Mots-clés:** [Comte](Comte), [prolétaire](prolétaire), [philosophe](philosophe)
 
-#### La juste taille des villes avec Thierry Paquot et Patrick Boucheron
+#### La sentience animale : "reconnaître...
+nous mêmes"
 
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/l-heure-philo/l-heure-philo-du-vendredi-20-septembre-2024-5934978>
-  * **Date de Publication:** Fri, 20 Sep 2024 18:09:10 +0000
-  * **Résumé:** Comment penser une ville à échelle humaine ? Qu'est ce qui fait "ville" ou "commune" ? Platon avec la ville et la campagne, Charles Fourier et sa cité idéale , Ernst Friedrich Schumacher et son concept "Small is Beautiful", Ebenezer Howard et sa cité-jardin, la" juste plénitude" recommandée par Lewis Mumford ou "l'ascèse volontaire et conviviale" proposée par Ivan Illich ou encore Le Corbusier et sa Cité radieuse.. ils sont nombreux à avoir pensé la ville à taille humaine loin de la ville productiviste. Dans "Mesure et démesure des villes" édité au Cnrs édition, l'architecte et philosophe de l'urbain Thierry Paquot aborde la question de la "juste taille" d'une ville et revisite ainsi la géohistoire des villes à partir de leurs dimensions, tant démographique que géographique, culturelle et environnementale, cela depuis Platon jusqu'aux utopistes en passant par les écovillages à "taille humaine" d'aujourd'hui.
-  * **Mots-clés:** [ville](ville), [histoire](histoire), [urbain](urbain)
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/a-la-source/a-la-source-chronique-du-samedi-21-septembre-2024-7957679>
+  * **Date de Publication:** Sat, 21 Sep 2024 06:16:00 +0000
+  * **Résumé:** Une révolution morale Le 19 avril était publiée la «Déclaration de New York sur la conscience animale », signée depuis par 480 chercheurs. Au cœur de cette déclaration, trois idées : d’abord, qu’il y a un consensus scientifique autour de l’attribution de conscience aux autres mammifères et aux oiseaux. Ensuite, qu’il existe une “possibilité réaliste” d’expérience consciente chez tous les autres vertébrés, reptiles , amphibiens, poissons, et même mollusques céphalopodes et insectes Nicolas.
+  * **Mots-clés:** [animal](animal), [conscience](conscience), [révolution](révolution)
 
-#### Paul Cockshott, Une histoire du travail : de la Préhistoire au XXIe
-siècle / Franck Fischbach, Anne Merker, Pierre-Marie Morel et Emmanuel Renault
-(dir.), Histoire philosophique du travail
+#### Delphine Antoine-Mahut, L’autorité d’un canon...
+Descartes
 
-  * **Lien:** <http://journals.openedition.org/asterion/8873>
+  * **Lien:** <http://journals.openedition.org/asterion/10458>
   * **Date de Publication:** N/A
-  * **Résumé:** 1La rentrée 2022 a vu la parution en français de deux ouvrages traitant de l’histoire du travail sur la très longue période. Mis à part ce thème commun, tout oppose les deux livres – et on comprend mieux la spécificité de chacune de leurs approches en comparant les démarches et les moyens mis en œuvre. 2Le livre de Paul Cockshott est la traduction d’un ouvrage paru en 2019 sous le titre How the World Works. The Story of Human Labor from Prehistory to the Modern Day (New York, Monthly Review Press).
-  * **Mots-clés:** [travail](travail), [histoire](histoire), [philosophique](philosophique)
+  * **Résumé:** 1Pour décrire son approche dans cette étude, Delphine Antoine-Mahut utilise un apologue : lorsque nous retrouvons un objet du passé, par exemple la statue de Glaucus, nous reconnaissons les traits du personnage qu’elle représente, mais en même temps nous percevons ce que le temps et l’action de la mer ont déposé sur sa surface. Ce qui intéresse l’auteure n’est pas de mesurer l’écart entre ce que nous avons sous les yeux et la statue originale, mais de comprendre les événements qui l’ont rendue ce qu’elle est à présent. Hors de la métaphore, ce qui intéresse Antoine-Mahut, c’est d’analyser les différentes démarches que des auteurs contemporains, ou bien plus tardifs, ont entreprises afin de rendre canonique la philosophie de Descartes.
+  * **Mots-clés:** [Descartes](Descartes), [Regius](Regius), [Antoine](Antoine)
 
-#### Les guerres de Religion au miroir des conflits antiques : François de
-Lorraine, duc de Guise, dans Les Essais de Montaigne
+#### La guerre de Troie, matrice...
 
-  * **Lien:** <http://journals.openedition.org/asterion/10734>
+  * **Lien:** <http://journals.openedition.org/asterion/10684>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 M. de Montaigne, Les Essais, I, 1, J. Balsamo, M.
-  * **Mots-clés:** [Montaigne](Montaigne), [cit](cit), [voir](voir)
+  * **Résumé:** 1 Voir C. Beaune, « L’utilisation politique du mythe des origines troyennes en France à la fin du Mo (...) Voir C. Beaune, « L’utilisation politique du mythe des origines troyennes en France à la fin du Mo (...) 2 Voir Christine de Pizan, Le Livre des fais d’armes et de chevalerie, L.
+  * **Mots-clés:** [guerre](guerre), [Troie](Troie), [voir](voir)
 
-#### Un pas de côté : les marxistes, Charles Fourier et l’utopie
+#### Jean-Claude Quentel, Les fondements des...
 
-  * **Lien:** <http://journals.openedition.org/leportique/4612>
+  * **Lien:** <http://journals.openedition.org/leportique/1563>
   * **Date de Publication:** N/A
-  * **Résumé:** 1Gilles Gourbin a consacré l’essentiel de ses travaux aux Lumières, en particulier à Diderot et à l’Encyclopédie. Je voudrais ici présenter un autre aspect de ses recherches, certes marginal dans sa production, mais qui montre la variété de ses centres d’intérêt. 1 « La réception marxiste de Charles Fourier : l’héritage encombrant de l’utopie », Cahiers Charles F (...) 2En 2015, Gilles a publié un article sur « la réception marxiste de Charles Fourier » dans les Cahiers Charles Fourier, une revue publiée par l’Association d’études fouriéristes . Il connaissait ma participation aux activités de cette société savante, qui réunit des philosophes, des sociologues, des historiens, des spécialistes de littérature ou d’esthétique, etc.
-  * **Mots-clés:** [Fourier](Fourier), [marxiste](marxiste), [Charles](Charles)
+  * **Résumé:** 1Les sciences humaines se trouvent dans une phase extrêmement difficile : écartées dans le champ de la recherche par un mouvement cognitiviste qui se veut triomphant, elles sont à présent réfutées politiquement par nos gouvernants qui les accusent de ne pas répondre aux besoins du XXIème siècle. À l’université, elles subissent aujourd’hui une attaque sans précédent ; on ferme ouvertement les équipes d’accueil et leurs masters. La psychanalyse, qui est à présent l’objet d’une chasse aux sorcières aux USA, résiste en France de plus en plus difficilement aux coups de butoirs qu’elle reçoit.
+  * **Mots-clés:** [science](science), [humain](humain), [modèle](modèle)
 
-#### Les Livres de Philosophie: Philosophie n°163 : Dossier Canguilhem face à
-la psychologie
+#### Les Livres de Philosophie: Maurice-Ruben...
 
-  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/philosophie-n163-dossier-canguilhem.html>
-  * **Date de Publication:** 2024-09-21T22:29:00.000+02:00
+  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/maurice-ruben-hayoun-les-voies-du.html>
+  * **Date de Publication:** 2024-09-21T22:21:00.006+02:00
   * **Résumé:** .
   * **Mots-clés:**
 
