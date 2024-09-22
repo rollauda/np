@@ -6,71 +6,63 @@ date: 2024-09-22
 ---
 ## Actualités philosophiques
 
-#### Compte rendu critique Le second...
-émancipation.
+#### A la recherche des lois...
 
-  * **Lien:** <https://www.implications-philosophiques.org/compte-rendu-critique-le-second-age-de-lindividu-pour-une-nouvelle-emancipation/>
-  * **Date de Publication:** Tue, 27 Aug 2024 08:00:45 +0000
-  * **Résumé:** Se dépêtrer de l’individualisme libidinal Ancien élève-ingénieur des Ponts et chaussées, Lucas Depierre poursuit un doctorat à l’University of Chicago en métaphysique médiévale. Ses recherches portent sur la transmission et la réappropriation de la pensée antique au Moyen-Âge, et plus particulièrement sur la question de l’individuation. Auteur de Une philosophie en archipel (2022), Lettres d’ailleurs (2024), ainsi que d’articles de recherche. Mark Hunyadi, Le second âge de l’individu : Pour une nouvelle émancipation (Paris : Presses Universitaires de France, 2023), 188 pp. L’ouvrage est disponible ici. Résumé Mark Hunyadi montre d’abord comment s’est tissée l’emprise de l’éthique des droits à partir de l’émergence du nominalisme médiéval : la volonté a été érigée en faculté maîtresse de l’homme, garante de sa liberté, et a instauré un nominalisme des droits individuels qui reste sans réponse devant les défis climatiques et numériques (partie I de ce compte rendu).
-  * **Mots-clés:** [esprit](esprit), [Hunyadi](Hunyadi), [volonté](volonté)
-
-#### Organiser lelection directe de delegues...
-
-  * **Lien:** <https://laviedesidees.fr/Organiser-l-election-directe-de-delegues-au-travail-reel>
+  * **Lien:** <https://laviedesidees.fr/A-la-recherche-des-lois-de-la-vie-sociale>
   * **Date de Publication:** N/A
-  * **Résumé:** Conditions de travail difficiles, perte de sens, manque de reconnaissance, accidents et maladies professionnelles, les maux du travail sont nombreux. Fondé sur les acquis des sciences du travail, le recueil de propositions « Travailler Mieux » vise à répertorier les mesures susceptibles d’améliorer la qualité du travail en France. Le problème Selon le Rapport final du comité officiel d’évaluation des ordonnances Travail de 2017, la suppression des délégués du personnel et des CHSCT (Comités d’hygiène, de sécurité et des conditions de travail) a coupé les racines de la représentation collective du personnel en l’éloignant du travail réel (qui s’écarte en pratique toujours des tâches prescrites en théorie) et affaibli la protection de la santé au travail. Ainsi, les CSSCT (Commissions santé, sécurité et conditions de travail) qui ont succédé aux CHSCT ont une couverture et des prérogatives très réduites. Il est établi que la suppression des DP et des CHSCT a eu des conséquences négatives sur la régulation des conditions de travail et de la santé au travail (F.
-  * **Mots-clés:** [travail](travail), [proposition](proposition), [réel](réel)
+  * **Résumé:** Les structures fondamentales des sociétés humaines se présente comme une réforme de l’épistémologie de la sociologie (et des sciences sociales en général). Dans l’introduction (« L’oubli du réel », p. 15-51), Bernard Lahire affirme en effet qu’il est possible et désirable de faire converger les études sociologiques, psychologiques et biologiques vers une grande « science sociale » unifiée, afin d’éviter l’éparpillement des paradigmes analytiques.
+  * **Mots-clés:** [social](social), [science](science), [humain](humain)
 
-#### Que peut-on esperer du langage...
+#### Comment le catholicisme inventa une...
 
-  * **Lien:** <https://www.nonfiction.fr/article-12128-que-peut-on-esperer-du-langage-marx-lu-par-juliette-farjat.htm>
-  * **Date de Publication:** Wed, 11 Sep 2024 12:00:00 +0000
-  * **Résumé:** Une lecture originale de Marx qui donne une réponse positive à la question de savoir si l’analyse des pratiques langagières est nécessaire à la critique des sociétés dans une visée émancipatrice. Issu de sa thèse de doctorat écrite sous la direction de Stéphane Haber et soutenue à l’Université Paris-Nanterre en 2022, ce livre défend l’idée que l’étude des pratiques langagières doit être partie intégrante de l’étude des sociétés. Rien d’étonnant à cela, mais l’objectif de cette réflexion est de mobiliser les forces inhérentes aux pratiques langagières dans une optique de libération de la société soumise au capitalisme. Il s’agit là d’une lecture incontournable pour tous ceux qui ont l’habitude de fréquenter les écrits de Marx et qui sont curieux de découvrir une approche peu commune de son œuvre.
-  * **Mots-clés:** [langage](langage), [pratique](pratique), [langagier](langagier)
+  * **Lien:** <https://www.nonfiction.fr/article-12132-comment-le-catholicisme-inventa-une-nouvelle-forme-de-roman.htm>
+  * **Date de Publication:** Tue, 17 Sep 2024 08:00:00 +0000
+  * **Résumé:** L’auteure montre avec finesse comment le roman, genre d’abord suspect aux yeux de l’Église, devint au XIXe siècle un moyen de seconder la pastorale populaire, en le renouvelant en profondeur Le roman est un genre littéraire suspect aux yeux de l’Église au XIXe siècle. En effet, si le thème du roman corrupteur accompagne l’histoire du genre, il prend une dimension particulière à cette période. Auparavant, on s’inquiétait surtout de l’influence de la lecture de romans sur l’imagination des jeunes filles, mais dès le milieu du siècle, on double l’argument moral d’un argument politique.
+  * **Mots-clés:** [roman](roman), [catholique](catholique), [auteure](auteure)
 
-#### : comprendre le monde musulman...
+#### Sylvain Cardonnel : Face a...
 
-  * **Lien:** [https://philitt.fr/2024/09/12/lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam/?utm_source=rss&utm;_medium=rss&utm;_campaign=lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam](https://philitt.fr/2024/09/12/lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam/?utm_source=rss&utm_medium=rss&utm_campaign=lislam-et-lordre-du-monde-comprendre-le-monde-musulman-par-lesprit-de-lislam)
-  * **Date de Publication:** Thu, 12 Sep 2024 07:08:47 +0000
-  * **Résumé:** Yves Lepesqueur, écrivain et critique littéraire, publie L’islam et l’ordre du monde aux éditions Arcades Ambo. Lourd de 740 pages, avec un appareil de notes conséquent, Yves Lepesqueur réussit un double tour de force : il produit à la fois un livre-somme qui couvre tout ensemble les aspects les plus intellectuels et les plus concrets du monde musulman et parvient également à délivrer un propos original, à contre-courant des productions actuelles, touchant à l’esprit profond de la civilisation musulmane à travers le prisme de la vision islamique du monde. Comme le souligne Ghaleb Bencheikh dans sa préface, « L’islam et l’ordre du monde » tranche avec la médiocrité générale de l’islamologie actuelle. En ce sens, l’ouvrage porte bien son nom ; il remet de l’ordre dans ce vaste champ d’étude, ce qui n’est pas son moindre mérite.
-  * **Mots-clés:** [islam](islam), [ordre](ordre), [monde](monde)
+  * **Lien:** [https://philitt.fr/2024/09/19/sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole/?utm_source=rss&utm;_medium=rss&utm;_campaign=sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole](https://philitt.fr/2024/09/19/sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole/?utm_source=rss&utm_medium=rss&utm_campaign=sylvain-cardonnel-face-a-la-modernite-akasegawa-rigole)
+  * **Date de Publication:** Thu, 19 Sep 2024 06:57:37 +0000
+  * **Résumé:** Les Presses du réel publient Akasegawa Genpei : Anatomie du Tomason, première traduction française des textes de l’artiste et écrivain japonais, figure de l’avant-garde tokyoïte des années 1960. Sylvain Cardonnel, enseignant à l’université Ryukoku de Kyoto qui traduit et présente cette édition, revient sur la notion originale du « Tomason ». Comme une plongée dans un Japon bouillonnant sortant enfin de l’immédiate après-guerre, cet ouvrage met en lumière une personnalité atypique et facétieuse des milieux artistiques japonais.
+  * **Mots-clés:** [art](art), [tomason](tomason), [Akasegawa](Akasegawa)
 
-#### Ce que les Grecs appelaient...
-L’énergie, d’où vient-elle ?
+#### Sur les pas de Stefan...
 
-  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/ce-que-les-grecs-appelaient-energeia-6953268>
-  * **Date de Publication:** Mon, 16 Sep 2024 08:00:00 +0000
-  * **Résumé:** >>> Cette semaine est en partenariat avec la Nuit de l'énergie à l'Ecole Normale Supérieure qui se tiendra le Vendredi 20 septembre 2024. Puissance et acte chez Aristote Dimitri El Murr explique que “dans l’idée aristotélicienne, quand un être vivant devient ce qu’il est, c’est qu’il accomplit sa fonction”. Ce faisant, il réalise toutes ses potentialités. Publicité “Notre traduction moderne de « dynamis » par « puissance » pourrait nous induire en erreur, si on pense à puissance au sens avant tout d'une force qui se déploie, qui s'exerce sur autre chose” note Pierre-Marie Morel . Il rappelle que le sens principal du terme chez Aristote est la capacité à réaliser une action.
-  * **Mots-clés:** [Morel](Morel), [acte](acte), [aristote](aristote)
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/repliques/sur-les-pas-de-stefan-zweig-9602998>
+  * **Date de Publication:** Sat, 14 Sep 2024 07:07:00 +0000
+  * **Résumé:** Alain Finkielkraut reçoit Clémence Boulouque et Sébastien Lapaque autour de la figure multiple, énigmatique de l'écrivain autrichien, Stefan Zweig. Ce dernier vécut plusieurs vies, laissa des romans mémorables, des correspondances singulières - près de 30 000 lettres, une personnalité déchirée entre le désespoir, la mélancolie et la foi - cette foi que l'Histoire lui a retirée, cet humanisme dont il n'est pas sorti indemne. Désespéré par la montée du nazisme, ayant fui l'Autriche en 1934, il se réfugiait en Angleterre puis aux États-Unis et finit par se suicider le 23 février 1942, avec sa femme, Lotte, à Petrópolis, au Brésil. Commençons par le personnage qui figure dans les deux récits de nos invités, écrivains, et demandons à Clémence Boulouque qui fait paraître Le sentiment des crépuscules (Robert Laffont 2024), et Sébastien Lapaque, auteur de Echec et mat au paradis (Actes Sud 2024), pourquoi Stefan Zweig ? Qu'est-ce qui les attache à l'écrivain du Monde d'hier ? Publicité Clémence Boulouque évoque la Vienne de l'époque de Zweig, cet écrivain, nous dit-elle, qui a été presque vaincu par la création.
+  * **Mots-clés:** [Zweig](Zweig), [foi](foi), [écrivain](écrivain)
 
-#### Gabriel Rezende, Droit et normativite...
+#### Yohann Douet, Lhegemonie et la...
 
-  * **Lien:** <http://journals.openedition.org/asterion/9773>
+  * **Lien:** <http://journals.openedition.org/asterion/10438>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 R. Schürmann, Le principe d’anarchie. Heidegger et la question de l’agir [1982], Paris, Diaphanes, (...) R.
-  * **Mots-clés:** [Derrida](Derrida), [droit](droit), [Rezende](Rezende)
+  * **Résumé:** 1« Les Cahiers de prison ne sont pas un manuel contenant des recettes stratégiques prêtes à l’emploi » (p. 296). Ces mots de conclusion ne signifient pas que Yohann Douet cherche à arracher Gramsci à ses interprètes militants.
+  * **Mots-clés:** [Gramsci](Gramsci), [parti](parti), [gramscien](gramscien)
 
-#### Revisiter les violences passees pour...
-imaginaire médiéval, souvenirs des guerres révolutionnaires et impériales dans
-les écritures de soi des civils en 1870-1871
+#### Normativites pirates : a partir...
+Grotius et Hobbes
 
-  * **Lien:** <http://journals.openedition.org/asterion/10774>
+  * **Lien:** <http://journals.openedition.org/asterion/10629>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 V. Hugo, L’Année terrible, Paris, Michel Lévy frères, 1872. V. Hugo, L’Année terrible, Paris, Michel Lévy frères, 1872.
-  * **Mots-clés:** [Paris](Paris), [français](français), [guerre](guerre)
+  * **Résumé:** 1 Dans lequel je reprends et prolonge certaines analyses parues dans T. Berns, La guerre des philoso (...) 1Cet article portera sur quelques évocations croisées et surprenantes d’une figure à la fois marginale de la guerre – puisqu’exclue de celle-ci – et centrale – puisque régulièrement convoquée pour la définir : le pirate et, subsidiairement, le brigand. Derrière quelques allées et venues de cette figure au sein du discours philosophique et juridique sur la guerre, nous verrons que se cachent non seulement la possibilité de lui conférer une normativité propre, mais aussi, ce faisant, celle de considérer plus globalement que la guerre elle-même disposerait d’une normativité immanente lui permettant de se réguler sans le détour par une quelconque médiation. 2 Cicéron, Les Devoirs, M.
+  * **Mots-clés:** [guerre](guerre), [pirate](pirate), [Hobbes](Hobbes)
 
-#### Recension de La politique experimentale...
+#### KEMP. P. (sous la dir.),...
+Morales, Cerf, Paris, 2004, 113 p.
 
-  * **Lien:** <http://journals.openedition.org/leportique/4578>
+  * **Lien:** <http://journals.openedition.org/leportique/513>
   * **Date de Publication:** N/A
-  * **Résumé:** 1 Nous remercions M. Franck Salaün pour nous avoir autorisé à reproduire cette recension de George Du (...) 1Issu d’une thèse de philosophie dirigée par Bertrand Binoche et soutenue en 2016, cet ouvrage important [La Politique expérimentale de Diderot, Paris, Classiques Garnier, 2019, 678 p.] présente une analyse de la pensée politique de Diderot au rebours des appréciations dépréciatives dont elle a fait couramment l’objet pendant longtemps : incohérence, inconsistance, banalité. De tels jugements étaient encore au siècle dernier le fait de spécialistes du philosophe, et contaminaient jusqu’à l’édition de ses écrits politiques.
-  * **Mots-clés:** [politique](politique), [expérimental](expérimental), [Gourbin](Gourbin)
+  * **Résumé:** 1Les lecteurs intéressés par les questions difficiles se trouvant au carrefour de certaines disciplines des sciences sociales, notamment la bioéthique, l’éthique et le droit, seront heureux d’apprendre la publication en langue française de ce petit livre consacré aux rapports nouveaux qui unissent désormais la bioéthique et le biodroit. Sous le titre général Le discours bioéthique, les textes réunis ici ont tout d’abord été prononcés en anglais à titre de communications lors de deux colloques organisés par le Centre de recherche en éthique et droit dans la nature et la société (Center for Etik og Ret), à Copenhague, en 1996 et en 1998. Ce ne sont donc pas des textes neufs, mais des communications revues et augmentées en vue de leur publication pour le lectorat francophone.
+  * **Mots-clés:** [éthique](éthique), [droit](droit), [bioéthique](bioéthique)
 
-#### Les Livres de Philosophie: Patrick...
-Prière de toucher. Dialogue entre science, médecine, art et littérature
+#### Les Livres de Philosophie: F....
+Sarfati Lanter (dirs.), Les Manifestations du genre. Négociations,
+émancipations, cristallisations
 
-  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/patrick-moureaux-et-dominique-le-nen.html>
-  * **Date de Publication:** 2024-09-21T22:16:00.001+02:00
+  * **Lien:** <http://les-livres-de-philosophie.blogspot.com/2024/09/f-alix-p-m-chauvin-v-coutolleau-j.html>
+  * **Date de Publication:** 2024-09-21T19:32:00.001+02:00
   * **Résumé:** .
   * **Mots-clés:**
 
