@@ -6,75 +6,67 @@ date: 2024-09-23
 ---
 ## Actualités philosophiques
 
-  * **Article n°1:** Paul Ricoeur : L’imagination, cours à l’Université de Chicago (1975) – ACTU PHILOSOPHIA
-  * **Lien:** <https://www.actu-philosophia.com/paul-ricoeur-limagination-cours-a-luniversite-de-chicago-1975/>
-  * **Date de Publication:** Mon, 26 Aug 2024 12:33:06 +0000
-  * **Résumé:** Se procurer l’ouvrage. Introduction Le livre qui est paru aux éditions du Seuil le 15 mars 2024, L’imagination, est la traduction vers le français d’un autre livre, Lectures on imagination paru quelques jours plus tôt (le 11 mars 2024) auprès des University of Chicago Press, et ces deux ouvrages, la version anglaise comme la version française correspondent à un cours que donna le philosophe français Paul Ricœur (1913-2005) au semestre d’automne 1975 lors de l’une de ses années d’enseignement à l’Université de Chicago (1970-1992). Outre l’événement éditorial majeur que cela représente, il s’agit d’une restitution à l’échelle contemporaine de la philosophie qui permet d’une part de compléter notre connaissance de la relation de Paul Ricœur à la philosophie et permet, d’autre part, ce qui paraît plus important encore, d’intégrer les apports doxologiques et réflexifs de la théorie de l’imagination dans l’histoire de la philosophie. En effet, lorsque Paul Ricœur donne ce cours la philosophie entretient avec le problème de l’imagination une relation problématique, notamment parce que la première a un rapport traditionnellement dominé par la philosophie de l’imagination reproductrice — de sorte que Ricœur, en s’aidant principalement de Kant et en s’appuyant sur Bachelard, va initier une réflexion de fond sur l’imagination créatrice.
-  * **Mots-clés:** [imagination](imagination), [Ricœur](Ricœur), [cours](cours)
+  * **Article n°1:** Recension – Je est un nous. Enquête philosophique sur nos interdépendances avec le vivant.
+  * **Lien:** <https://www.implications-philosophiques.org/recension-je-est-un-nous-enquete-philosophique-sur-nos-interdependances-avec-le-vivant/>
+  * **Date de Publication:** Mon, 02 Sep 2024 08:00:10 +0000
+  * **Résumé:** Jason Dufrasne est titulaire d’un master en philosophie de l’UCLouvain et sera prochainement agrégé de philosophie. Il a travaillé en tant que chargé de missions pour l’Université de Liège dans le cadre d’un projet de recherche en Science ouverte. Actuellement, il prépare un projet de thèse sur la pertinence de la première personne en éco-phénoménologie. Jean-Philippe Pierron, Je est un nous.
+  * **Mots-clés:** [humain](humain), [monde](monde), [vivre](vivre)
 
 * * *
 
-  * **Article n°2:** Le marché de la vertu. Critique de la consommation éthique
-  * **Lien:** <https://www.implications-philosophiques.org/recension-le-marche-de-la-vertu-critique-de-la-consommation-ethique/>
-  * **Date de Publication:** Mon, 09 Sep 2024 08:00:28 +0000
-  * **Résumé:** Camille Roelens est Maître de conférences HDR en philosophie de l’éducation à l’Université Claude Bernard Lyon 1, INSPE de la Loire, laboratoire Éducation, Cultures, Politiques. Il est co-président de la Société Francophone de Philosophie de l’Éducation. Il est spécialisé dans les domaines de la philosophie politique et morale et des théories de la démocratie dans une perspective pratique touchant aux enjeux contemporains d’éducation et de formation, mais aussi de la pensée de Tocqueville et de ses héritages et du thème de l’individualisme démocratique. Estelle Ferrarese, Le marché de la vertu.
-  * **Mots-clés:** [éthique](éthique), [critique](critique), [consommation](consommation)
-
-* * *
-
-  * **Article n°3:** Des produits pour la vie
-  * **Lien:** <https://laviedesidees.fr/Des-produits-pour-la-vie>
+  * **Article n°2:** Histoire de la douleur à l’âge classique
+  * **Lien:** <https://laviedesidees.fr/Raphaele-Andrault-Le-Fer-ou-le-Feu>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** L’ouvrage de Julie Madon est adapté de la thèse de doctorat en sociologie qu’elle a consacrée, entre 2018 et 2023, aux activistes de la durabilité en France : sympathisants de l’association Halte à l’Obsolescence Programmée, bénévoles et public des Repair Cafés, adeptes du bricolage et du « zéro déchet ». Il porte toutefois moins sur leur engagement dans ces structures que sur leur rapport quotidien aux objets de leur foyer, croisant ainsi sociologie des mouvements sociaux et ethnographie de la culture matérielle. Ce double apport empirique est plus que bienvenu. En effet, la plupart des essais sur l’obsolescence programmée publiés en France ces quinze dernières années avaient tendance à n’être étayés que par des enquêtes techniques ou des récits historiques bâclés et erronés.
-  * **Mots-clés:** [objet](objet), [obsolescence](obsolescence), [autrice](autrice)
+  * **Résumé:** Une conception cartésienne de la douleur Que se passerait-il si quelqu’un mettait sa main dans un feu sans en ressentir aucune douleur ? Dans le premier livre de la Recherche de la vérité (1674), consacré aux erreurs des sens, le philosophe cartésien Nicolas Malebranche (1638-1715) s’attache à imaginer comment se comporterait un individu doué d’une capacité pareille. Si son âme (car pour un cartésien, c’est bien l’âme qui sent et non le corps) n’apercevait que ce qui se passe dans sa main, quand elle se brûle, si elle n’y voyait que le mouvement et la séparation de quelques fibres, elle ne s’en mettrait guère en peine : et même elle pourrait quelquefois par fantaisie et par caprice, y prendre quelque satisfaction, comme ces fantasques qui se divertissent à tout rompre dans leurs emportements et dans leurs débauches [1]. Autrement dit, en l’absence de la douleur, cette personne non seulement ne prendrait pas garde de retirer sa main qu’elle voit brûler mais, au contraire, s’appliquerait à découvrir avec intérêt ce qu’il y a sous sa peau – comme si elle était placée devant une radiographie avant l’heure – et de quelle manière un corps, le feu, agit sur un autre, le sien, jusqu’à sa complète destruction : d’ailleurs, qui n’a jamais contemplé ainsi avec curiosité le spectacle d’une bûche ou d’un papier brûlant dans le foyer d’une cheminée [2] ? Dans l’ouvrage, qui fera date, qu’elle consacre à la réflexion philosophique sur le phénomène de la douleur dans la France de l’âge classique (1630-1715 environ) [3], Raphaële Andrault fait de ce passage de la Recherche de la vérité, qu’elle nomme « fiction de la main transparente » (analysée p. 52-61 et p.
+  * **Mots-clés:** [douleur](douleur), [corps](corps), [cartésien](cartésien)
 
 * * *
 
-  * **Article n°4:** The Gallic Republic, a Forgotten Political Construction
-  * **Lien:** <https://www.nonfiction.fr/article-12139-the-gallic-republic-a-forgotten-political-construction.htm>
-  * **Date de Publication:** Thu, 12 Sep 2024 09:00:00 +0000
-  * **Résumé:** The brotherhood of druids, philosophers and political advisors, united the Gauls around a public religion in order to turn Gaul into a political community. * Lire en français. When Rome conquered Gaul in the 50s B.C., it was adding to its empire a territory that was already highly structured and partly centralized in social, religious and political terms. This is the hypothesis put forward by Jean-Louis Brunaux in his new book, which takes issue with the widespread image of pre-Roman Gaul as uncivilized. In so doing, he offers an explanation to the mystery of Gaul's rapid and profound integration into the Roman Empire.
-  * **Mots-clés:** [the](the), [of](of), [and](and)
+  * **Article n°3:** Nouvel Hollywood : éloge de la forme
+  * **Lien:** <https://www.nonfiction.fr/article-12136-nouvel-hollywood-eloge-de-la-forme.htm>
+  * **Date de Publication:** Fri, 20 Sep 2024 08:00:00 +0000
+  * **Résumé:** Un exemple de stylistique historique rigoureusement centrée sur les œuvres, qui réussit à apporter un éclairage singulier sur un courant artistique dont on pensait tout savoir Le plaisir que l’on prend à la lecture du livre de Baptiste Villenave est d’autant plus à saluer que son objet renvoie à un pan de l’histoire du cinéma moderne déjà bien balisé. Depuis Peter Biskind, qui en a créé le vocable avec son ouvrage Le Nouvel Hollywood (2002), jusqu’à Pierre Berthomieu, qui l’a inclus dans sa somme hégélienne sur l’ensemble du cinéma américain (Le Cinéma hollywoodien. Le temps du renouveau et Hollywood moderne.
+  * **Mots-clés:** [cinéma](cinéma), [film](film), [villenave](villenave)
 
 * * *
 
-  * **Article n°5:** Éditorial : faire la guerre à la guerre avec Charles Péguy – PHILITT
-  * **Lien:** [https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm;_medium=rss&utm;_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy](https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm_medium=rss&utm_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy)
-  * **Date de Publication:** Tue, 10 Sep 2024 06:48:11 +0000
-  * **Résumé:** [Cet article est paru initialement dans PHILITT #15] À la fin du dernier millénaire, les Occidentaux ont fait un rêve, un rêve absurde à bien des égards, celui de la « fin de l’histoire », expression rendue célèbre par un article publié en 1989 par Francis Fukuyama. Anticipant la chute de l’Union soviétique, le politologue américain voyait dans l’échec historique du communisme la fin des luttes idéologiques et le triomphe mondial à venir des démocraties libérales. Ce rêve aura peut-être duré une dizaine d’années, jusqu’aux attentats du 11 septembre 2001 qui constituent toujours à ce jour la plus grande attaque sur le sol américain contre des populations civiles.
-  * **Mots-clés:** [guerre](guerre), [Péguy](Péguy), [faire](faire)
+  * **Article n°4:** Gaza, grand cimetière sous la lune – PHILITT
+  * **Lien:** [https://philitt.fr/2024/09/23/gaza-grand-cimetiere-sous-la-lune/?utm_source=rss&utm;_medium=rss&utm;_campaign=gaza-grand-cimetiere-sous-la-lune](https://philitt.fr/2024/09/23/gaza-grand-cimetiere-sous-la-lune/?utm_source=rss&utm_medium=rss&utm_campaign=gaza-grand-cimetiere-sous-la-lune)
+  * **Date de Publication:** Mon, 23 Sep 2024 07:46:15 +0000
+  * **Résumé:** La posture de Bernanos lors de la guerre civile espagnole, qui dénonçait en 1938 le soutien apporté aux crimes de guerre franquistes dissimulés sous l’apparence d’une guerre du bien contre le mal, nous invite, à notre tour, à penser la clémence avec laquelle sont perçus les crimes de guerre contre le peuple palestinien perpétrés par le gouvernement israélien de Netanyahu. La très dangereuse rhétorique du « choc des civilisations » déployée au lendemain du 7 octobre doit être dénoncée comme une imposture qui sert à justifier des pratiques guerrières criminelles et dissimule le profond nihilisme de ceux qui s’en saisissent. « Le monde sera jugé par des enfants. L’esprit d’enfance va juger le monde.
+  * **Mots-clés:** [guerre](guerre), [mal](mal), [civilisation](civilisation)
 
 * * *
 
-  * **Article n°6:** La juste taille des villes avec Thierry Paquot et Patrick Boucheron
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/l-heure-philo/l-heure-philo-du-vendredi-20-septembre-2024-5934978>
-  * **Date de Publication:** Fri, 20 Sep 2024 18:09:10 +0000
-  * **Résumé:** Comment penser une ville à échelle humaine ? Qu'est ce qui fait "ville" ou "commune" ? Platon avec la ville et la campagne, Charles Fourier et sa cité idéale , Ernst Friedrich Schumacher et son concept "Small is Beautiful", Ebenezer Howard et sa cité-jardin, la" juste plénitude" recommandée par Lewis Mumford ou "l'ascèse volontaire et conviviale" proposée par Ivan Illich ou encore Le Corbusier et sa Cité radieuse.. ils sont nombreux à avoir pensé la ville à taille humaine loin de la ville productiviste. Dans "Mesure et démesure des villes" édité au Cnrs édition, l'architecte et philosophe de l'urbain Thierry Paquot aborde la question de la "juste taille" d'une ville et revisite ainsi la géohistoire des villes à partir de leurs dimensions, tant démographique que géographique, culturelle et environnementale, cela depuis Platon jusqu'aux utopistes en passant par les écovillages à "taille humaine" d'aujourd'hui.
-  * **Mots-clés:** [ville](ville), [histoire](histoire), [urbain](urbain)
+  * **Article n°5:** La sentience animale : "reconnaître des êtres pour mieux nous traiter nous mêmes"
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/a-la-source/a-la-source-chronique-du-samedi-21-septembre-2024-7957679>
+  * **Date de Publication:** Sat, 21 Sep 2024 06:16:00 +0000
+  * **Résumé:** Une révolution morale Le 19 avril était publiée la «Déclaration de New York sur la conscience animale », signée depuis par 480 chercheurs. Au cœur de cette déclaration, trois idées : d’abord, qu’il y a un consensus scientifique autour de l’attribution de conscience aux autres mammifères et aux oiseaux. Ensuite, qu’il existe une “possibilité réaliste” d’expérience consciente chez tous les autres vertébrés, reptiles , amphibiens, poissons, et même mollusques céphalopodes et insectes Nicolas.
+  * **Mots-clés:** [animal](animal), [conscience](conscience), [révolution](révolution)
 
 * * *
 
-  * **Article n°7:** Paul Cockshott, Une histoire du travail : de la Préhistoire au XXIe siècle / Franck Fischbach, Anne Merker, Pierre-Marie Morel et Emmanuel Renault (dir.), Histoire philosophique du travail
-  * **Lien:** <http://journals.openedition.org/asterion/8873>
+  * **Article n°6:** Delphine Antoine-Mahut, L’autorité d’un canon philosophique. Le cas Descartes
+  * **Lien:** <http://journals.openedition.org/asterion/10458>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** 1La rentrée 2022 a vu la parution en français de deux ouvrages traitant de l’histoire du travail sur la très longue période. Mis à part ce thème commun, tout oppose les deux livres – et on comprend mieux la spécificité de chacune de leurs approches en comparant les démarches et les moyens mis en œuvre. 2Le livre de Paul Cockshott est la traduction d’un ouvrage paru en 2019 sous le titre How the World Works. The Story of Human Labor from Prehistory to the Modern Day (New York, Monthly Review Press).
-  * **Mots-clés:** [travail](travail), [histoire](histoire), [philosophique](philosophique)
+  * **Résumé:** 1Pour décrire son approche dans cette étude, Delphine Antoine-Mahut utilise un apologue : lorsque nous retrouvons un objet du passé, par exemple la statue de Glaucus, nous reconnaissons les traits du personnage qu’elle représente, mais en même temps nous percevons ce que le temps et l’action de la mer ont déposé sur sa surface. Ce qui intéresse l’auteure n’est pas de mesurer l’écart entre ce que nous avons sous les yeux et la statue originale, mais de comprendre les événements qui l’ont rendue ce qu’elle est à présent. Hors de la métaphore, ce qui intéresse Antoine-Mahut, c’est d’analyser les différentes démarches que des auteurs contemporains, ou bien plus tardifs, ont entreprises afin de rendre canonique la philosophie de Descartes.
+  * **Mots-clés:** [Descartes](Descartes), [Regius](Regius), [Antoine](Antoine)
 
 * * *
 
-  * **Article n°8:** Les guerres de Religion au miroir des conflits antiques : François de Lorraine, duc de Guise, dans Les Essais de Montaigne
-  * **Lien:** <http://journals.openedition.org/asterion/10734>
+  * **Article n°7:** La guerre de Troie, matrice de la guerre de croisade
+  * **Lien:** <http://journals.openedition.org/asterion/10684>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** 1 M. de Montaigne, Les Essais, I, 1, J. Balsamo, M.
-  * **Mots-clés:** [Montaigne](Montaigne), [cit](cit), [voir](voir)
+  * **Résumé:** 1 Voir C. Beaune, « L’utilisation politique du mythe des origines troyennes en France à la fin du Mo (...) Voir C. Beaune, « L’utilisation politique du mythe des origines troyennes en France à la fin du Mo (...) 2 Voir Christine de Pizan, Le Livre des fais d’armes et de chevalerie, L.
+  * **Mots-clés:** [guerre](guerre), [Troie](Troie), [voir](voir)
 
 * * *
 
-  * **Article n°9:** Un pas de côté : les marxistes, Charles Fourier et l’utopie
-  * **Lien:** <http://journals.openedition.org/leportique/4612>
+  * **Article n°8:** Jean-Claude Quentel, Les fondements des sciences humaines, Érès, 2007
+  * **Lien:** <http://journals.openedition.org/leportique/1563>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** 1Gilles Gourbin a consacré l’essentiel de ses travaux aux Lumières, en particulier à Diderot et à l’Encyclopédie. Je voudrais ici présenter un autre aspect de ses recherches, certes marginal dans sa production, mais qui montre la variété de ses centres d’intérêt. 1 « La réception marxiste de Charles Fourier : l’héritage encombrant de l’utopie », Cahiers Charles F (...) 2En 2015, Gilles a publié un article sur « la réception marxiste de Charles Fourier » dans les Cahiers Charles Fourier, une revue publiée par l’Association d’études fouriéristes . Il connaissait ma participation aux activités de cette société savante, qui réunit des philosophes, des sociologues, des historiens, des spécialistes de littérature ou d’esthétique, etc.
-  * **Mots-clés:** [Fourier](Fourier), [marxiste](marxiste), [Charles](Charles)
+  * **Résumé:** 1Les sciences humaines se trouvent dans une phase extrêmement difficile : écartées dans le champ de la recherche par un mouvement cognitiviste qui se veut triomphant, elles sont à présent réfutées politiquement par nos gouvernants qui les accusent de ne pas répondre aux besoins du XXIème siècle. À l’université, elles subissent aujourd’hui une attaque sans précédent ; on ferme ouvertement les équipes d’accueil et leurs masters. La psychanalyse, qui est à présent l’objet d’une chasse aux sorcières aux USA, résiste en France de plus en plus difficilement aux coups de butoirs qu’elle reçoit.
+  * **Mots-clés:** [science](science), [humain](humain), [modèle](modèle)
 
 * * *
 
