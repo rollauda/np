@@ -6,27 +6,27 @@ date: 2024-09-29
 ---
 ## Actualités philosophiques
 
-  * **Article n°1:** Édouard Girard : Dostoïevski, ou la déraison dans l’histoire – ACTU PHILOSOPHIA
-  * **Lien:** <https://www.actu-philosophia.com/edouard-girard-dostoievski-ou-la-deraison-dans-lhistoire/>
-  * **Date de Publication:** Tue, 03 Sep 2024 07:52:34 +0000
-  * **Résumé:** Se procurer l’ouvrage Peut-on lire l’œuvre de Dostoïevski en philosophe ? Celle-ci, essentiellement littéraire et journalistique, contient-elle une authentique philosophie ? Édouard Girard répond par l’affirmative, en mettant en œuvre une telle lecture philosophique de Dostoïevski. L’angle sous lequel la question de la philosophie de Dostoïevski est celle de sa philosophie de l’histoire. L’hypothèse de l’auteur est que Dostoïevski a bien bâti une philosophie de l’histoire, qui répond et critique la philosophie de l’histoire de Hegel. Dostoïevski, comme Marx, Kierkegaard, Nietzsche, Heidegger, Rosenzweig, Lévinas et tant d’autres, chercherait une nouvelle voie « après Hegel[1]», contre Hegel. Pour étayer sa démonstration, Édouard Girard commence par restituer le contexte intellectuel de la Russie du XIXème siècle, pour attester de l’hégélianisme ambiant qui s’y était répandu et que Dostoïevski n’a pu ignorer[2].
-  * **Mots-clés:** [conscience](conscience), [Dostoïevski](Dostoïevski), [histoire](histoire)
+  * **Article n°1:** Natalie Depraz : La Surprise, Crise dans la pensée – ACTU PHILOSOPHIA
+  * **Lien:** <https://www.actu-philosophia.com/natalie-depraz-la-surprise-crise-dans-la-pensee/>
+  * **Date de Publication:** Sun, 29 Sep 2024 10:34:55 +0000
+  * **Résumé:** Se procurer l’ouvrage. Introduction Le dernier ouvrage en date de Natalie Depraz, paru aux éditions du Seuil en avril 2024, La Surprise, Crise dans la pensée, est un livre dont il faut écrire qu’il est hybride et extrêmement dense. Il s’agit d’une réflexion accessible qui permet d’introduire son lectorat à des questions qui pourraient paraître, au premier abord, générales, mais qui deviennent rapidement des questions essentielles et techniques. De sorte que, au moins jusqu’au premier tiers de la deuxième partie de l’ouvrage (les choses se complexifiant nécessairement pas la suite), l’ouvrage est une invitation à la réflexion sur un ton « presque » méditatif.
+  * **Mots-clés:** [surprise](surprise), [sujet](sujet), [monde](monde)
 
 * * *
 
-  * **Article n°2:** Recension – La pensée artistique. A propos de Rilke et de Rodin.
-  * **Lien:** <https://www.implications-philosophiques.org/recension-la-pensee-artistique-a-propos-de-rilke-et-de-rodin/>
-  * **Date de Publication:** Mon, 16 Sep 2024 07:00:39 +0000
-  * **Résumé:** Alexandre Jadin est diplômé d’un master en philosophie contemporaine à l’université Panthéon-Sorbonne. Ses recherches portent sur la phénoménologie contemporaine, et singulièrement sur les philosophies de Jan Patočka et de Michel Henry. Joaquim Hernandez-Dispaux, La pensée artistique. A propos de Rilke et de Rodin, Louvain-la-Neuve, Presse Universitaires de Louvain (coll.
-  * **Mots-clés:** [art](art), [auteur](auteur), [œuvre](œuvre)
+  * **Article n°2:** Le marché de la vertu. Critique de la consommation éthique
+  * **Lien:** <https://www.implications-philosophiques.org/recension-le-marche-de-la-vertu-critique-de-la-consommation-ethique/>
+  * **Date de Publication:** Mon, 09 Sep 2024 08:00:28 +0000
+  * **Résumé:** Camille Roelens est Maître de conférences HDR en philosophie de l’éducation à l’Université Claude Bernard Lyon 1, INSPE de la Loire, laboratoire Éducation, Cultures, Politiques. Il est co-président de la Société Francophone de Philosophie de l’Éducation. Il est spécialisé dans les domaines de la philosophie politique et morale et des théories de la démocratie dans une perspective pratique touchant aux enjeux contemporains d’éducation et de formation, mais aussi de la pensée de Tocqueville et de ses héritages et du thème de l’individualisme démocratique. Estelle Ferrarese, Le marché de la vertu.
+  * **Mots-clés:** [éthique](éthique), [critique](critique), [consommation](consommation)
 
 * * *
 
-  * **Article n°3:** Retour à la démocratie libérale
-  * **Lien:** <https://laviedesidees.fr/Justine-Lacroix-Les-valeurs-de-l-Europe>
+  * **Article n°3:** Hobbes avant Hobbes
+  * **Lien:** <https://laviedesidees.fr/Hobbes-Cavendish-Discours-sur-l-histoire>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** La démocratie libérale est menacée par une confusion sémantique entretenue par les populistes autour des notions mêmes de « démocratie » et de « libéralisme ». Refonder ce régime dans toute son exigence suppose une redéfinition rigoureuse. Justine Lacroix, professeur de philosophie à l’Université libre de Bruxelles (ULB), s’y attelle dans un petit ouvrage stimulant et salutaire, qui regroupe les quatre leçons qu’elle assura au Collège de France comme professeure invitée en 2023 dans le cadre du cycle « Europe ».
-  * **Mots-clés:** [démocratie](démocratie), [européen](européen), [Union](Union)
+  * **Résumé:** Le philosophe anglais Thomas Hobbes (1588-1679) est surtout connu pour sa pensée politique ainsi qu’il l’a exposée dans le Léviathan de 1651, écrit pendant les guerres civiles anglaises, qui avaient déchiré son pays natal depuis le début des années 1640. Hobbes, se trouvant en exil à Paris, y détaille la nécessité d’un souverain « absolu » auquel les sujets ont abandonné leur propre jugement. Sans un souverain reconnu comme seul possesseur du droit de vie et de mort, de légiférer et de juger, la paix civile ne sera jamais assurée. Aux débuts de la pensée hobbesienne Si c’est bien dans le Léviathan que cette théorie reçoit sa forme la plus achevée, Hobbes y consacre déjà des développements dans ses deux œuvres antérieures, Éléments de loi (1640) et Du Citoyen (1642).
+  * **Mots-clés:** [Hobbes](Hobbes), [politique](politique), [texte](texte)
 
 * * *
 
@@ -38,11 +38,11 @@ date: 2024-09-29
 
 * * *
 
-  * **Article n°5:** Rita Gombrowicz : « Pour Gombrowicz, tout écrivain est un exilé de l’intérieur
-  * **Lien:** [https://philitt.fr/2024/09/09/rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur/?utm_source=rss&utm;_medium=rss&utm;_campaign=rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur](https://philitt.fr/2024/09/09/rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur/?utm_source=rss&utm_medium=rss&utm_campaign=rita-gombrowicz-pour-gombrowicz-tout-ecrivain-est-un-exile-de-linterieur)
-  * **Date de Publication:** Mon, 09 Sep 2024 06:31:39 +0000
-  * **Résumé:** Bakakaï est un recueil de douze nouvelles et le premier ouvrage de Witold Gombrowicz. Il doit son titre énigmatique à la déformation du nom d’une rue en Argentine. Publié une première fois en 1933, il reçut une critique mitigée et Gombrowicz dut subir un procès en « immaturité ».
-  * **Mots-clés:** [Gombrowicz](Gombrowicz), [œuvre](œuvre), [polonais](polonais)
+  * **Article n°5:** Éditorial : faire la guerre à la guerre avec Charles Péguy – PHILITT
+  * **Lien:** [https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm;_medium=rss&utm;_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy](https://philitt.fr/2024/09/10/editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy/?utm_source=rss&utm_medium=rss&utm_campaign=editorial-faire-la-guerre-a-la-guerre-avec-charles-peguy)
+  * **Date de Publication:** Tue, 10 Sep 2024 06:48:11 +0000
+  * **Résumé:** [Cet article est paru initialement dans PHILITT #15] À la fin du dernier millénaire, les Occidentaux ont fait un rêve, un rêve absurde à bien des égards, celui de la « fin de l’histoire », expression rendue célèbre par un article publié en 1989 par Francis Fukuyama. Anticipant la chute de l’Union soviétique, le politologue américain voyait dans l’échec historique du communisme la fin des luttes idéologiques et le triomphe mondial à venir des démocraties libérales. Ce rêve aura peut-être duré une dizaine d’années, jusqu’aux attentats du 11 septembre 2001 qui constituent toujours à ce jour la plus grande attaque sur le sol américain contre des populations civiles.
+  * **Mots-clés:** [guerre](guerre), [Péguy](Péguy), [faire](faire)
 
 * * *
 
@@ -78,27 +78,27 @@ date: 2024-09-29
 
 * * *
 
-  * **Article n°10:** Giordano Bruno, Les Ombres des idées
-  * **Lien:** <http://journals.openedition.org/asterion/10423>
+  * **Article n°10:** Paul Cockshott, Une histoire du travail : de la Préhistoire au XXIe siècle / Franck Fischbach, Anne Merker, Pierre-Marie Morel et Emmanuel Renault (dir.), Histoire philosophique du travail
+  * **Lien:** <http://journals.openedition.org/asterion/8873>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** 1 Cité dans N. Tirinanzi, « Introduzione », dans G. Bruno, Opere mnemotecniche, Milan, Aelphi Edizio (...) 1Le De Umbris idearum, première œuvre connue de Giordano Bruno, fut publiée en 1582 à Paris, alors que Bruno délivre des leçons sur les arts mnémotechniques au Collège Royal.
-  * **Mots-clés:** [Bruno](Bruno), [image](image), [chose](chose)
+  * **Résumé:** 1La rentrée 2022 a vu la parution en français de deux ouvrages traitant de l’histoire du travail sur la très longue période. Mis à part ce thème commun, tout oppose les deux livres – et on comprend mieux la spécificité de chacune de leurs approches en comparant les démarches et les moyens mis en œuvre. 2Le livre de Paul Cockshott est la traduction d’un ouvrage paru en 2019 sous le titre How the World Works. The Story of Human Labor from Prehistory to the Modern Day (New York, Monthly Review Press).
+  * **Mots-clés:** [travail](travail), [histoire](histoire), [philosophique](philosophique)
 
 * * *
 
-  * **Article n°11:** Thil Ulenspiegel et Philippe II d’Espagne en Grande Guerre
-  * **Lien:** <http://journals.openedition.org/asterion/10854>
+  * **Article n°11:** Les guerres de Religion au miroir des conflits antiques : François de Lorraine, duc de Guise, dans Les Essais de Montaigne
+  * **Lien:** <http://journals.openedition.org/asterion/10734>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** 1 Parmi les adaptations : Till Eulenspiegels lustige Streiche, poème symphonique de Richard Strauss, (...) 1La légende d’Ulenspiegel a fait l’objet de nombreuses adaptations dans le temps et l’espace depuis la naissance de ce personnage en Allemagne au début du XVIe siècle. Le héros populaire de cette légende apparaît en effet dans bien des récits et des images, ainsi qu’à l’opéra, au théâtre et au cinéma . Dans une édition illustrée parue en France en 1866, l’avertissement du traducteur ayant travaillé à partir de la version allemande de l’histoire révélait déjà sa popularité internationale : 2 P.
-  * **Mots-clés:** [Ulenspiegel](Ulenspiegel), [coster](coster), [Légende](Légende)
+  * **Résumé:** 1 M. de Montaigne, Les Essais, I, 1, J. Balsamo, M.
+  * **Mots-clés:** [Montaigne](Montaigne), [cit](cit), [voir](voir)
 
 * * *
 
-  * **Article n°12:** HANSEN P., JONSSON S., Eurafrique. Aux origines coloniales de l’Union européenne, La Découverte, mai 2022
-  * **Lien:** <http://journals.openedition.org/leportique/4541>
+  * **Article n°12:** Un pas de côté : les marxistes, Charles Fourier et l’utopie
+  * **Lien:** <http://journals.openedition.org/leportique/4612>
   * **Date de Publication:** Date non disponible
-  * **Résumé:** 1N’était sa publication au moment du bouclage de ce numéro de notre revue, cet ouvrage nous aurait incité à plus de radicalité dans l’analyse. Car radical, il l’est, ce livre de deux chercheurs suédois, initialement paru en Anglais chez Bloomsbury en 2015. Ils ont fouillé minutieusement les archives historiques de l’Union européenne ainsi que celles de multiples bibliothèques de Stockholm à Nairobi, en passant par Paris ou Berlin, et le résultat de l’enquête est sans nuance aucune : il existe bien un lien direct entre la décolonisation et la création de l’union européenne ! Ainsi peut-on lire sur la quatrième de couverture : « Le projet eurafricain, un temps caressé par les régimes fascistes, renaît de ses cendres après 1945 et inspire les fondateurs de l’Europe.
-  * **Mots-clés:** [européen](européen), [Europe](Europe), [ouvrage](ouvrage)
+  * **Résumé:** 1Gilles Gourbin a consacré l’essentiel de ses travaux aux Lumières, en particulier à Diderot et à l’Encyclopédie. Je voudrais ici présenter un autre aspect de ses recherches, certes marginal dans sa production, mais qui montre la variété de ses centres d’intérêt. 1 « La réception marxiste de Charles Fourier : l’héritage encombrant de l’utopie », Cahiers Charles F (...) 2En 2015, Gilles a publié un article sur « la réception marxiste de Charles Fourier » dans les Cahiers Charles Fourier, une revue publiée par l’Association d’études fouriéristes . Il connaissait ma participation aux activités de cette société savante, qui réunit des philosophes, des sociologues, des historiens, des spécialistes de littérature ou d’esthétique, etc.
+  * **Mots-clés:** [Fourier](Fourier), [marxiste](marxiste), [Charles](Charles)
 
 * * *
 
