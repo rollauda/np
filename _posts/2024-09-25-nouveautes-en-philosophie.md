@@ -2,7 +2,7 @@
 layout: post
 title: "Liens (fr)"
 category: philosophie française
-date: 2024-09-23
+date: 2024-09-25
 ---
 ## Actualités philosophiques
 
@@ -46,11 +46,11 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°6:** Inoxtag : une ressource d’éducation morale ?
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/philosophie/la-chronique-philo-du-vendredi-20-septembre-2024-6854161>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:30:00 +0000
-  * **Résumé:** Petit rappel pour celles et ceux qui auraient passé une semaine au fond des bois, Inoxtag c’est le pseudo d’un youtubeur star de 22 ans et il y a un an, alors qu’il n’avait aucune expérience en montagne et en alpinisme, il a décidé de réaliser l’un de ses rêves : faire l’ascension de l’Everest. Le documentaire qui retrace cette aventure est sorti samedi dernier sur YouTube et approche déjà les 27 millions de vues. Et toute la semaine, Inoxtag a été très présent dans les médias, dès lundi dans la matinale d’Inter par exemple, pour expliquer son aventure. Et toute la semaine aussi, son aventure a subi plusieurs types de critique.
-  * **Mots-clés:** [ascension](ascension), [aventure](aventure), [écouter](écouter)
+  * **Article n°6:** L’art et l’amour, ou le merveilleux Eros des surréalistes : épisode 3/4 du podcast Le "Manifeste du surréalisme" a cent ans
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-art-et-l-amour-ou-le-merveilleux-eros-des-surrealistes-4320619>
+  * **Date de Publication:** Wed, 25 Sep 2024 08:00:00 +0000
+  * **Résumé:** Pour en parler Henri Béhar, Professeur émérite de littérature française à la Sorbonne Nouvelle, a dirigé le Centre de recherches sur le surréalisme depuis 1971 jusqu'à sa retraite, dirige la revue Mélusine. Il est l'auteur de : André Breton le grand indésirable (Classiques Garnier, nouvelle édition en 2024) Sous la direction d'Henri Béhar. Dictionnaire André Breton (Classiques Garnier, 2023) Lumières sur Maldoror (Classiques Garnier, 2023) Tristan Tzara (Oxus, 2008) Editeur des Oeuvres complètes d'Alfred Jarry aux éditions Classiques Garnier et des Oeuvres complètes de Tristan Tzara aux éditions Flammarion Le théâtre dada et surréaliste (Gallimard, 1967) Annie Richard, Agrégée de lettres modernes, enseignement au lycée La Bruyère à Versailles et à Paris III Sorbonne Nouvelle.
+  * **Mots-clés:** [Classiques](Classiques), [Garnier](Garnier), [édition](édition)
 
 * * *
 

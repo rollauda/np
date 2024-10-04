@@ -2,7 +2,7 @@
 layout: post
 title: "Liens (fr)"
 category: philosophie française
-date: 2024-09-23
+date: 2024-09-27
 ---
 ## Actualités philosophiques
 
@@ -46,23 +46,31 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°6:** Inoxtag : une ressource d’éducation morale ?
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/philosophie/la-chronique-philo-du-vendredi-20-septembre-2024-6854161>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:30:00 +0000
-  * **Résumé:** Petit rappel pour celles et ceux qui auraient passé une semaine au fond des bois, Inoxtag c’est le pseudo d’un youtubeur star de 22 ans et il y a un an, alors qu’il n’avait aucune expérience en montagne et en alpinisme, il a décidé de réaliser l’un de ses rêves : faire l’ascension de l’Everest. Le documentaire qui retrace cette aventure est sorti samedi dernier sur YouTube et approche déjà les 27 millions de vues. Et toute la semaine, Inoxtag a été très présent dans les médias, dès lundi dans la matinale d’Inter par exemple, pour expliquer son aventure. Et toute la semaine aussi, son aventure a subi plusieurs types de critique.
-  * **Mots-clés:** [ascension](ascension), [aventure](aventure), [écouter](écouter)
+  * **Article n°6:** L’art et l’amour, ou l'Éros des surréalistes : épisode 3/4 du podcast Le "Manifeste du surréalisme" a cent ans
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-art-et-l-amour-ou-l-eros-des-surrealistes-6338854>
+  * **Date de Publication:** Wed, 25 Sep 2024 08:00:00 +0000
+  * **Résumé:** L’amour fou surréaliste : l’importance de l’amour et du désir Les surréalistes donnent une place centrale à l’amour dans leurs œuvres. Comme le précise Henri Béhar, “le marxisme considère l'évolution de l'humanité, la société, le combat de la société, la libération, mais il ne mentionne pas l'amour. Or, c'est la partie que les surréalistes, individuellement ou collectivement, vont traiter le plus souvent”.
+  * **Mots-clés:** [surréaliste](surréaliste), [femme](femme), [amour](amour)
 
 * * *
 
-  * **Article n°7:** Pourquoi parler de violence politique aujourd’hui ? Réflexions philosophiques
-  * **Lien:** <https://unphilosophe.com/2024/09/16/pourquoi-parler-de-violence-politique-aujourdhui-reflexions-philosophiques/>
-  * **Date de Publication:** Mon, 16 Sep 2024 08:42:54 +0000
-  * **Résumé:** L’article analyse la violence politique d’un point de vue philosophique, en explorant des concepts tels que la légitimité, la résistance et les implications éthiques d’une telle violence dans l’arène politique. Divers courants philosophiques qui abordent ce phénomène, du contractualisme à l’existentialisme, sont examinés, soulignant comment chacun offre une lentille unique à travers laquelle comprendre et évaluer la violence politique. Il est soutenu que bien que la violence puisse être un outil de résistance légitime dans certains contextes, son exercice soulève des dilemmes éthiques et moraux qui nécessitent une analyse minutieuse et réfléchie. La violence engendre la violence La violence politique, d’un point de vue philosophique, a fait l’objet d’intenses débats tout au long de l’histoire.
-  * **Mots-clés:** [violence](violence), [politique](politique), [guerre](guerre)
+  * **Article n°7:** Entretien avec Nicolas Grenier : « Voltaire est l’archétype du bourgeois du XVIIIe siècle qui prend l’ascenseur social »
+  * **Lien:** <https://unphilosophe.com/2024/09/25/entretien-avec-nicolas-grenier-voltaire-est-larchetype-du-bourgeois-du-xviiie-siecle-qui-prend-lascenseur-social/>
+  * **Date de Publication:** Wed, 25 Sep 2024 15:49:23 +0000
+  * **Résumé:** Nicolas Grenier est un touche-à-tout. Homme de lettres, c’est à la poésie qu’il a consacré la majeure partie de son temps. Auteur d’une quinzaine de livres tous autant différents les uns que les autres, il offre à la collection Dunod « à la plage », un ouvrage à Voltaire.
+  * **Mots-clés:** [Voltaire](Voltaire), [français](français), [Arouet](Arouet)
 
 * * *
 
-  * **Article n°8:** Giordano Bruno, Les Ombres des idées
+  * **Article n°8:** oeil de minerve ISSN 2267-9243
+  * **Lien:** <http://blog.ac-versailles.fr/oeildeminerve/index.php/post/13/09/2023/Laurent-Awono%2C-La-M%C3%A9thode-de-la-dissertation-en-cartes-mentales%2C-Ellipses%2C-2023>
+  * **Date de Publication:** Fri, 27 Sep 2024 06:00:00 +0200
+  * **Résumé:** L’Œil de Minerve se diversifie. Notre veille philosophique emprunte désormais deux voies : celle des recensions et celle des entretiens. Nous donnerons la parole à des chercheurs en philosophie, et mettrons en lumière la genèse de leur démarche, de leurs concepts, l’évolution de leur travail, la façon dont les recherches philosophiques au plus près des textes éclairent notre commune réalité. APPEL À CONTRIBUTIONS Vous souhaitez proposer votre contribution à l’Œil de Minerve ? Faites-en la demande à l’éditeur au nom de l ' Œil ! LISTE DES NOUVEAUTÉS PRINTEMPS 2024 >> ACCEDER À LA LISTE DES OUVRAGES A RECENSER >>.
+  * **Mots-clés:** [Œil](Œil), [minerve](minerve), [philosophique](philosophique)
+
+* * *
+
+  * **Article n°9:** Giordano Bruno, Les Ombres des idées
   * **Lien:** <http://journals.openedition.org/asterion/10423>
   * **Date de Publication:** Date non disponible
   * **Résumé:** 1 Cité dans N. Tirinanzi, « Introduzione », dans G. Bruno, Opere mnemotecniche, Milan, Aelphi Edizio (...) 1Le De Umbris idearum, première œuvre connue de Giordano Bruno, fut publiée en 1582 à Paris, alors que Bruno délivre des leçons sur les arts mnémotechniques au Collège Royal.
@@ -70,7 +78,7 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°9:** Thil Ulenspiegel et Philippe II d’Espagne en Grande Guerre
+  * **Article n°10:** Thil Ulenspiegel et Philippe II d’Espagne en Grande Guerre
   * **Lien:** <http://journals.openedition.org/asterion/10854>
   * **Date de Publication:** Date non disponible
   * **Résumé:** 1 Parmi les adaptations : Till Eulenspiegels lustige Streiche, poème symphonique de Richard Strauss, (...) 1La légende d’Ulenspiegel a fait l’objet de nombreuses adaptations dans le temps et l’espace depuis la naissance de ce personnage en Allemagne au début du XVIe siècle. Le héros populaire de cette légende apparaît en effet dans bien des récits et des images, ainsi qu’à l’opéra, au théâtre et au cinéma . Dans une édition illustrée parue en France en 1866, l’avertissement du traducteur ayant travaillé à partir de la version allemande de l’histoire révélait déjà sa popularité internationale : 2 P.
@@ -78,7 +86,7 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°10:** HANSEN P., JONSSON S., Eurafrique. Aux origines coloniales de l’Union européenne, La Découverte, mai 2022
+  * **Article n°11:** HANSEN P., JONSSON S., Eurafrique. Aux origines coloniales de l’Union européenne, La Découverte, mai 2022
   * **Lien:** <http://journals.openedition.org/leportique/4541>
   * **Date de Publication:** Date non disponible
   * **Résumé:** 1N’était sa publication au moment du bouclage de ce numéro de notre revue, cet ouvrage nous aurait incité à plus de radicalité dans l’analyse. Car radical, il l’est, ce livre de deux chercheurs suédois, initialement paru en Anglais chez Bloomsbury en 2015. Ils ont fouillé minutieusement les archives historiques de l’Union européenne ainsi que celles de multiples bibliothèques de Stockholm à Nairobi, en passant par Paris ou Berlin, et le résultat de l’enquête est sans nuance aucune : il existe bien un lien direct entre la décolonisation et la création de l’union européenne ! Ainsi peut-on lire sur la quatrième de couverture : « Le projet eurafricain, un temps caressé par les régimes fascistes, renaît de ses cendres après 1945 et inspire les fondateurs de l’Europe.

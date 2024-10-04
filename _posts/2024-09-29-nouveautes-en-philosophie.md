@@ -2,7 +2,7 @@
 layout: post
 title: "Liens (fr)"
 category: philosophie française
-date: 2024-09-23
+date: 2024-09-29
 ---
 ## Actualités philosophiques
 
@@ -30,11 +30,11 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°4:** Portraits de résistantes
-  * **Lien:** <https://www.nonfiction.fr/article-12130-portraits-de-resistantes.htm>
-  * **Date de Publication:** Sat, 14 Sep 2024 08:00:00 +0000
-  * **Résumé:** Un beau livre sur ces femmes qui furent les héroïnes de la Résistance et de la Libération, et dont l’histoire ne parle pas assez. À Paris, de simples noms sur des plaques commémoratives attirent l’attention du promeneur attentif. Ces noms de femmes rappellent toutes celles qui, dans l’ombre, ont contribué à libérer Paris durant la Seconde Guerre mondiale. Beaucoup sont oubliées, effacées de la mémoire collective d’une Europe qui, pourtant, leur doit tant.
-  * **Mots-clés:** [femme](femme), [Résistance](Résistance), [rappeler](rappeler)
+  * **Article n°4:** Valoriser les bandes dessinées et les mangas en bibliothèque
+  * **Lien:** <https://www.nonfiction.fr/article-12150-valoriser-les-bandes-dessinees-et-les-mangas-en-bibliotheque.htm>
+  * **Date de Publication:** Thu, 26 Sep 2024 08:00:00 +0000
+  * **Résumé:** Un ouvrage collectif invite les bibliothécaires à mieux appréhender la diversité de l’offre de bandes dessinées, ses possibilités de médiation ainsi que les partenariats potentiels pour la valoriser. * Ce texte est extrait du « Mode d’emploi » introductif du livre. La question de la légitimité de la bande dessinée, que cela soit au sein de la société française ou des bibliothèques, est désormais derrière nous. Sociologues, historiens et spécialistes de la bande dessinée ont enregistré la progression de sa reconnaissance depuis les années 1960. De « la constitution de son champ » étudiée par Luc Boltanski au mitan des années 1970 à sa « reconnaissance en demi-teinte » constatée par Eric Maigret dans les années 1990 en passant par « la majorité des arts mineurs » et à l’émergence d’un « art de la bande dessinée » pour Pascal Ory, il est désormais possible de parler, pour reprendre les termes de Thierry Groensteen, d’un « tournant » pour la bande dessinée, aux manifestations plurielles en termes de format de publication, de visibilité médiatique ou de patrimonialisation. La relation entre bandes dessinées et bibliothèques est largement positive comme l’avait confirmé une grande enquête sur son lectorat en date de 2011.
+  * **Mots-clés:** [band](band), [dessinée](dessinée), [bibliothèque](bibliothèque)
 
 * * *
 
@@ -46,23 +46,39 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°6:** Inoxtag : une ressource d’éducation morale ?
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/philosophie/la-chronique-philo-du-vendredi-20-septembre-2024-6854161>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:30:00 +0000
-  * **Résumé:** Petit rappel pour celles et ceux qui auraient passé une semaine au fond des bois, Inoxtag c’est le pseudo d’un youtubeur star de 22 ans et il y a un an, alors qu’il n’avait aucune expérience en montagne et en alpinisme, il a décidé de réaliser l’un de ses rêves : faire l’ascension de l’Everest. Le documentaire qui retrace cette aventure est sorti samedi dernier sur YouTube et approche déjà les 27 millions de vues. Et toute la semaine, Inoxtag a été très présent dans les médias, dès lundi dans la matinale d’Inter par exemple, pour expliquer son aventure. Et toute la semaine aussi, son aventure a subi plusieurs types de critique.
-  * **Mots-clés:** [ascension](ascension), [aventure](aventure), [écouter](écouter)
+  * **Article n°6:** L’art et l’amour, ou l'Éros des surréalistes : épisode 3/4 du podcast Le "Manifeste du surréalisme" a cent ans
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-art-et-l-amour-ou-l-eros-des-surrealistes-6338854>
+  * **Date de Publication:** Wed, 25 Sep 2024 08:00:00 +0000
+  * **Résumé:** L’amour fou surréaliste : l’importance de l’amour et du désir Les surréalistes donnent une place centrale à l’amour dans leurs œuvres. Comme le précise Henri Béhar, “le marxisme considère l'évolution de l'humanité, la société, le combat de la société, la libération, mais il ne mentionne pas l'amour. Or, c'est la partie que les surréalistes, individuellement ou collectivement, vont traiter le plus souvent”.
+  * **Mots-clés:** [surréaliste](surréaliste), [femme](femme), [amour](amour)
 
 * * *
 
-  * **Article n°7:** Pourquoi parler de violence politique aujourd’hui ? Réflexions philosophiques
-  * **Lien:** <https://unphilosophe.com/2024/09/16/pourquoi-parler-de-violence-politique-aujourdhui-reflexions-philosophiques/>
-  * **Date de Publication:** Mon, 16 Sep 2024 08:42:54 +0000
-  * **Résumé:** L’article analyse la violence politique d’un point de vue philosophique, en explorant des concepts tels que la légitimité, la résistance et les implications éthiques d’une telle violence dans l’arène politique. Divers courants philosophiques qui abordent ce phénomène, du contractualisme à l’existentialisme, sont examinés, soulignant comment chacun offre une lentille unique à travers laquelle comprendre et évaluer la violence politique. Il est soutenu que bien que la violence puisse être un outil de résistance légitime dans certains contextes, son exercice soulève des dilemmes éthiques et moraux qui nécessitent une analyse minutieuse et réfléchie. La violence engendre la violence La violence politique, d’un point de vue philosophique, a fait l’objet d’intenses débats tout au long de l’histoire.
-  * **Mots-clés:** [violence](violence), [politique](politique), [guerre](guerre)
+  * **Article n°7:** Entretien avec Nicolas Grenier : « Voltaire est l’archétype du bourgeois du XVIIIe siècle qui prend l’ascenseur social »
+  * **Lien:** <https://unphilosophe.com/2024/09/25/entretien-avec-nicolas-grenier-voltaire-est-larchetype-du-bourgeois-du-xviiie-siecle-qui-prend-lascenseur-social/>
+  * **Date de Publication:** Wed, 25 Sep 2024 15:49:23 +0000
+  * **Résumé:** Nicolas Grenier est un touche-à-tout. Homme de lettres, c’est à la poésie qu’il a consacré la majeure partie de son temps. Auteur d’une quinzaine de livres tous autant différents les uns que les autres, il offre à la collection Dunod « à la plage », un ouvrage à Voltaire.
+  * **Mots-clés:** [Voltaire](Voltaire), [français](français), [Arouet](Arouet)
 
 * * *
 
-  * **Article n°8:** Giordano Bruno, Les Ombres des idées
+  * **Article n°8:** oeil de minerve ISSN 2267-9243
+  * **Lien:** <http://blog.ac-versailles.fr/oeildeminerve/index.php/post/13/09/2023/Laurent-Awono%2C-La-M%C3%A9thode-de-la-dissertation-en-cartes-mentales%2C-Ellipses%2C-2023>
+  * **Date de Publication:** Fri, 27 Sep 2024 06:00:00 +0200
+  * **Résumé:** L’Œil de Minerve se diversifie. Notre veille philosophique emprunte désormais deux voies : celle des recensions et celle des entretiens. Nous donnerons la parole à des chercheurs en philosophie, et mettrons en lumière la genèse de leur démarche, de leurs concepts, l’évolution de leur travail, la façon dont les recherches philosophiques au plus près des textes éclairent notre commune réalité. APPEL À CONTRIBUTIONS Vous souhaitez proposer votre contribution à l’Œil de Minerve ? Faites-en la demande à l’éditeur au nom de l ' Œil ! LISTE DES NOUVEAUTÉS PRINTEMPS 2024 >> ACCEDER À LA LISTE DES OUVRAGES A RECENSER >>.
+  * **Mots-clés:** [Œil](Œil), [minerve](minerve), [philosophique](philosophique)
+
+* * *
+
+  * **Article n°9:** L’inéptie féministe
+  * **Lien:** <https://iphilo.fr/2024/09/29/lineptie-feministe-stephane-braconnier/>
+  * **Date de Publication:** Sun, 29 Sep 2024 15:50:00 +0000
+  * **Résumé:** 29/09/2024 | par Stéphane Braconnier | dans Politique TRIBUNE : Le féminisme constitue une idéologie qui est aujourd’hui au cœur des débats de société. Selon Stéphane Braconnier, elle repose sur une fallacieuse égalité entre l’homme et la femme que la biologie ne saurait consacrer : Outre de remettre en cause les fondements de notre société avec la promotion de l’écriture inclusive, le mouvement féministe aurait pris une ampleur à même de renverser les valeurs, les hommes devenant le sexe faible. Mais cette fausse égalité se retournerait finalement contre les femmes, ce nouveau sexe fort, avec l’émergence de la trans-identité. Diplômé en Philosophie de l’Université Panthéon-Sorbonne et en Droit de l’Université Pascal Paoli, ancien journaliste, ancien entrepreneur, Stéphane Braconnier est professeur de Philosophie depuis 2013, en poste dans l’académie d’Ajaccio puis celle de Nantes.
+  * **Mots-clés:** [homme](homme), [femme](femme), [masculin](masculin)
+
+* * *
+
+  * **Article n°10:** Giordano Bruno, Les Ombres des idées
   * **Lien:** <http://journals.openedition.org/asterion/10423>
   * **Date de Publication:** Date non disponible
   * **Résumé:** 1 Cité dans N. Tirinanzi, « Introduzione », dans G. Bruno, Opere mnemotecniche, Milan, Aelphi Edizio (...) 1Le De Umbris idearum, première œuvre connue de Giordano Bruno, fut publiée en 1582 à Paris, alors que Bruno délivre des leçons sur les arts mnémotechniques au Collège Royal.
@@ -70,7 +86,7 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°9:** Thil Ulenspiegel et Philippe II d’Espagne en Grande Guerre
+  * **Article n°11:** Thil Ulenspiegel et Philippe II d’Espagne en Grande Guerre
   * **Lien:** <http://journals.openedition.org/asterion/10854>
   * **Date de Publication:** Date non disponible
   * **Résumé:** 1 Parmi les adaptations : Till Eulenspiegels lustige Streiche, poème symphonique de Richard Strauss, (...) 1La légende d’Ulenspiegel a fait l’objet de nombreuses adaptations dans le temps et l’espace depuis la naissance de ce personnage en Allemagne au début du XVIe siècle. Le héros populaire de cette légende apparaît en effet dans bien des récits et des images, ainsi qu’à l’opéra, au théâtre et au cinéma . Dans une édition illustrée parue en France en 1866, l’avertissement du traducteur ayant travaillé à partir de la version allemande de l’histoire révélait déjà sa popularité internationale : 2 P.
@@ -78,7 +94,7 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°10:** HANSEN P., JONSSON S., Eurafrique. Aux origines coloniales de l’Union européenne, La Découverte, mai 2022
+  * **Article n°12:** HANSEN P., JONSSON S., Eurafrique. Aux origines coloniales de l’Union européenne, La Découverte, mai 2022
   * **Lien:** <http://journals.openedition.org/leportique/4541>
   * **Date de Publication:** Date non disponible
   * **Résumé:** 1N’était sa publication au moment du bouclage de ce numéro de notre revue, cet ouvrage nous aurait incité à plus de radicalité dans l’analyse. Car radical, il l’est, ce livre de deux chercheurs suédois, initialement paru en Anglais chez Bloomsbury en 2015. Ils ont fouillé minutieusement les archives historiques de l’Union européenne ainsi que celles de multiples bibliothèques de Stockholm à Nairobi, en passant par Paris ou Berlin, et le résultat de l’enquête est sans nuance aucune : il existe bien un lien direct entre la décolonisation et la création de l’union européenne ! Ainsi peut-on lire sur la quatrième de couverture : « Le projet eurafricain, un temps caressé par les régimes fascistes, renaît de ses cendres après 1945 et inspire les fondateurs de l’Europe.

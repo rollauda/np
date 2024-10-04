@@ -2,7 +2,7 @@
 layout: post
 title: "Liens (fr)"
 category: philosophie française
-date: 2024-09-23
+date: 2024-09-26
 ---
 ## Actualités philosophiques
 
@@ -46,19 +46,19 @@ date: 2024-09-23
 
 * * *
 
-  * **Article n°6:** Inoxtag : une ressource d’éducation morale ?
-  * **Lien:** <https://www.radiofrance.fr/franceinter/podcasts/philosophie/la-chronique-philo-du-vendredi-20-septembre-2024-6854161>
-  * **Date de Publication:** Fri, 20 Sep 2024 08:30:00 +0000
-  * **Résumé:** Petit rappel pour celles et ceux qui auraient passé une semaine au fond des bois, Inoxtag c’est le pseudo d’un youtubeur star de 22 ans et il y a un an, alors qu’il n’avait aucune expérience en montagne et en alpinisme, il a décidé de réaliser l’un de ses rêves : faire l’ascension de l’Everest. Le documentaire qui retrace cette aventure est sorti samedi dernier sur YouTube et approche déjà les 27 millions de vues. Et toute la semaine, Inoxtag a été très présent dans les médias, dès lundi dans la matinale d’Inter par exemple, pour expliquer son aventure. Et toute la semaine aussi, son aventure a subi plusieurs types de critique.
-  * **Mots-clés:** [ascension](ascension), [aventure](aventure), [écouter](écouter)
+  * **Article n°6:** L’art et l’amour, ou le merveilleux Eros des surréalistes : épisode 3/4 du podcast Le "Manifeste du surréalisme" a cent ans
+  * **Lien:** <https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-art-et-l-amour-ou-le-merveilleux-eros-des-surrealistes-4320619>
+  * **Date de Publication:** Wed, 25 Sep 2024 08:00:00 +0000
+  * **Résumé:** L’amour fou surréaliste : l’importance de l’amour et du désir Les surréalistes donnent une place centrale à l’amour dans leurs œuvres. Comme le précise Henri Béhar, “le marxisme considère l'évolution de l'humanité, la société, le combat de la société, la libération, mais il ne mentionne pas l'amour. Or, c'est la partie que les surréalistes, individuellement ou collectivement, vont traiter le plus souvent”.
+  * **Mots-clés:** [surréaliste](surréaliste), [femme](femme), [amour](amour)
 
 * * *
 
-  * **Article n°7:** Pourquoi parler de violence politique aujourd’hui ? Réflexions philosophiques
-  * **Lien:** <https://unphilosophe.com/2024/09/16/pourquoi-parler-de-violence-politique-aujourdhui-reflexions-philosophiques/>
-  * **Date de Publication:** Mon, 16 Sep 2024 08:42:54 +0000
-  * **Résumé:** L’article analyse la violence politique d’un point de vue philosophique, en explorant des concepts tels que la légitimité, la résistance et les implications éthiques d’une telle violence dans l’arène politique. Divers courants philosophiques qui abordent ce phénomène, du contractualisme à l’existentialisme, sont examinés, soulignant comment chacun offre une lentille unique à travers laquelle comprendre et évaluer la violence politique. Il est soutenu que bien que la violence puisse être un outil de résistance légitime dans certains contextes, son exercice soulève des dilemmes éthiques et moraux qui nécessitent une analyse minutieuse et réfléchie. La violence engendre la violence La violence politique, d’un point de vue philosophique, a fait l’objet d’intenses débats tout au long de l’histoire.
-  * **Mots-clés:** [violence](violence), [politique](politique), [guerre](guerre)
+  * **Article n°7:** Entretien avec Nicolas Grenier : « Voltaire est l’archétype du bourgeois du XVIIIe siècle qui prend l’ascenseur social »
+  * **Lien:** <https://unphilosophe.com/2024/09/25/entretien-avec-nicolas-grenier-voltaire-est-larchetype-du-bourgeois-du-xviiie-siecle-qui-prend-lascenseur-social/>
+  * **Date de Publication:** Wed, 25 Sep 2024 15:49:23 +0000
+  * **Résumé:** Nicolas Grenier est un touche-à-tout. Homme de lettres, c’est à la poésie qu’il a consacré la majeure partie de son temps. Auteur d’une quinzaine de livres tous autant différents les uns que les autres, il offre à la collection Dunod « à la plage », un ouvrage à Voltaire.
+  * **Mots-clés:** [Voltaire](Voltaire), [français](français), [Arouet](Arouet)
 
 * * *
 
